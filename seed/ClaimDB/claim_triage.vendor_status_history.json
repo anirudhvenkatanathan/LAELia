@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6a4b8857a07428bf6bfba556"
+  },
+  "historyId": "f7eb99f8-fb5b-4dfc-abbf-e7208723dbce",
+  "vendorId": "d82df70a-10f9-44bd-ad5c-f59ea554fd0d",
+  "action": "Suspended",
+  "reason": "test",
+  "remarks": "",
+  "performedBy": "claimsmanager",
+  "performedAt": {
+    "$date": "2026-07-06T10:49:59.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4ccd229e84040d4742bc14"
+  },
+  "historyId": "34a0c2b2-20d9-4935-a924-8ea416fd4e3e",
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "action": "Activated",
+  "reason": "",
+  "remarks": "",
+  "performedBy": "claimsmanager",
+  "performedAt": {
+    "$date": "2026-07-07T09:55:46.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5769bc125591fca7e287c9"
+  },
+  "historyId": "2ce99d89-e44f-40ed-bc22-f00e881c2954",
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "action": "Activated",
+  "reason": "",
+  "remarks": "",
+  "performedBy": "claimssupervisor",
+  "performedAt": {
+    "$date": "2026-07-15T11:06:36.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5f30d12424815ab917943b"
+  },
+  "historyId": "96d24cf3-dc09-4fe7-a180-6464de92487e",
+  "vendorId": "d82df70a-10f9-44bd-ad5c-f59ea554fd0d",
+  "action": "Reactivated",
+  "reason": "",
+  "remarks": "",
+  "performedBy": "claimssupervisor",
+  "performedAt": {
+    "$date": "2026-07-21T08:41:53.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6355bde4346417df4dbdc4"
+  },
+  "historyId": "21b92dbd-15e6-4955-b0ea-077b0f2f3144",
+  "vendorId": "6841a101f1a23c0012345684",
+  "action": "Reactivated",
+  "reason": "",
+  "remarks": "",
+  "performedBy": "claimssupervisor",
+  "performedAt": {
+    "$date": "2026-07-24T12:08:29.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a636fbf0a894b690266dc8f"
+  },
+  "historyId": "9bf67e35-434e-4f15-93d8-7ade97827e28",
+  "vendorId": "49f8b5cf-7bf2-4731-9e82-c86a53dda41e",
+  "action": "Activated",
+  "reason": "",
+  "remarks": "Activated with Priority Boost",
+  "performedBy": "claimssupervisor",
+  "performedAt": {
+    "$date": "2026-07-24T13:59:27.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a636fc90a894b690266dcae"
+  },
+  "historyId": "6d77b915-5a97-4c03-ab5e-b8c4e88c4114",
+  "vendorId": "c26ca703-e58f-4942-bffe-3b4a57eb34a2",
+  "action": "Activated",
+  "reason": "",
+  "remarks": "Activated without Priority Boost",
+  "performedBy": "claimssupervisor",
+  "performedAt": {
+    "$date": "2026-07-24T13:59:37.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6373240a894b690266dd2c"
+  },
+  "historyId": "d8d4b41d-056e-460c-9c84-2eb457cf0e7d",
+  "vendorId": "6841a101f1a23c0012345684",
+  "action": "Suspended",
+  "reason": "Suspended",
+  "remarks": "",
+  "performedBy": "claimssupervisor",
+  "performedAt": {
+    "$date": "2026-07-24T14:13:56.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ac5cdbe4135b7642286d1"
+  },
+  "historyId": "f2b41320-ef64-4356-bcb2-3bdd7ec2d2f0",
+  "vendorId": "6841a101f1a23c0012345424",
+  "action": "Suspended",
+  "reason": "Vendor Suspended as Requalification not done",
+  "remarks": "",
+  "performedBy": "System",
+  "performedAt": {
+    "$date": "2026-08-11T06:48:45.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ac5cdbe4135b7642286d2"
+  },
+  "historyId": "e132c0b1-1dce-46c3-a348-461cdebe6f92",
+  "vendorId": "6841a101f1a23c0012345434",
+  "action": "Suspended",
+  "reason": "Vendor Suspended as Requalification not done",
+  "remarks": "",
+  "performedBy": "System",
+  "performedAt": {
+    "$date": "2026-08-11T06:48:45.076Z"
+  },
+  "__v": 0
+}]

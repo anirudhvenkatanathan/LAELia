@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6a350cf41798638fb805ef41"
+  },
+  "auditId": "7944a8f4-660b-44e6-8509-0b8939ae203c",
+  "ruleId": "0a76721d-5b36-4055-95d2-408f6a1a3737",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-19T09:33:40.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350d141798638fb805ef48"
+  },
+  "auditId": "3cc237b5-9bf6-4e55-adec-7b45cfc5755f",
+  "ruleId": "0a76721d-5b36-4055-95d2-408f6a1a3737",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-19T09:34:12.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350d781798638fb805ef4d"
+  },
+  "auditId": "0784190b-2a2e-423e-a7aa-a508fe720f93",
+  "ruleId": "8addd2b2-f638-4d8d-a7b7-ab2f1a40bdad",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-19T09:35:52.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350da51798638fb805ef54"
+  },
+  "auditId": "9b01dfb0-fdcb-443f-a40e-a4aa9db34535",
+  "ruleId": "12b89989-738b-474a-9dce-0a8b05511491",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-19T09:36:37.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350dc41798638fb805ef5b"
+  },
+  "auditId": "a0807b86-9be1-43c0-b920-e39203afb380",
+  "ruleId": "ee0704b7-9513-4fa7-9784-bc931541d808",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-19T09:37:08.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350de61798638fb805ef62"
+  },
+  "auditId": "3bbfaba9-3b19-4980-8b01-a2eec2ddca8b",
+  "ruleId": "afbd89d3-e573-4d42-b3c8-9f504b92b912",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-19T09:37:42.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350e081798638fb805ef69"
+  },
+  "auditId": "7b57e091-e59f-48b2-b8bd-9a94406777d3",
+  "ruleId": "b8979d4a-5583-47de-9349-94f8186583af",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-19T09:38:16.076Z"
+  },
+  "__v": 0
+}]

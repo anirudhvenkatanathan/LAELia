@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6a350d781798638fb805ef4b"
+  },
+  "ruleId": "8addd2b2-f638-4d8d-a7b7-ab2f1a40bdad",
+  "name": "Conflict Check",
+  "category": "Compliance",
+  "description": "Prevents vendor assignment when conflict of interest is detected.",
+  "status": "Active",
+  "conditions": "IF vendor.conflict_flag = TRUE THEN exclude vendor",
+  "createdBy": "Admin",
+  "createdOn": {
+    "$date": "2026-06-19T09:35:52.300Z"
+  },
+  "updatedBy": "Admin",
+  "updatedOn": {
+    "$date": "2026-06-19T09:35:52.300Z"
+  },
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350da51798638fb805ef52"
+  },
+  "ruleId": "12b89989-738b-474a-9dce-0a8b05511491",
+  "name": "Geographic Eligibility",
+  "category": "Coverage",
+  "description": "Restricts vendor selection based on service area coverage.",
+  "status": "Active",
+  "conditions": "IF vendor.states CONTAINS claim.state THEN include vendor",
+  "createdBy": "Admin",
+  "createdOn": {
+    "$date": "2026-06-19T09:36:37.777Z"
+  },
+  "updatedBy": "Admin",
+  "updatedOn": {
+    "$date": "2026-06-19T09:36:37.777Z"
+  },
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350dc41798638fb805ef59"
+  },
+  "ruleId": "ee0704b7-9513-4fa7-9784-bc931541d808",
+  "name": "Capacity Limit",
+  "category": "Capacity",
+  "description": "Limits vendor selection when capacity exceeds threshold.",
+  "status": "Active",
+  "conditions": "IF vendor.utilization > 80% THEN exclude vendor",
+  "createdBy": "Admin",
+  "createdOn": {
+    "$date": "2026-06-19T09:37:08.564Z"
+  },
+  "updatedBy": "Admin",
+  "updatedOn": {
+    "$date": "2026-06-19T09:37:08.564Z"
+  },
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350de61798638fb805ef60"
+  },
+  "ruleId": "afbd89d3-e573-4d42-b3c8-9f504b92b912",
+  "name": "KPI Sort",
+  "category": "Ranking",
+  "description": "Sorts eligible vendors by KPI performance score.",
+  "status": "Active",
+  "conditions": "ORDER BY vendor.kpi_score DESC",
+  "createdBy": "Admin",
+  "createdOn": {
+    "$date": "2026-06-19T09:37:42.276Z"
+  },
+  "updatedBy": "Admin",
+  "updatedOn": {
+    "$date": "2026-06-19T09:37:42.276Z"
+  },
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a350e081798638fb805ef67"
+  },
+  "ruleId": "b8979d4a-5583-47de-9349-94f8186583af",
+  "name": "ROI Threshold",
+  "category": "Financial",
+  "description": "Excludes vendors below ROI threshold.",
+  "status": "Active",
+  "conditions": "IF vendor.roi >= 30% THEN include vendor",
+  "createdBy": "Admin",
+  "createdOn": {
+    "$date": "2026-06-19T09:38:16.076Z"
+  },
+  "updatedBy": "Admin",
+  "updatedOn": {
+    "$date": "2026-06-19T09:38:16.076Z"
+  },
+  "isDeleted": false,
+  "__v": 0
+}]

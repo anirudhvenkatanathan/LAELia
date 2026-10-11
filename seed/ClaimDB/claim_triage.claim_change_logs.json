@@ -1,0 +1,4554 @@
+[{
+  "_id": {
+    "$oid": "6a631000a37bdba3751263aa"
+  },
+  "uploadId": "b2594a56-5b59-4dab-85f7-aa44135a4709",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:10:56.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631000a37bdba3751263ac"
+  },
+  "uploadId": "b2594a56-5b59-4dab-85f7-aa44135a4709",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:10:56.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631000a37bdba3751263ae"
+  },
+  "uploadId": "b2594a56-5b59-4dab-85f7-aa44135a4709",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:10:56.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631001a37bdba3751263bc"
+  },
+  "uploadId": "b2594a56-5b59-4dab-85f7-aa44135a4709",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:10:57.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631001a37bdba3751263be"
+  },
+  "uploadId": "b2594a56-5b59-4dab-85f7-aa44135a4709",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:10:57.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631001a37bdba3751263c0"
+  },
+  "uploadId": "b2594a56-5b59-4dab-85f7-aa44135a4709",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:10:57.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631763a37bdba37512648c"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "vendor",
+  "changedItem": "Bill Review",
+  "previousValue": "ACME Services",
+  "updatedValue": "AGS Solutions",
+  "reason": "AGS",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:42:27.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63176da37bdba375126498"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:42:37.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63176da37bdba37512649a"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:42:37.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63176da37bdba37512649c"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:42:37.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63176da37bdba3751264a8"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:42:37.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63176da37bdba3751264aa"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "vendor",
+  "changedItem": "Digistream Investigations",
+  "previousValue": "—",
+  "updatedValue": "Digistream Investigations",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:42:37.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63176da37bdba3751264ac"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "vendor",
+  "changedItem": "AGS Solutions",
+  "previousValue": "—",
+  "updatedValue": "AGS Solutions",
+  "reason": "AGS",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:42:37.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63178ea37bdba3751264d3"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "need catastrophic for this claimant",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:10.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317a8a37bdba3751264d7"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "Transportation",
+  "previousValue": "AVO T&T",
+  "updatedValue": "Carisk Intelligent Solutions",
+  "reason": "caisk",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:36.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317a9a37bdba3751264eb"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:37.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317a9a37bdba3751264ed"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:37.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317a9a37bdba3751264ef"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:37.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba3751264f1"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba3751264f3"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba3751264f5"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "need catastrophic for this claimant",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba3751264f7"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba37512650b"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba37512650d"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba37512650f"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba375126511"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba375126513"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba375126515"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "Carisk Intelligent Solutions",
+  "previousValue": "—",
+  "updatedValue": "Carisk Intelligent Solutions",
+  "reason": "caisk",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317aaa37bdba375126517"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100003",
+  "type": "vendor",
+  "changedItem": "LYCA Productions",
+  "previousValue": "—",
+  "updatedValue": "LYCA Productions",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:38.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b6a37bdba375126553"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:50.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b6a37bdba375126555"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:50.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b6a37bdba375126557"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "role",
+  "changedItem": "Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Subrogation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:50.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b6a37bdba375126559"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:50.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b6a37bdba37512655b"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:50.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b6a37bdba37512655d"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:50.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b7a37bdba37512656f"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "vendor",
+  "changedItem": "Praxis Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Praxis Subrogation",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:51.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b7a37bdba375126571"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:51.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b7a37bdba375126573"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:51.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b7a37bdba375126575"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:51.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6317b7a37bdba375126577"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100002",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:43:51.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631858a37bdba3751265c5"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "vendor",
+  "changedItem": "AGS Solutions",
+  "previousValue": "AGS Solutions",
+  "updatedValue": "—",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:46:32.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631858a37bdba3751265c7"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100004",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:46:32.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631998a37bdba375126604"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Medical canvassing",
+  "previousValue": "—",
+  "updatedValue": "Medical canvassing",
+  "reason": "needed medical canvassing",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:51:52.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a6a37bdba375126609"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "IME / peer review",
+  "previousValue": "LEIDOS QTC",
+  "updatedValue": "MES Solutions",
+  "reason": "switch",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:06.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba37512661d"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba375126621"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba375126623"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba375126625"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba375126627"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba375126629"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba37512662b"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a8a37bdba37512662d"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Medical canvassing",
+  "previousValue": "—",
+  "updatedValue": "Medical canvassing",
+  "reason": "needed medical canvassing",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:08.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a9a37bdba375126643"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:09.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a9a37bdba375126645"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:09.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a9a37bdba375126647"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:09.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a9a37bdba375126649"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "MES Solutions",
+  "previousValue": "—",
+  "updatedValue": "MES Solutions",
+  "reason": "switch",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:09.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a9a37bdba37512664b"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:09.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a9a37bdba37512664d"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:09.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6319a9a37bdba37512664f"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "FIS",
+  "previousValue": "—",
+  "updatedValue": "FIS",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:52:09.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631a87a37bdba3751266b3"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "Telephonic Case Management",
+  "updatedValue": "—",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:55:51.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631a87a37bdba3751266b5"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "role",
+  "changedItem": "Medical canvassing",
+  "previousValue": "Medical canvassing",
+  "updatedValue": "—",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:55:51.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631a87a37bdba3751266cb"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "FIS",
+  "previousValue": "FIS",
+  "updatedValue": "—",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:55:51.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631a87a37bdba3751266cd"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "Enlyte (Genex)",
+  "previousValue": "—",
+  "updatedValue": "Enlyte (Genex)",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:55:51.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631a87a37bdba3751266cf"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "MES Solutions",
+  "previousValue": "MES Solutions",
+  "updatedValue": "—",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:55:51.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631a87a37bdba3751266d1"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100007",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "CorVel",
+  "updatedValue": "—",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T07:55:51.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e74a37bdba37512670e"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "Pharmacy carve-out",
+  "previousValue": "—",
+  "updatedValue": "Pharmacy carve-out",
+  "reason": "w",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:36.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126724"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126726"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126728"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba37512672a"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba37512672c"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba37512672e"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126730"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126732"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "role",
+  "changedItem": "Pharmacy carve-out",
+  "previousValue": "—",
+  "updatedValue": "Pharmacy carve-out",
+  "reason": "w",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126748"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba37512674a"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba37512674c"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba37512674e"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126750"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126752"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a631e7ba37bdba375126754"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100010",
+  "type": "vendor",
+  "changedItem": "myMatrixx",
+  "previousValue": "—",
+  "updatedValue": "myMatrixx",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-24T08:12:43.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633550e4346417df4dbbec"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Medical canvassing",
+  "previousValue": "—",
+  "updatedValue": "Medical canvassing",
+  "reason": "w",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:08.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc03"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc05"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc08"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc0a"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc0c"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Subrogation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc0e"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc10"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc12"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Medical canvassing",
+  "previousValue": "—",
+  "updatedValue": "Medical canvassing",
+  "reason": "w",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc28"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc2a"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "Digistream Investigations",
+  "previousValue": "—",
+  "updatedValue": "Digistream Investigations",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc2c"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc30"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc32"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc2e"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "Praxis Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Praxis Subrogation",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc34"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633555e4346417df4dbc36"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "FIS",
+  "previousValue": "—",
+  "updatedValue": "FIS",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T09:50:13.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633584e4346417df4dbcb7"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "role",
+  "changedItem": "Medical canvassing",
+  "previousValue": "Medical canvassing",
+  "updatedValue": "—",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-24T09:51:00.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a633584e4346417df4dbccd"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100009",
+  "type": "vendor",
+  "changedItem": "FIS",
+  "previousValue": "FIS",
+  "updatedValue": "—",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-24T09:51:00.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6360cbe4346417df4dbf63"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "Pharmacy carve-out",
+  "previousValue": "—",
+  "updatedValue": "Pharmacy carve-out",
+  "reason": "Add pharmacy carve out",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T12:55:39.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6360d8e4346417df4dbf66"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "Nurse case management",
+  "previousValue": "Amelio Health",
+  "updatedValue": "Windham Group",
+  "reason": "test",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T12:55:52.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6360fae4346417df4dbf79"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "CorVel",
+  "updatedValue": "Accuro Solutions",
+  "reason": "test",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T12:56:26.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f2e4346417df4dbf9b"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:34.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f2e4346417df4dbf9e"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:34.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f2e4346417df4dbfa0"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:34.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f2e4346417df4dbfa2"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:34.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfa4"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfa6"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfa8"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "role",
+  "changedItem": "Pharmacy carve-out",
+  "previousValue": "—",
+  "updatedValue": "Pharmacy carve-out",
+  "reason": "Add pharmacy carve out",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfbc"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfbe"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "Windham Group",
+  "previousValue": "—",
+  "updatedValue": "Windham Group",
+  "reason": "test",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfc0"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfc2"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfc4"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "Accuro Solutions",
+  "previousValue": "—",
+  "updatedValue": "Accuro Solutions",
+  "reason": "test",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfc6"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6361f3e4346417df4dbfc8"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400003",
+  "type": "vendor",
+  "changedItem": "myMatrixx",
+  "previousValue": "—",
+  "updatedValue": "myMatrixx",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T13:00:35.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386030a894b690266dd6d"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "Bill Review",
+  "updatedValue": "—",
+  "reason": "Bill review not required for this case",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:34:27.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63864f0a894b690266dd70"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "Decision letters",
+  "previousValue": "Claims IO",
+  "updatedValue": "Exela Technologies",
+  "reason": "For FL, we use Exile and we have a negotiated rate",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:35:43.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63866f0a894b690266dd76"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Claim needs investigation as this is their 4 injury claim for the same event",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:15.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dd7f"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dd87"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dd89"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Claim needs investigation as this is their 4 injury claim for the same event",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dd8b"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dd8d"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dd9d"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dd9f"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dda1"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dda3"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "Digistream Investigations",
+  "previousValue": "—",
+  "updatedValue": "Digistream Investigations",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6386790a894b690266dda5"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "Exela Technologies",
+  "previousValue": "—",
+  "updatedValue": "Exela Technologies",
+  "reason": "For FL, we use Exile and we have a negotiated rate",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-24T15:36:25.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a672ca000b767aa3554af28"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400004",
+  "type": "vendor",
+  "changedItem": "Bill Review",
+  "previousValue": "ACME Services",
+  "updatedValue": "AGS Solutions",
+  "reason": "AGS best suits",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-27T10:02:08.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a672ca200b767aa3554af33"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400004",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-27T10:02:10.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a672ca200b767aa3554af35"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400004",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-27T10:02:10.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a672ca200b767aa3554af37"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400004",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-27T10:02:10.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a672ca200b767aa3554af43"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400004",
+  "type": "vendor",
+  "changedItem": "Digistream Investigations",
+  "previousValue": "—",
+  "updatedValue": "Digistream Investigations",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-27T10:02:10.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a672ca200b767aa3554af45"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400004",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-27T10:02:10.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a672ca200b767aa3554af47"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400004",
+  "type": "vendor",
+  "changedItem": "AGS Solutions",
+  "previousValue": "—",
+  "updatedValue": "AGS Solutions",
+  "reason": "AGS best suits",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-27T10:02:10.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f49a"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f49c"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f49e"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "role",
+  "changedItem": "Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Subrogation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f4a0"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f4a2"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f4b2"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f4b4"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "vendor",
+  "changedItem": "Praxis Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Praxis Subrogation",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f4b8"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "vendor",
+  "changedItem": "Guidewire CCM",
+  "previousValue": "—",
+  "updatedValue": "Guidewire CCM",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f4b6"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a688b59311dcf28ad93f4ba"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400002",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T10:58:33.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a689bad311dcf28ad93f63d"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400001",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T12:08:13.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a689bad311dcf28ad93f63f"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400001",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T12:08:13.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a689bad311dcf28ad93f641"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400001",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T12:08:13.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a689bad311dcf28ad93f64d"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400001",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T12:08:13.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a689bad311dcf28ad93f64f"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400001",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T12:08:13.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a689bad311dcf28ad93f655"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400001",
+  "type": "vendor",
+  "changedItem": "KPN Productions",
+  "previousValue": "—",
+  "updatedValue": "KPN Productions",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-07-28T12:08:13.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce282be4135b7642272c4"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Prior claim history in ISO.  Questionable as it's a similar injury",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T17:59:30.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272da"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272dd"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272df"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272e1"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272e3"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272e5"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272e7"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a0be4135b7642272e9"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Prior claim history in ISO.  Questionable as it's a similar injury",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:00.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a1be4135b7642272ff"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:01.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a1be4135b764227301"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:01.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a1be4135b764227303"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:01.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a1be4135b764227305"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:01.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a1be4135b764227307"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:01.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a1be4135b764227309"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:01.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6ce2a1be4135b76422730b"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200010",
+  "type": "vendor",
+  "changedItem": "Digistream Investigations",
+  "previousValue": "—",
+  "updatedValue": "Digistream Investigations",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-07-31T18:00:01.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73db99be4135b764227daf"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "Additional service needed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:55:53.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbb6be4135b764227db3"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "KPN Productions",
+  "updatedValue": "LYCA Productions",
+  "reason": "This is the best provider for PA",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:22.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbbbe4135b764227dc4"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:27.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbbbe4135b764227dc6"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:27.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbbbe4135b764227dc8"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:27.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbbbe4135b764227dca"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:27.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbbbe4135b764227dce"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:27.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbbbe4135b764227dd0"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:27.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbbbe4135b764227dd2"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "Additional service needed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:27.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbcbe4135b764227de6"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:28.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbcbe4135b764227de8"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:28.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbcbe4135b764227dea"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:28.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbcbe4135b764227dec"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:28.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbcbe4135b764227dee"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "LYCA Productions",
+  "previousValue": "—",
+  "updatedValue": "LYCA Productions",
+  "reason": "This is the best provider for PA",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:28.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dbbcbe4135b764227df0"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-06T00:56:28.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dc10be4135b764227e36"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "Catastrophic case management",
+  "updatedValue": "—",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-08-06T00:57:52.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a73dc11be4135b764227e51"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100005",
+  "type": "vendor",
+  "changedItem": "LYCA Productions",
+  "previousValue": "LYCA Productions",
+  "updatedValue": "—",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-08-06T00:57:53.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a762696be4135b7642283c7"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "Bill Review",
+  "previousValue": "ACME Services",
+  "updatedValue": "KPN Productions",
+  "reason": "KPN has the best network in TN",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:22.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626abbe4135b7642283cb"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "Accident is Catastrophic based on Claimant input",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:43.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283e4"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283e6"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283e8"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283ea"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283ec"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283ee"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Subrogation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283f0"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283f2"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "Accident is Catastrophic based on Claimant input",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b7642283f4"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b76422840c"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b76422840e"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "Digistream Investigations",
+  "previousValue": "—",
+  "updatedValue": "Digistream Investigations",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b764228410"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b764228412"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "KPN Productions",
+  "previousValue": "—",
+  "updatedValue": "KPN Productions",
+  "reason": "KPN has the best network in TN",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b764228414"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b7be4135b764228416"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "Praxis Subrogation",
+  "previousValue": "—",
+  "updatedValue": "Praxis Subrogation",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:55.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b8be4135b764228418"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:56.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7626b8be4135b76422841a"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200009",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-07T18:40:56.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccd8cbe4135b764228805"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "RTW / JFA",
+  "updatedValue": "—",
+  "reason": "Not qualified yet",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:46:20.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccd9ebe4135b76422880b"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Claimant has other open WorkComp Claim",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:46:38.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc7be4135b764228818"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:19.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc7be4135b76422881a"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:19.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc7be4135b76422881c"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:19.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc7be4135b76422881e"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "role",
+  "changedItem": "Desk investigations",
+  "previousValue": "—",
+  "updatedValue": "Desk investigations",
+  "reason": "Claimant has other open WorkComp Claim",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:19.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc8be4135b76422882c"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:20.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc8be4135b76422882e"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:20.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc8be4135b764228830"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "vendor",
+  "changedItem": "Digistream Investigations",
+  "previousValue": "—",
+  "updatedValue": "Digistream Investigations",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:20.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7ccdc8be4135b764228832"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200008",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-12T19:47:20.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7cce94be4135b7642288a6"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "Exela Technologies",
+  "previousValue": "Exela Technologies",
+  "updatedValue": "—",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-08-12T19:50:44.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7cce94be4135b7642288a8"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-400005",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-08-12T19:50:44.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de694ce5d215473171704"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "vendor",
+  "changedItem": "Decision letters",
+  "previousValue": "Claims IO",
+  "updatedValue": "RR Donnelley",
+  "reason": "better fit",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:40.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a5ce5d215473171717"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:57.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a5ce5d215473171719"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:57.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a5ce5d21547317171b"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "role",
+  "changedItem": "IME / peer review",
+  "previousValue": "—",
+  "updatedValue": "IME / peer review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:57.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a5ce5d21547317171d"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "role",
+  "changedItem": "Nurse case management",
+  "previousValue": "—",
+  "updatedValue": "Nurse case management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:57.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a5ce5d21547317171f"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "role",
+  "changedItem": "Transportation",
+  "previousValue": "—",
+  "updatedValue": "Transportation",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:57.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a5ce5d215473171721"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:57.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a5ce5d215473171723"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:57.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a6ce5d215473171737"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "vendor",
+  "changedItem": "AVO T&T",
+  "previousValue": "—",
+  "updatedValue": "AVO T&T",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:58.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a6ce5d215473171739"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "vendor",
+  "changedItem": "Amelio Health",
+  "previousValue": "—",
+  "updatedValue": "Amelio Health",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:58.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a6ce5d21547317173b"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "vendor",
+  "changedItem": "RR Donnelley",
+  "previousValue": "—",
+  "updatedValue": "RR Donnelley",
+  "reason": "better fit",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:58.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a6ce5d21547317173d"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:58.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a6ce5d21547317173f"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:58.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8de6a6ce5d215473171741"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200007",
+  "type": "vendor",
+  "changedItem": "LEIDOS QTC",
+  "previousValue": "—",
+  "updatedValue": "LEIDOS QTC",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-08-25T19:01:58.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7578ce5d215473171beb"
+  },
+  "uploadId": "e763c66d-3932-4555-a273-acac41531622",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "role",
+  "changedItem": "Records Retrieval (Defense)",
+  "previousValue": "—",
+  "updatedValue": "Records Retrieval (Defense)",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-09-04T07:38:32.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7578ce5d215473171bed"
+  },
+  "uploadId": "e763c66d-3932-4555-a273-acac41531622",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-09-04T07:38:32.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7578ce5d215473171bf7"
+  },
+  "uploadId": "e763c66d-3932-4555-a273-acac41531622",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-09-04T07:38:32.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7578ce5d215473171bfb"
+  },
+  "uploadId": "e763c66d-3932-4555-a273-acac41531622",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100001",
+  "type": "vendor",
+  "changedItem": "KPN Productions",
+  "previousValue": "—",
+  "updatedValue": "KPN Productions",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "claimssupervisor",
+  "updatedAt": {
+    "$date": "2026-09-04T07:38:32.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa037f53bfa414259f8674f"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "This is required based on the case details",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:29:41.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f8675c"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f86764"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f86766"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "role",
+  "changedItem": "Catastrophic case management",
+  "previousValue": "—",
+  "updatedValue": "Catastrophic case management",
+  "reason": "This is required based on the case details",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f86768"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f86777"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f86779"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f8677b"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa038d63bfa414259f8677d"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-200006",
+  "type": "vendor",
+  "changedItem": "KPN Productions",
+  "previousValue": "—",
+  "updatedValue": "KPN Productions",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:33:26.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039313bfa414259f867a0"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "vendor",
+  "changedItem": "Bill Review",
+  "previousValue": "ACME Services",
+  "updatedValue": "Veracity Research",
+  "reason": "They have a better network in the state of claim.",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:34:57.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867af"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "role",
+  "changedItem": "Bill Review",
+  "previousValue": "—",
+  "updatedValue": "Bill Review",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867b1"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "role",
+  "changedItem": "Decision letters",
+  "previousValue": "—",
+  "updatedValue": "Decision letters",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867b3"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "role",
+  "changedItem": "RTW / JFA",
+  "previousValue": "—",
+  "updatedValue": "RTW / JFA",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867b5"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "role",
+  "changedItem": "Telephonic Case Management",
+  "previousValue": "—",
+  "updatedValue": "Telephonic Case Management",
+  "reason": "Plan services confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867c4"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "vendor",
+  "changedItem": "ACME Services",
+  "previousValue": "—",
+  "updatedValue": "ACME Services",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867c6"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "vendor",
+  "changedItem": "Claims IO",
+  "previousValue": "—",
+  "updatedValue": "Claims IO",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867c8"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "vendor",
+  "changedItem": "CorVel",
+  "previousValue": "—",
+  "updatedValue": "CorVel",
+  "reason": "Vendor selection confirmed",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa039403bfa414259f867ca"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "recordIndex": 1,
+  "claimNumber": "WCM-2026-100008",
+  "type": "vendor",
+  "changedItem": "Veracity Research",
+  "previousValue": "—",
+  "updatedValue": "Veracity Research",
+  "reason": "They have a better network in the state of claim.",
+  "updatedBy": "Priya Nair",
+  "updatedAt": {
+    "$date": "2026-09-08T16:35:12.949Z"
+  },
+  "__v": 0
+}]

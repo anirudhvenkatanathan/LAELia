@@ -1,0 +1,525 @@
+[{
+  "_id": {
+    "$oid": "6a62ef09a37bdba3751260e0"
+  },
+  "uploadId": "c5ea6aa9-ad8e-4810-850f-863272d1242f",
+  "fileName": "WCM-2026-100001 - First.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T04:50:17.428Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T04:50:17.440Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T04:50:17.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f446a37bdba37512611d"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "fileName": "claim5.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:12:38.704Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:12:38.712Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:12:38.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f6dda37bdba3751261bf"
+  },
+  "uploadId": "b3053566-d27e-4482-a94c-7cedbd9ade87",
+  "fileName": "claim6.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:23:41.486Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:23:41.496Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:23:41.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f6f5a37bdba3751261da"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "fileName": "claim7.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:24:05.050Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:24:05.058Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:24:05.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f6ffa37bdba3751261e4"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "fileName": "claim8.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:24:15.327Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:24:15.334Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:24:15.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f709a37bdba3751261ee"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "fileName": "claim9.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:24:25.926Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:24:25.932Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:24:25.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f714a37bdba3751261f8"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "fileName": "claim10.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:24:36.046Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:24:36.053Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:24:36.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f71ea37bdba375126202"
+  },
+  "uploadId": "076f1c98-1d1b-41c0-afd0-e56bcdf6d764",
+  "fileName": "claim1.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:24:46.912Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:24:46.920Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:24:46.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f729a37bdba37512620c"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "fileName": "claim2.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:24:57.428Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:24:57.436Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:24:57.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f734a37bdba375126216"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "fileName": "claim3.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:25:08.138Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:25:08.147Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:25:08.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f73ca37bdba375126220"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "fileName": "claim4.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T05:25:16.955Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T05:25:16.971Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T05:25:16.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635dc0e4346417df4dbec6"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "fileName": "claim 11.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:42:40.002Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:42:40.023Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:42:40.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635e23e4346417df4dbef5"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "fileName": "claim 12.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:44:19.836Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:44:19.844Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:44:19.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635e4fe4346417df4dbeff"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "fileName": "claim 13.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:45:03.524Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:45:03.538Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:45:03.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635e72e4346417df4dbf09"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "fileName": "claim14.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:45:38.313Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:45:38.329Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:45:38.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635ef2e4346417df4dbf13"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "fileName": "claim 15.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:47:46.332Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:47:46.342Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:47:46.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635fcce4346417df4dbf1d"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "fileName": "claim 16.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:51:24.822Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:51:24.830Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:51:24.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a636001e4346417df4dbf27"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "fileName": "claim 17.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:52:17.295Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:52:17.307Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:52:17.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a636009e4346417df4dbf31"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "fileName": "claim 18.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:52:24.997Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:52:25.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:52:25.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63609be4346417df4dbf3b"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "fileName": "claim 19.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:54:51.080Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:54:51.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:54:51.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6360a4e4346417df4dbf45"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "fileName": "claim 20.json",
+  "uploadType": "JSON",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-07-24T12:55:00.577Z"
+  },
+  "status": "Processed",
+  "totalClaims": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "validationResults": "PASS",
+  "processingMessages": "Processed 1 claim(s). All succeeded.",
+  "createdAt": {
+    "$date": "2026-07-24T12:55:00.606Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-24T12:55:00.606Z"
+  },
+  "__v": 0
+}]

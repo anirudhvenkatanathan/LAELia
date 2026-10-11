@@ -1,0 +1,4769 @@
+[{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b1c"
+  },
+  "kpiMatricsGroupTrackingId": "90d2e084-89f5-4365-bdad-f968a89642b6",
+  "kpiMatricsId": "KPI001",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Review Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-29T07:21:34.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b1d"
+  },
+  "kpiMatricsGroupTrackingId": "24e3575b-444b-49ac-ac48-20930f00622c",
+  "kpiMatricsId": "KPI001",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Appeal Overturn Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b1e"
+  },
+  "kpiMatricsGroupTrackingId": "7490ec9f-ce12-4981-ade9-9a94a701f9a2",
+  "kpiMatricsId": "KPI001",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Processing Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b1f"
+  },
+  "kpiMatricsGroupTrackingId": "08722c99-a7ca-4b39-841d-1103fc715e6c",
+  "kpiMatricsId": "KPI002",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Challenge Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b20"
+  },
+  "kpiMatricsGroupTrackingId": "68381ff6-f76a-411b-b6fc-b4d04a5a5b88",
+  "kpiMatricsId": "KPI002",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Audit Upheld Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b21"
+  },
+  "kpiMatricsGroupTrackingId": "65391355-1904-4e1c-99c0-9564fa25fa7d",
+  "kpiMatricsId": "KPI003",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Bill Review TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b22"
+  },
+  "kpiMatricsGroupTrackingId": "357daa16-9b27-46cf-898d-85a44f9568ca",
+  "kpiMatricsId": "KPI003",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b23"
+  },
+  "kpiMatricsGroupTrackingId": "c00d499d-feb4-4377-8c0d-c0bef2aa0863",
+  "kpiMatricsId": "KPI003",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b24"
+  },
+  "kpiMatricsGroupTrackingId": "441e3c3b-526f-4663-8861-f834cebec23a",
+  "kpiMatricsId": "KPI004",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Gross Bill Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b25"
+  },
+  "kpiMatricsGroupTrackingId": "92e59612-69f0-4a4e-a457-c9f3606d1c64",
+  "kpiMatricsId": "KPI004",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Duplicate Billing Avoidance",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b26"
+  },
+  "kpiMatricsGroupTrackingId": "6e486a68-6d1e-441e-9474-236330247fb1",
+  "kpiMatricsId": "KPI004",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Coding Error Savings",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b27"
+  },
+  "kpiMatricsGroupTrackingId": "e6a251ff-a9b1-4411-89bf-59097b72d0e5",
+  "kpiMatricsId": "KPI006",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Bill Rework Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b28"
+  },
+  "kpiMatricsGroupTrackingId": "119d65e0-f904-4366-a330-d98761e44a31",
+  "kpiMatricsId": "KPI006",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Review Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b29"
+  },
+  "kpiMatricsGroupTrackingId": "c45518d6-4738-4d72-afa9-71434ad6b86d",
+  "kpiMatricsId": "KPI007",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Escalation To Clinical Review Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b2a"
+  },
+  "kpiMatricsGroupTrackingId": "b04407ee-eaf1-43b0-bfaf-be840283d17a",
+  "kpiMatricsId": "KPI007",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b2b"
+  },
+  "kpiMatricsGroupTrackingId": "dc3c072c-045c-4754-94a5-0a38fd15a75e",
+  "kpiMatricsId": "KPI008",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b2c"
+  },
+  "kpiMatricsGroupTrackingId": "bf288aa6-6b35-403b-968e-434caf7faa85",
+  "kpiMatricsId": "KPI009",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Bill Review Transparency Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b2d"
+  },
+  "kpiMatricsGroupTrackingId": "b8ab85d6-5eb3-4474-8570-c17127200631",
+  "kpiMatricsId": "KPI011",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Catastrophic Severity Stabilization Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T16:46:23.732Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b2e"
+  },
+  "kpiMatricsGroupTrackingId": "f3b96889-c7ca-4f9f-a745-35c54c055750",
+  "kpiMatricsId": "KPI011",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Long-Term Disability Prevention Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b2f"
+  },
+  "kpiMatricsGroupTrackingId": "ab830aba-3eda-4bf4-8c72-debdf1cbf917",
+  "kpiMatricsId": "KPI011",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b30"
+  },
+  "kpiMatricsGroupTrackingId": "088b3f9a-86ff-476a-98d3-e7c1ed74e007",
+  "kpiMatricsId": "KPI011",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Readmission Cost Avoidance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b31"
+  },
+  "kpiMatricsGroupTrackingId": "b89356e1-82c4-4341-81c0-896bba82ac23",
+  "kpiMatricsId": "KPI012",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Litigation Referral Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b32"
+  },
+  "kpiMatricsGroupTrackingId": "a23e6b21-52d3-4aac-a36d-349aaf0c6ac0",
+  "kpiMatricsId": "KPI012",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Pre-Litigation Settlement Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b33"
+  },
+  "kpiMatricsGroupTrackingId": "2d48eab5-37d3-4455-baa4-adbaf67adecd",
+  "kpiMatricsId": "KPI013",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Care Plan Creation TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b34"
+  },
+  "kpiMatricsGroupTrackingId": "b60ca11e-9ee4-4761-a20e-398923932aea",
+  "kpiMatricsId": "KPI013",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Discharge Planning TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b35"
+  },
+  "kpiMatricsGroupTrackingId": "4eacad38-547d-4487-8895-665ca9c35c20",
+  "kpiMatricsId": "KPI013",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b36"
+  },
+  "kpiMatricsGroupTrackingId": "0ea71675-488f-4a09-8260-7ae80614d76a",
+  "kpiMatricsId": "KPI013",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Rehabilitation Acceleration",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b37"
+  },
+  "kpiMatricsGroupTrackingId": "77e54b6f-1d61-4768-b1ab-7978bca432bc",
+  "kpiMatricsId": "KPI014",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Medical Cost Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b38"
+  },
+  "kpiMatricsGroupTrackingId": "65d1a2c3-4b27-40f9-a345-fcf39ddc5858",
+  "kpiMatricsId": "KPI014",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Lifetime Care Cost Avoidance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b39"
+  },
+  "kpiMatricsGroupTrackingId": "1a10c268-4047-4df8-a4bd-20820d21dd96",
+  "kpiMatricsId": "KPI016",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Care Plan Compliance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b3a"
+  },
+  "kpiMatricsGroupTrackingId": "de994ffc-4646-4332-8d48-0636fa6256bb",
+  "kpiMatricsId": "KPI016",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Nurse Recommendation Adoption Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b3b"
+  },
+  "kpiMatricsGroupTrackingId": "c81d0a24-82b9-40be-84d5-d73dda8fa24b",
+  "kpiMatricsId": "KPI016",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Home Modification Planning Success Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b3c"
+  },
+  "kpiMatricsGroupTrackingId": "467fdfec-377f-41e3-812b-8d8b7e1fb248",
+  "kpiMatricsId": "KPI017",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Nurse Visit Compliance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b3d"
+  },
+  "kpiMatricsGroupTrackingId": "bda6d780-0948-414f-b7cd-a978a2f28fa5",
+  "kpiMatricsId": "KPI017",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Complex Care Coordination Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b3e"
+  },
+  "kpiMatricsGroupTrackingId": "5174cd87-b678-4ea8-a3dd-b0352af07276",
+  "kpiMatricsId": "KPI018",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b3f"
+  },
+  "kpiMatricsGroupTrackingId": "5cc935c2-1918-4dab-8453-250c16f2e7a7",
+  "kpiMatricsId": "KPI019",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Injured Worker Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b40"
+  },
+  "kpiMatricsGroupTrackingId": "80ed5b02-8761-4314-9e5e-d203bb74ec86",
+  "kpiMatricsId": "KPI021",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Letter Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b41"
+  },
+  "kpiMatricsGroupTrackingId": "c58199cf-f541-42cb-bd4d-096eb42117fd",
+  "kpiMatricsId": "KPI021",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prior Letter Revision Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b42"
+  },
+  "kpiMatricsGroupTrackingId": "378aa337-8785-4cee-b210-80df099c7853",
+  "kpiMatricsId": "KPI022",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Complex Litigation Identification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b43"
+  },
+  "kpiMatricsGroupTrackingId": "ff5b631f-ae17-4a5a-bd86-093b79c616c6",
+  "kpiMatricsId": "KPI022",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Cost Savings (LAE)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b44"
+  },
+  "kpiMatricsGroupTrackingId": "2c0be2e8-2786-462e-8a7f-c425edb880de",
+  "kpiMatricsId": "KPI023",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Production Turnaround Time (TAT)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b45"
+  },
+  "kpiMatricsGroupTrackingId": "82327f22-d6d0-4a8c-b10c-682ea9be02d1",
+  "kpiMatricsId": "KPI023",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b46"
+  },
+  "kpiMatricsGroupTrackingId": "f40edb8c-0dac-491e-a315-6586fc941e93",
+  "kpiMatricsId": "KPI023",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b47"
+  },
+  "kpiMatricsGroupTrackingId": "05f944d2-106c-4cc3-a398-26200f469ef8",
+  "kpiMatricsId": "KPI024",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Cost Savings (LAE)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b48"
+  },
+  "kpiMatricsGroupTrackingId": "a1eb8ec8-6ff8-48d3-9e5d-7c8f6718244a",
+  "kpiMatricsId": "KPI026",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Acceptance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b49"
+  },
+  "kpiMatricsGroupTrackingId": "659e821d-4f29-47ee-8cb3-960f9bb24e9b",
+  "kpiMatricsId": "KPI026",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Document Completeness Score",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b4a"
+  },
+  "kpiMatricsGroupTrackingId": "93071f22-6a98-4e69-a136-8f24658c7001",
+  "kpiMatricsId": "KPI027",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b4b"
+  },
+  "kpiMatricsGroupTrackingId": "a24b7f7c-3fb7-4433-a7b3-b1fcece5e874",
+  "kpiMatricsId": "KPI028",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b4c"
+  },
+  "kpiMatricsGroupTrackingId": "1d153377-8b64-4dff-b1fe-ad053c26014f",
+  "kpiMatricsId": "KPI029",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Letter Clarity Score",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b4d"
+  },
+  "kpiMatricsGroupTrackingId": "c8eb9c1b-b267-46a6-90cc-733f132d587b",
+  "kpiMatricsId": "KPI031",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Investigation Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b4e"
+  },
+  "kpiMatricsGroupTrackingId": "dd126729-c88a-4a17-ad30-08157f37c84e",
+  "kpiMatricsId": "KPI031",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Acceptance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b4f"
+  },
+  "kpiMatricsGroupTrackingId": "be492444-d91d-423c-8b19-f94f9c4324dd",
+  "kpiMatricsId": "KPI031",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b50"
+  },
+  "kpiMatricsGroupTrackingId": "d29a3a2a-558a-4598-b2de-dae98eb0ca4a",
+  "kpiMatricsId": "KPI032",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Fraud Indicator Discovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b51"
+  },
+  "kpiMatricsGroupTrackingId": "b27f81d9-ce9a-444b-838b-9039cf8e8300",
+  "kpiMatricsId": "KPI032",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prior Claim Discovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b52"
+  },
+  "kpiMatricsGroupTrackingId": "c79e0e1b-a558-495f-8939-f7cc2a27c3a1",
+  "kpiMatricsId": "KPI032",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prior Injury Discovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b53"
+  },
+  "kpiMatricsGroupTrackingId": "12f6fd28-6138-4610-acc0-293b9b56b1d9",
+  "kpiMatricsId": "KPI032",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Severity Reclassification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b54"
+  },
+  "kpiMatricsGroupTrackingId": "bbfc0142-317d-4ce9-8bef-6d54947109c1",
+  "kpiMatricsId": "KPI032",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Fraud Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b55"
+  },
+  "kpiMatricsGroupTrackingId": "597af405-e96a-40a8-986e-f413929fd011",
+  "kpiMatricsId": "KPI033",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Investigation TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b56"
+  },
+  "kpiMatricsGroupTrackingId": "6f540fc4-0a2e-4ac8-b70c-1166a4db237d",
+  "kpiMatricsId": "KPI033",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b57"
+  },
+  "kpiMatricsGroupTrackingId": "14cf73e9-d19f-46f8-99ac-2f8186464689",
+  "kpiMatricsId": "KPI033",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b58"
+  },
+  "kpiMatricsGroupTrackingId": "b13513bf-0de1-4132-b7db-615796b553bb",
+  "kpiMatricsId": "KPI034",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Fraud Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b59"
+  },
+  "kpiMatricsGroupTrackingId": "6dd85f54-2712-471a-bcbc-c5bdac3b45fe",
+  "kpiMatricsId": "KPI034",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defence Cost Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b5a"
+  },
+  "kpiMatricsGroupTrackingId": "6e82fc6c-4a0f-4e63-861e-def99e426018",
+  "kpiMatricsId": "KPI034",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b5b"
+  },
+  "kpiMatricsGroupTrackingId": "d3a18f83-c92a-447b-a347-4f3199bc000a",
+  "kpiMatricsId": "KPI036",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Rework Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b5c"
+  },
+  "kpiMatricsGroupTrackingId": "8089850b-1ae4-4624-8385-445cda871fb6",
+  "kpiMatricsId": "KPI036",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Investigation Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b5d"
+  },
+  "kpiMatricsGroupTrackingId": "6ca36ed7-7421-4e2b-b7a9-cac2f853b708",
+  "kpiMatricsId": "KPI036",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Actionability Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b5e"
+  },
+  "kpiMatricsGroupTrackingId": "06c276f2-d0fc-4f3e-9f43-d47a422e5663",
+  "kpiMatricsId": "KPI037",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b5f"
+  },
+  "kpiMatricsGroupTrackingId": "82f7c25e-9e7a-4f80-9254-b1b30755bbab",
+  "kpiMatricsId": "KPI038",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b60"
+  },
+  "kpiMatricsGroupTrackingId": "5470af2c-34a6-4f98-a2fa-9fc3f77c6d97",
+  "kpiMatricsId": "KPI039",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Interview Completion Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b61"
+  },
+  "kpiMatricsGroupTrackingId": "310c5d2c-c7c3-44cc-b57a-0c943c2898ab",
+  "kpiMatricsId": "KPI041",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Report Acceptance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b62"
+  },
+  "kpiMatricsGroupTrackingId": "debeaa69-f6d1-48ce-8d45-d021afcd1c65",
+  "kpiMatricsId": "KPI041",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "MMI Determination Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b63"
+  },
+  "kpiMatricsGroupTrackingId": "101651d5-0e7d-490b-b84e-2d0ab672beef",
+  "kpiMatricsId": "KPI041",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Severity Reclassification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b64"
+  },
+  "kpiMatricsGroupTrackingId": "d80c1f3e-6cc6-4672-bb3a-8f4df97855ef",
+  "kpiMatricsId": "KPI041",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b65"
+  },
+  "kpiMatricsGroupTrackingId": "6bbf028e-b180-47a4-b32e-8feb0e771eca",
+  "kpiMatricsId": "KPI042",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Permanent Disability Adjustment Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b66"
+  },
+  "kpiMatricsGroupTrackingId": "92cf10c3-8f9c-4280-8692-2af2edce7c0d",
+  "kpiMatricsId": "KPI042",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Claim Decision Acceleration",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b67"
+  },
+  "kpiMatricsGroupTrackingId": "06199225-e262-4eed-b3ed-127eac438a29",
+  "kpiMatricsId": "KPI042",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Medical Leakage Reduction",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b68"
+  },
+  "kpiMatricsGroupTrackingId": "919a3411-c78f-40c2-b324-70791ee265cc",
+  "kpiMatricsId": "KPI043",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "IME Scheduling TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b69"
+  },
+  "kpiMatricsGroupTrackingId": "c09d02a9-6182-4a37-886d-c2a0a3994a7e",
+  "kpiMatricsId": "KPI043",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Report Delivery TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b6a"
+  },
+  "kpiMatricsGroupTrackingId": "c93ad866-821a-44c0-b827-af88217311ef",
+  "kpiMatricsId": "KPI043",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b6b"
+  },
+  "kpiMatricsGroupTrackingId": "bae2c159-f0ba-4541-b0ed-9423c551499a",
+  "kpiMatricsId": "KPI043",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b6c"
+  },
+  "kpiMatricsGroupTrackingId": "c0807bcd-ef9c-4ab8-9fb0-87b51d44937a",
+  "kpiMatricsId": "KPI044",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Medical Cost Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b6d"
+  },
+  "kpiMatricsGroupTrackingId": "e4661f06-5de5-4c06-a73a-45e15e2c731f",
+  "kpiMatricsId": "KPI044",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Temporary Disability Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b6e"
+  },
+  "kpiMatricsGroupTrackingId": "c8244006-98c8-4f05-ab0b-59a26bb4972e",
+  "kpiMatricsId": "KPI046",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Addendum Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b6f"
+  },
+  "kpiMatricsGroupTrackingId": "5d4c0a80-f1dd-434c-9dc4-3e003b6e0ef3",
+  "kpiMatricsId": "KPI046",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Re-review Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b70"
+  },
+  "kpiMatricsGroupTrackingId": "eceb081b-ddee-42a4-b214-14b306babfff",
+  "kpiMatricsId": "KPI046",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Report Acceptance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b71"
+  },
+  "kpiMatricsGroupTrackingId": "9a393707-b3ad-436e-aef7-7bfa215bd5cf",
+  "kpiMatricsId": "KPI047",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b72"
+  },
+  "kpiMatricsGroupTrackingId": "36fb4eac-c2ab-4c19-8a6c-f06615da1761",
+  "kpiMatricsId": "KPI048",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b73"
+  },
+  "kpiMatricsGroupTrackingId": "56de296f-b035-4fa5-a8d6-f379180928ba",
+  "kpiMatricsId": "KPI049",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Examination Wait Time",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b74"
+  },
+  "kpiMatricsGroupTrackingId": "21bfbe2a-ce9f-4f75-88eb-c143eeec6dbb",
+  "kpiMatricsId": "KPI049",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Claimant No-Show Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b75"
+  },
+  "kpiMatricsGroupTrackingId": "78afc70f-2998-4836-8e34-5b56f99afe8f",
+  "kpiMatricsId": "KPI050",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Permanent Disability Adjustment Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b76"
+  },
+  "kpiMatricsGroupTrackingId": "61f72811-8794-4c13-b097-7c8cc69fd9c8",
+  "kpiMatricsId": "KPI051",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prior Treatment Discovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b77"
+  },
+  "kpiMatricsGroupTrackingId": "d99483cc-e9a5-43db-9af0-e1129341d982",
+  "kpiMatricsId": "KPI051",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Severity Reclassification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b78"
+  },
+  "kpiMatricsGroupTrackingId": "5d9c7179-e9ee-4238-b731-b5627a34ced3",
+  "kpiMatricsId": "KPI051",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Chronic Condition Discovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b79"
+  },
+  "kpiMatricsGroupTrackingId": "fd8ab222-0b9d-4726-954a-af386e524aab",
+  "kpiMatricsId": "KPI051",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "New Provider Discovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b7a"
+  },
+  "kpiMatricsGroupTrackingId": "809ef112-56e0-4cdc-8a4f-675f1f838e24",
+  "kpiMatricsId": "KPI052",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Severity Reclassification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b7b"
+  },
+  "kpiMatricsGroupTrackingId": "26d271ae-be2d-4e18-ba79-319a591bfaa3",
+  "kpiMatricsId": "KPI052",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prior Treatment Discovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b7c"
+  },
+  "kpiMatricsGroupTrackingId": "97a314a6-dc3e-46a8-bc9d-af2dc441f413",
+  "kpiMatricsId": "KPI053",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Canvass Turnaround Time (TAT)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b7d"
+  },
+  "kpiMatricsGroupTrackingId": "d544ae94-3b52-4e02-bd80-a8ed1623523d",
+  "kpiMatricsId": "KPI053",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b7e"
+  },
+  "kpiMatricsGroupTrackingId": "ba0bb4a8-2837-4b61-a201-b5a225349b07",
+  "kpiMatricsId": "KPI053",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Discovery Acceleration",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b7f"
+  },
+  "kpiMatricsGroupTrackingId": "48e04f73-bab5-4227-a7b8-c5e4e70eb312",
+  "kpiMatricsId": "KPI054",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b80"
+  },
+  "kpiMatricsGroupTrackingId": "4e689346-cb5a-43b0-b672-1b043f23a5f1",
+  "kpiMatricsId": "KPI054",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Medical Cost Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b81"
+  },
+  "kpiMatricsGroupTrackingId": "d3f84e00-3174-4328-b783-9aeea4527937",
+  "kpiMatricsId": "KPI056",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Verified Provider Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b82"
+  },
+  "kpiMatricsGroupTrackingId": "da90d180-a10a-4fd4-86dd-bf558c04a5fd",
+  "kpiMatricsId": "KPI056",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Duplicate Provider Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b83"
+  },
+  "kpiMatricsGroupTrackingId": "66f7a720-68c2-489f-843e-a2794055a7a5",
+  "kpiMatricsId": "KPI057",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b84"
+  },
+  "kpiMatricsGroupTrackingId": "9e6a8abb-261c-4dd5-892f-8bc20b582344",
+  "kpiMatricsId": "KPI058",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b85"
+  },
+  "kpiMatricsGroupTrackingId": "6a32442b-9d89-4e36-8820-eebe0dc19d7f",
+  "kpiMatricsId": "KPI059",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Nurse Case Manager Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b86"
+  },
+  "kpiMatricsGroupTrackingId": "d5178317-c38a-4e6f-95cf-8a315802e81c",
+  "kpiMatricsId": "KPI061",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "High-Risk Case Stabilization Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b87"
+  },
+  "kpiMatricsGroupTrackingId": "09642c23-45fa-4969-9b6f-393798bfb13b",
+  "kpiMatricsId": "KPI061",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Comorbidity Management Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b88"
+  },
+  "kpiMatricsGroupTrackingId": "6313d772-d5ca-45f2-865b-4b6bb392a287",
+  "kpiMatricsId": "KPI061",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "RTW Barrier Resolution Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b89"
+  },
+  "kpiMatricsGroupTrackingId": "254b0d4b-fcc6-40db-a37c-3d7548184d0c",
+  "kpiMatricsId": "KPI061",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b8a"
+  },
+  "kpiMatricsGroupTrackingId": "229cfa17-4640-4be5-82ee-cc2f77da75bb",
+  "kpiMatricsId": "KPI062",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Attorney Involvement Reduction Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b8b"
+  },
+  "kpiMatricsGroupTrackingId": "5d28a922-e780-44c4-b54e-321009b42b39",
+  "kpiMatricsId": "KPI062",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Pre-Litigation Intervention Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b8c"
+  },
+  "kpiMatricsGroupTrackingId": "f909c421-dd2f-4a91-b20a-c576d1e66f17",
+  "kpiMatricsId": "KPI063",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Nurse Contact TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b8d"
+  },
+  "kpiMatricsGroupTrackingId": "03b87471-b4ed-4502-97bc-3a0eec7afce2",
+  "kpiMatricsId": "KPI063",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Care Plan Creation TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b8e"
+  },
+  "kpiMatricsGroupTrackingId": "5345e637-b813-4b28-bbec-3725b68eae00",
+  "kpiMatricsId": "KPI063",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Return-to-Work Acceleration",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b8f"
+  },
+  "kpiMatricsGroupTrackingId": "f95de7bd-1449-4931-81b7-1620cca9a078",
+  "kpiMatricsId": "KPI063",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b90"
+  },
+  "kpiMatricsGroupTrackingId": "9dbf45f2-5f15-44c4-aac3-c60be27092e6",
+  "kpiMatricsId": "KPI064",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Medical Cost Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b91"
+  },
+  "kpiMatricsGroupTrackingId": "d78c8215-1c4a-4f3a-87d2-ce6cf0a5d98a",
+  "kpiMatricsId": "KPI064",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Lost Time Reduction",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b92"
+  },
+  "kpiMatricsGroupTrackingId": "55f7f025-4554-4082-a15a-6d2c999499c4",
+  "kpiMatricsId": "KPI064",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Treatment Leakage Reduction",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b93"
+  },
+  "kpiMatricsGroupTrackingId": "8e30abbb-1b8f-42fb-a195-e51e0bde3488",
+  "kpiMatricsId": "KPI066",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Care Plan Compliance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b94"
+  },
+  "kpiMatricsGroupTrackingId": "0d9482fc-05dc-4e91-a35e-058ffbe6eab5",
+  "kpiMatricsId": "KPI066",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Nurse Visit Compliance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b95"
+  },
+  "kpiMatricsGroupTrackingId": "8e2a7d44-4f1c-4096-8a08-b1e79021423e",
+  "kpiMatricsId": "KPI067",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b96"
+  },
+  "kpiMatricsGroupTrackingId": "ce195262-2c50-4220-a155-2119a7f543f5",
+  "kpiMatricsId": "KPI067",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Nurse Visit Compliance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b97"
+  },
+  "kpiMatricsGroupTrackingId": "dd842b85-a065-4c80-ab78-9f3cf8c5a9b7",
+  "kpiMatricsId": "KPI068",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b98"
+  },
+  "kpiMatricsGroupTrackingId": "87850fd4-cbca-4908-bd41-6d67d4c3b4e3",
+  "kpiMatricsId": "KPI069",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Injured Worker Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b99"
+  },
+  "kpiMatricsGroupTrackingId": "dc1cf899-deab-42d2-aab5-35fd6ce2b563",
+  "kpiMatricsId": "KPI071",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Approval Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b9a"
+  },
+  "kpiMatricsGroupTrackingId": "b8d5ec7d-2169-41c0-a131-76bf1302a99c",
+  "kpiMatricsId": "KPI071",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Intervention Acceptance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b9b"
+  },
+  "kpiMatricsGroupTrackingId": "6162b5d6-46ee-4384-af03-e61e5a6c7441",
+  "kpiMatricsId": "KPI071",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Clinical Recommendation Adoption Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b9c"
+  },
+  "kpiMatricsGroupTrackingId": "a98f8a82-451a-47da-8437-233dfbbf70a2",
+  "kpiMatricsId": "KPI072",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prior Authorization Dispute Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b9d"
+  },
+  "kpiMatricsGroupTrackingId": "361e2a10-9452-4668-a21c-119168de5050",
+  "kpiMatricsId": "KPI072",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Opioid Litigation Flag Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b9e"
+  },
+  "kpiMatricsGroupTrackingId": "0045bacb-be37-45fd-87f4-1ad5df6d4baf",
+  "kpiMatricsId": "KPI073",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prescription Review TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b9f"
+  },
+  "kpiMatricsGroupTrackingId": "8a66551f-b0d5-4f3a-8b15-09d51f348946",
+  "kpiMatricsId": "KPI073",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prior Authorization TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba0"
+  },
+  "kpiMatricsGroupTrackingId": "fd4f1938-c343-45db-b517-6f6e34a717e6",
+  "kpiMatricsId": "KPI073",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba1"
+  },
+  "kpiMatricsGroupTrackingId": "966a4179-1a03-4cb6-94d3-add9c1d9ddc5",
+  "kpiMatricsId": "KPI073",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba2"
+  },
+  "kpiMatricsGroupTrackingId": "18e12711-0d37-4c7b-91ac-f5f2ce7cb80a",
+  "kpiMatricsId": "KPI074",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Pharmacy Cost Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba3"
+  },
+  "kpiMatricsGroupTrackingId": "973ba2fb-3f0c-45bf-8687-45025473f9cc",
+  "kpiMatricsId": "KPI074",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Generic Conversion Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba4"
+  },
+  "kpiMatricsGroupTrackingId": "72a59995-dafa-47a3-afc0-cc0f10bf9c32",
+  "kpiMatricsId": "KPI074",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Opioid Reduction Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba5"
+  },
+  "kpiMatricsGroupTrackingId": "46d3c3c8-5b1e-4e2f-a6cf-250f9ae5a70b",
+  "kpiMatricsId": "KPI076",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Prescription Rework Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba6"
+  },
+  "kpiMatricsGroupTrackingId": "90b635af-9b0e-4225-9856-a8ef9ba3d468",
+  "kpiMatricsId": "KPI076",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Approval Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba7"
+  },
+  "kpiMatricsGroupTrackingId": "ffc34227-c47c-4cd0-a41b-486d361b7308",
+  "kpiMatricsId": "KPI076",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Clinical Recommendation Adoption Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba8"
+  },
+  "kpiMatricsGroupTrackingId": "5f1bda6a-cb14-41f6-b597-fd6cd6cae3d4",
+  "kpiMatricsId": "KPI077",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Opioid Utilization Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ba9"
+  },
+  "kpiMatricsGroupTrackingId": "bb2bcfec-f0d8-404e-b8c0-1fc410cb6716",
+  "kpiMatricsId": "KPI077",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Escalation To Clinical Review Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2baa"
+  },
+  "kpiMatricsGroupTrackingId": "8dcc396e-6072-4c36-b2fb-3f347f9b4ed2",
+  "kpiMatricsId": "KPI078",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bab"
+  },
+  "kpiMatricsGroupTrackingId": "e3bf4104-4c83-493b-a09f-1e044a7a2b12",
+  "kpiMatricsId": "KPI078",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Physician Engagement Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bac"
+  },
+  "kpiMatricsGroupTrackingId": "03d28222-6bf7-4e4d-be66-087c60b630ed",
+  "kpiMatricsId": "KPI079",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Injured Worker Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bad"
+  },
+  "kpiMatricsGroupTrackingId": "40ebcacc-0320-48a8-ba47-8160b0c39070",
+  "kpiMatricsId": "KPI081",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "RTW Success Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bae"
+  },
+  "kpiMatricsGroupTrackingId": "4eb83b73-9430-4bc8-b93a-76d6c2e61f4b",
+  "kpiMatricsId": "KPI081",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Sustained RTW Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2baf"
+  },
+  "kpiMatricsGroupTrackingId": "17f7409c-d15b-4471-948e-41ab3735db71",
+  "kpiMatricsId": "KPI081",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Modified Duty Placement Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb0"
+  },
+  "kpiMatricsGroupTrackingId": "e04182f7-e0c8-4a6b-b383-8ba332bd9e9b",
+  "kpiMatricsId": "KPI081",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Restriction Accommodation Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb1"
+  },
+  "kpiMatricsGroupTrackingId": "ef53b7f4-8b92-4612-a4e8-f4f87f2cd1cb",
+  "kpiMatricsId": "KPI083",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "RTW Plan Creation TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb2"
+  },
+  "kpiMatricsGroupTrackingId": "f64e8f19-ad4c-4c93-aba8-de15dec40049",
+  "kpiMatricsId": "KPI083",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Job Accommodation Identification TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb3"
+  },
+  "kpiMatricsGroupTrackingId": "cd88072e-1fb8-42ab-acd2-403d5acaab80",
+  "kpiMatricsId": "KPI083",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "RTW Acceleration",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb4"
+  },
+  "kpiMatricsGroupTrackingId": "4cca1ad8-a219-496c-92cb-23a984fa7d68",
+  "kpiMatricsId": "KPI084",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Indemnity Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb5"
+  },
+  "kpiMatricsGroupTrackingId": "d30624b4-b3b8-4c62-b06a-93c6c6671dd9",
+  "kpiMatricsId": "KPI084",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Temporary Disability Reduction",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb6"
+  },
+  "kpiMatricsGroupTrackingId": "f1efee0c-0005-423b-9cef-8bfd4653c640",
+  "kpiMatricsId": "KPI084",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Lost Time Reduction",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb7"
+  },
+  "kpiMatricsGroupTrackingId": "1d352109-a3ce-4439-9921-13784883158f",
+  "kpiMatricsId": "KPI084",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb8"
+  },
+  "kpiMatricsGroupTrackingId": "18472729-4dac-40c1-9164-dc625f3cc46b",
+  "kpiMatricsId": "KPI086",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "RTW Plan Revision Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bb9"
+  },
+  "kpiMatricsGroupTrackingId": "a6061c57-0ffe-4f39-82b6-db12d7945e35",
+  "kpiMatricsId": "KPI086",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Accommodation Rework Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bba"
+  },
+  "kpiMatricsGroupTrackingId": "12f79792-23b4-48c6-9760-839c37fed60b",
+  "kpiMatricsId": "KPI086",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "RTW Coordinator Effectiveness Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bbb"
+  },
+  "kpiMatricsGroupTrackingId": "e066dee3-efc6-4848-a488-ef7b156e7425",
+  "kpiMatricsId": "KPI087",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "RTW Success Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bbc"
+  },
+  "kpiMatricsGroupTrackingId": "63a59c81-df7c-40b3-8899-25071c59b505",
+  "kpiMatricsId": "KPI088",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bbd"
+  },
+  "kpiMatricsGroupTrackingId": "4193f656-415e-4096-acbc-ed59036a325d",
+  "kpiMatricsId": "KPI088",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Employer Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bbe"
+  },
+  "kpiMatricsGroupTrackingId": "292257ee-cfbc-4d93-9931-32498c38fadd",
+  "kpiMatricsId": "KPI089",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Injured Worker Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bbf"
+  },
+  "kpiMatricsGroupTrackingId": "29be6a9f-f208-4527-9348-e24dfd6bea49",
+  "kpiMatricsId": "KPI091",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Acceptance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc0"
+  },
+  "kpiMatricsGroupTrackingId": "c232f35f-7c2d-4fb7-8632-92f174bdaa3a",
+  "kpiMatricsId": "KPI091",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Document Completeness Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc1"
+  },
+  "kpiMatricsGroupTrackingId": "52f1d5d8-5107-4469-906d-0d9374202df6",
+  "kpiMatricsId": "KPI092",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Complex Litigation Identification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc2"
+  },
+  "kpiMatricsGroupTrackingId": "56aa20f5-f563-46f8-8ecd-2dc66da52e12",
+  "kpiMatricsId": "KPI092",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Litigation Complexity Reclassification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc3"
+  },
+  "kpiMatricsGroupTrackingId": "c24c63ec-d920-44d8-bd6b-8b5eec3d517f",
+  "kpiMatricsId": "KPI092",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Cost Savings (LAE)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc4"
+  },
+  "kpiMatricsGroupTrackingId": "c9c10b4e-beda-4088-9125-be0db3acb67e",
+  "kpiMatricsId": "KPI093",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Production Turnaround Time (TAT)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc5"
+  },
+  "kpiMatricsGroupTrackingId": "66f1e073-fbe1-4627-bd4d-71edbdbe8e52",
+  "kpiMatricsId": "KPI093",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc6"
+  },
+  "kpiMatricsGroupTrackingId": "1518dbed-3a99-4426-a890-897078dbe09e",
+  "kpiMatricsId": "KPI093",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc7"
+  },
+  "kpiMatricsGroupTrackingId": "5c1f5dda-69fe-408a-9cea-0df42fbf82c3",
+  "kpiMatricsId": "KPI094",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Cost Savings (LAE)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc8"
+  },
+  "kpiMatricsGroupTrackingId": "1f822177-b096-4da0-8acf-6806aa689ec8",
+  "kpiMatricsId": "KPI094",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Cost per Production",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bc9"
+  },
+  "kpiMatricsGroupTrackingId": "c0126d51-e7b5-499f-ad80-b67411ac3e32",
+  "kpiMatricsId": "KPI096",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Rework Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bca"
+  },
+  "kpiMatricsGroupTrackingId": "b7de6d2f-37fe-49c3-8e6c-ca6d022ef7bc",
+  "kpiMatricsId": "KPI096",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Document Completeness Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bcb"
+  },
+  "kpiMatricsGroupTrackingId": "36a480c9-e1a2-4526-bdfb-a2ba4da69c11",
+  "kpiMatricsId": "KPI096",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Redaction Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bcc"
+  },
+  "kpiMatricsGroupTrackingId": "2bbbbaac-4fb3-4b14-929e-9958361ce981",
+  "kpiMatricsId": "KPI097",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bcd"
+  },
+  "kpiMatricsGroupTrackingId": "5bb0861b-9624-458b-9ab8-d60c809796ba",
+  "kpiMatricsId": "KPI097",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Redaction Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bce"
+  },
+  "kpiMatricsGroupTrackingId": "98736830-1b32-47f9-8f9f-1e2fa4e5717a",
+  "kpiMatricsId": "KPI098",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bcf"
+  },
+  "kpiMatricsGroupTrackingId": "533d5d2e-3350-43c7-bf15-4dfe38a6e404",
+  "kpiMatricsId": "KPI099",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Attorney Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd0"
+  },
+  "kpiMatricsGroupTrackingId": "5fe2cfbb-b126-46ee-8bc0-f7b941b8359d",
+  "kpiMatricsId": "KPI101",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Success Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd1"
+  },
+  "kpiMatricsGroupTrackingId": "239c7348-5db0-4626-9341-ddac057713e7",
+  "kpiMatricsId": "KPI101",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Record Completeness Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd2"
+  },
+  "kpiMatricsGroupTrackingId": "23e31a8b-7419-4472-9503-fae12a5459f0",
+  "kpiMatricsId": "KPI101",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Accuracy Improvement",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd3"
+  },
+  "kpiMatricsGroupTrackingId": "ddfe0522-6a50-4a29-8740-4269102ee34d",
+  "kpiMatricsId": "KPI102",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Cost Savings (LAE)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd4"
+  },
+  "kpiMatricsGroupTrackingId": "0ac05e93-f73f-42e0-b270-a6ce36004bb0",
+  "kpiMatricsId": "KPI102",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "High Severity Identification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd5"
+  },
+  "kpiMatricsGroupTrackingId": "9cfb3fc1-40ab-47a1-96f0-8ca58b7929dd",
+  "kpiMatricsId": "KPI102",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Adjustment Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd6"
+  },
+  "kpiMatricsGroupTrackingId": "67a6c3a0-0c7a-4ccc-9e87-7c29becd8274",
+  "kpiMatricsId": "KPI103",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Records Retrieval TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd7"
+  },
+  "kpiMatricsGroupTrackingId": "0deed494-a625-426c-b578-6bc60574f48a",
+  "kpiMatricsId": "KPI103",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd8"
+  },
+  "kpiMatricsGroupTrackingId": "2b65183b-ccf3-44fe-ba8d-1486d787c9ef",
+  "kpiMatricsId": "KPI103",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Cycle Time Reduction",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bd9"
+  },
+  "kpiMatricsGroupTrackingId": "af6e5a5c-79ff-4854-af34-543501e425c9",
+  "kpiMatricsId": "KPI103",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bda"
+  },
+  "kpiMatricsGroupTrackingId": "cd07c074-a105-4b71-a838-ea4ef413edfa",
+  "kpiMatricsId": "KPI104",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Cost Savings (LAE)",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bdb"
+  },
+  "kpiMatricsGroupTrackingId": "ce4cc6d5-943f-432d-8783-bfc04065671d",
+  "kpiMatricsId": "KPI104",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Cost Per Retrieval Assignment",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bdc"
+  },
+  "kpiMatricsGroupTrackingId": "bf412dbd-5b14-4fe7-a887-fc7796927572",
+  "kpiMatricsId": "KPI106",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Pass Success Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bdd"
+  },
+  "kpiMatricsGroupTrackingId": "353d7a25-561f-4acc-9602-34ede44d2473",
+  "kpiMatricsId": "KPI106",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Rework Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bde"
+  },
+  "kpiMatricsGroupTrackingId": "7314d708-5795-4cb6-9824-24662396aa1c",
+  "kpiMatricsId": "KPI106",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Record Completeness Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bdf"
+  },
+  "kpiMatricsGroupTrackingId": "49d723a9-ae39-4ed5-8d73-bc8b097c5cb4",
+  "kpiMatricsId": "KPI107",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be0"
+  },
+  "kpiMatricsGroupTrackingId": "24ec1973-8aba-4ce6-add4-a722bb9c6596",
+  "kpiMatricsId": "KPI107",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Reserve Adjustment Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be1"
+  },
+  "kpiMatricsGroupTrackingId": "3e95de81-79dc-4875-be39-cf5a34231882",
+  "kpiMatricsId": "KPI108",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be2"
+  },
+  "kpiMatricsGroupTrackingId": "107ef337-5859-43f7-aad0-db45af3b8424",
+  "kpiMatricsId": "KPI109",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Defense Attorney Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be3"
+  },
+  "kpiMatricsGroupTrackingId": "e876fa32-37f7-4e53-a688-3d94a1af1b77",
+  "kpiMatricsId": "KPI111",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Recovery Success Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be4"
+  },
+  "kpiMatricsGroupTrackingId": "1340529f-b616-4955-a250-3fcb31db93ca",
+  "kpiMatricsId": "KPI111",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Settlement Acceptance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be5"
+  },
+  "kpiMatricsGroupTrackingId": "1d126244-2c9d-4d62-9d6f-081d1716e96d",
+  "kpiMatricsId": "KPI111",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Recovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be6"
+  },
+  "kpiMatricsGroupTrackingId": "bcb89475-62e2-4f22-ac59-9ce8022148cf",
+  "kpiMatricsId": "KPI112",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Litigation Referral Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be7"
+  },
+  "kpiMatricsGroupTrackingId": "c73ad626-8700-4fda-b79f-7c3dd39e2aab",
+  "kpiMatricsId": "KPI112",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Third-Party Liability Identification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be8"
+  },
+  "kpiMatricsGroupTrackingId": "678ccb50-80ed-4eb2-a96a-f4acd9e56bf4",
+  "kpiMatricsId": "KPI112",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "High-Value Recovery Identification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2be9"
+  },
+  "kpiMatricsGroupTrackingId": "286f780c-60a4-42bb-846a-d2bd7bf1e688",
+  "kpiMatricsId": "KPI113",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Referral Acceptance TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bea"
+  },
+  "kpiMatricsGroupTrackingId": "056e61ff-9b06-4b96-b925-b66f094a9e57",
+  "kpiMatricsId": "KPI113",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Demand Package TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2beb"
+  },
+  "kpiMatricsGroupTrackingId": "68ca13e0-59ca-4dba-8ab3-72035ae73ba6",
+  "kpiMatricsId": "KPI113",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Recovery Cycle Time",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bec"
+  },
+  "kpiMatricsGroupTrackingId": "c659b40a-ddaf-4204-a2aa-16878e42ce8b",
+  "kpiMatricsId": "KPI113",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bed"
+  },
+  "kpiMatricsGroupTrackingId": "992336ba-d1c3-447c-95e6-0b74e53c45be",
+  "kpiMatricsId": "KPI114",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Net Recovery",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bee"
+  },
+  "kpiMatricsGroupTrackingId": "c9aa8740-fbf9-4405-8f45-3db9cf9c67ee",
+  "kpiMatricsId": "KPI114",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Recovery ROI",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bef"
+  },
+  "kpiMatricsGroupTrackingId": "2f41ccc5-3c3c-4407-ac0c-3555700cd28b",
+  "kpiMatricsId": "KPI114",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Recovery Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf0"
+  },
+  "kpiMatricsGroupTrackingId": "6becb3e7-3c96-490c-9f57-8eb74d177a92",
+  "kpiMatricsId": "KPI116",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Demand Rework Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf1"
+  },
+  "kpiMatricsGroupTrackingId": "ab27e11a-dfb8-4b03-af98-a8565dac5886",
+  "kpiMatricsId": "KPI116",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Recovery Recommendation Adoption Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf2"
+  },
+  "kpiMatricsGroupTrackingId": "3cb08243-cfb3-442e-ad0f-10b5032d8d76",
+  "kpiMatricsId": "KPI117",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf3"
+  },
+  "kpiMatricsGroupTrackingId": "65c9cf33-75b1-46fb-b60f-0d4e7e6171f0",
+  "kpiMatricsId": "KPI118",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf4"
+  },
+  "kpiMatricsGroupTrackingId": "6b01a07c-3880-4a41-ab29-087d4ef517af",
+  "kpiMatricsId": "KPI119",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Recovery Transparency Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf5"
+  },
+  "kpiMatricsGroupTrackingId": "6f5cd46c-0b38-4234-891a-a5b9bea7d068",
+  "kpiMatricsId": "KPI119",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Third-Party Response Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf6"
+  },
+  "kpiMatricsGroupTrackingId": "9ff6a3ec-fcbc-4f46-876a-3eb2262b10c8",
+  "kpiMatricsId": "KPI121",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Case Resolution Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf7"
+  },
+  "kpiMatricsGroupTrackingId": "b8e2acb5-6570-4398-8e8c-3856f0e1e637",
+  "kpiMatricsId": "KPI121",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Return-to-Work Achievement Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf8"
+  },
+  "kpiMatricsGroupTrackingId": "4d45b177-075e-43d1-ac2a-e54667880be4",
+  "kpiMatricsId": "KPI122",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Attorney Involvement Prevention Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bf9"
+  },
+  "kpiMatricsGroupTrackingId": "ca650fe4-927c-42f7-8c4b-773a8a2b4acb",
+  "kpiMatricsId": "KPI122",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Pre-Litigation Identification Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bfa"
+  },
+  "kpiMatricsGroupTrackingId": "f1208b6f-9eec-48eb-8e7d-824d31f099c2",
+  "kpiMatricsId": "KPI123",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Contact TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bfb"
+  },
+  "kpiMatricsGroupTrackingId": "a6f1f830-bf92-452d-930d-f450edf9eb7b",
+  "kpiMatricsId": "KPI123",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Care Plan Setup TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bfc"
+  },
+  "kpiMatricsGroupTrackingId": "b562d3ff-5aae-44f3-9284-2e106feeb525",
+  "kpiMatricsId": "KPI124",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Medical Cost Savings",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bfd"
+  },
+  "kpiMatricsGroupTrackingId": "d1d52cba-3298-48a5-8778-86471eea5ff9",
+  "kpiMatricsId": "KPI124",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Indemnity Cost Reduction",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bfe"
+  },
+  "kpiMatricsGroupTrackingId": "a8da6d64-c45a-4e7f-a6c6-9aa24e7bf81e",
+  "kpiMatricsId": "KPI126",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Documentation Completeness Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2bff"
+  },
+  "kpiMatricsGroupTrackingId": "f1b4b97b-c1f0-4243-8c9b-8a690fbd7b88",
+  "kpiMatricsId": "KPI126",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Care Plan Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c00"
+  },
+  "kpiMatricsGroupTrackingId": "262c1412-d23c-4c19-ad12-bbcd5cc24dd3",
+  "kpiMatricsId": "KPI127",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c01"
+  },
+  "kpiMatricsGroupTrackingId": "1e3faac6-4884-4a49-918f-381a81e8c2b2",
+  "kpiMatricsId": "KPI127",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Call Recording Compliance Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c02"
+  },
+  "kpiMatricsGroupTrackingId": "e11a0012-4acc-442c-b32d-63a0a5f11ec3",
+  "kpiMatricsId": "KPI128",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c03"
+  },
+  "kpiMatricsGroupTrackingId": "545322a5-f608-40d3-bc4f-6444d5fee518",
+  "kpiMatricsId": "KPI128",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Communication Quality Rating",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c04"
+  },
+  "kpiMatricsGroupTrackingId": "ed63f45c-2186-4622-bc20-84b6956e5a68",
+  "kpiMatricsId": "KPI129",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Injured Worker Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c05"
+  },
+  "kpiMatricsGroupTrackingId": "c984d446-0127-40cd-8a11-683e30fb33a2",
+  "kpiMatricsId": "KPI129",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "First Call Resolution Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c06"
+  },
+  "kpiMatricsGroupTrackingId": "75ef3691-ea69-4adc-aabe-481a3f58dd34",
+  "kpiMatricsId": "KPI131",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "On-Time Completion Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c07"
+  },
+  "kpiMatricsGroupTrackingId": "fdf4ebd5-34b7-4285-86ee-c39237d25ff0",
+  "kpiMatricsId": "KPI131",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Trip Completion Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c08"
+  },
+  "kpiMatricsGroupTrackingId": "9cdaa9df-fdb1-4ad6-b148-f582e19e46fe",
+  "kpiMatricsId": "KPI132",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Incident Documentation Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c09"
+  },
+  "kpiMatricsGroupTrackingId": "f9169e21-ec80-43c7-b910-0f2289db3496",
+  "kpiMatricsId": "KPI132",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Billing Dispute Resolution Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c0a"
+  },
+  "kpiMatricsGroupTrackingId": "c902b286-fe05-4845-88bf-4527fe7f779a",
+  "kpiMatricsId": "KPI133",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Transportation Scheduling TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c0b"
+  },
+  "kpiMatricsGroupTrackingId": "19b8b2f4-d6a4-4be2-b4b1-1daaf3c96829",
+  "kpiMatricsId": "KPI133",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Interpreter Scheduling TAT",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c0c"
+  },
+  "kpiMatricsGroupTrackingId": "cf6224dc-73c7-4c8f-aab8-0690280607f8",
+  "kpiMatricsId": "KPI133",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c0d"
+  },
+  "kpiMatricsGroupTrackingId": "d241e5a4-c44b-401d-ab98-efe90fea51f8",
+  "kpiMatricsId": "KPI133",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance %",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c0e"
+  },
+  "kpiMatricsGroupTrackingId": "aa09d75b-d378-402d-a5fd-8acf2555d703",
+  "kpiMatricsId": "KPI134",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Cost per Trip",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c0f"
+  },
+  "kpiMatricsGroupTrackingId": "aab9554a-631d-4155-bf51-35d3ccee41e5",
+  "kpiMatricsId": "KPI134",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Invoice Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c10"
+  },
+  "kpiMatricsGroupTrackingId": "305fd0eb-5c4f-4de1-9212-e4de2dfb9d7b",
+  "kpiMatricsId": "KPI136",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Trip Confirmation Accuracy Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c11"
+  },
+  "kpiMatricsGroupTrackingId": "785518e9-fd07-4b16-9428-0e8db24f78d0",
+  "kpiMatricsId": "KPI136",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Documentation Completeness Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c12"
+  },
+  "kpiMatricsGroupTrackingId": "61e08d7a-d6f3-43c1-ba12-74adbfe56079",
+  "kpiMatricsId": "KPI137",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "SLA Compliance",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c13"
+  },
+  "kpiMatricsGroupTrackingId": "f32354f1-c650-406c-8d17-5780de6410ec",
+  "kpiMatricsId": "KPI138",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Adjuster Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c14"
+  },
+  "kpiMatricsGroupTrackingId": "6b677bc2-9be9-4348-9463-e9c2c6f59f97",
+  "kpiMatricsId": "KPI138",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Booking Accuracy Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c15"
+  },
+  "kpiMatricsGroupTrackingId": "76c151c6-d532-42ad-bacd-39d477804dea",
+  "kpiMatricsId": "KPI139",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Claimant Transport Satisfaction Score",
+  "isVendorKPI": false,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2c16"
+  },
+  "kpiMatricsGroupTrackingId": "7f3d4aca-24cc-40ba-8238-d4604cd8412f",
+  "kpiMatricsId": "KPI139",
+  "kpiGroupTracking": "",
+  "kpiGroupTrackingSuggestion": "Missed Appointment Rate",
+  "isVendorKPI": true,
+  "isActive": true,
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+}]

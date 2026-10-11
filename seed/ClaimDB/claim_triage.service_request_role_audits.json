@@ -1,0 +1,2236 @@
+[{
+  "_id": {
+    "$oid": "6a1d31ab486d680affc80c0e"
+  },
+  "auditId": "c55a22bd-82b5-4549-8ed2-71dcdf73287e",
+  "roleId": "fd5dc3b8-9f50-43b1-bbcc-031a318b8c73",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T07:15:55.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d31ab486d680affc80c13"
+  },
+  "auditId": "f16d97b1-c513-461d-8295-0ee9a8209e46",
+  "roleId": "fd5dc3b8-9f50-43b1-bbcc-031a318b8c73",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-01T07:15:55.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d4f2c54e8d2313a99cadf"
+  },
+  "auditId": "5195c410-527d-4dad-9a22-9d28336e63db",
+  "roleId": "fd5dc3b8-9f50-43b1-bbcc-031a318b8c73",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T09:21:48.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d4f2c54e8d2313a99cae4"
+  },
+  "auditId": "1445154f-d432-46ae-83f4-7f063cfc6959",
+  "roleId": "fd5dc3b8-9f50-43b1-bbcc-031a318b8c73",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-01T09:21:48.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d4f3354e8d2313a99caf0"
+  },
+  "auditId": "af6c373a-9421-4b62-8e09-b008edf032df",
+  "roleId": "fd5dc3b8-9f50-43b1-bbcc-031a318b8c73",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T09:21:55.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d4f3354e8d2313a99caf5"
+  },
+  "auditId": "8c0ffb53-de86-4090-8761-d9bab4d28600",
+  "roleId": "fd5dc3b8-9f50-43b1-bbcc-031a318b8c73",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-01T09:21:55.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d50c454e8d2313a99cb19"
+  },
+  "auditId": "f7c51fe3-dee5-4b73-80bf-a9c0538c76e1",
+  "roleId": "fd5dc3b8-9f50-43b1-bbcc-031a318b8c73",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T09:28:36.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d50e454e8d2313a99cb25"
+  },
+  "auditId": "52bcc2ed-e4a9-4fee-86bf-4881c4a46a9d",
+  "roleId": "6843253c-4481-46a9-9acb-403e3a7fa9a6",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T09:29:08.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d50e454e8d2313a99cb2a"
+  },
+  "auditId": "09f9ca59-3585-47d3-946f-2c089cc794de",
+  "roleId": "6843253c-4481-46a9-9acb-403e3a7fa9a6",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-01T09:29:08.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d8564eca936fc91cfcdd6"
+  },
+  "auditId": "227f7a13-5c80-46bd-875a-83275559f379",
+  "roleId": "6843253c-4481-46a9-9acb-403e3a7fa9a6",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T13:13:08.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d8564eca936fc91cfcddb"
+  },
+  "auditId": "0d5aaa9f-ad3b-4da5-8063-8b51d32183cf",
+  "roleId": "6843253c-4481-46a9-9acb-403e3a7fa9a6",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-01T13:13:08.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d9a69db492b19439f0768"
+  },
+  "auditId": "b0c98bb2-fdf1-4ac4-850b-0b4f05b73339",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T14:42:49.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d9a69db492b19439f076d"
+  },
+  "auditId": "b7cb46d3-422a-4cbc-bc92-3f68addd6e71",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-01T14:42:49.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d9af7db492b19439f078b"
+  },
+  "auditId": "a5c0ae11-d793-4740-9acc-50d8baf6cae9",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-01T14:45:11.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d9af7db492b19439f0790"
+  },
+  "auditId": "837d7420-e6b8-4c96-bc7f-ba0595b48faa",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-01T14:45:11.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e60e88ab38cbf4e8e830d"
+  },
+  "auditId": "bdc1fc4f-1ecb-49c9-9aab-b6cfba5531a9",
+  "roleId": "dee71902-77ab-47d3-9dd7-9342c07ab22a",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-02T04:49:44.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e60e88ab38cbf4e8e8312"
+  },
+  "auditId": "7a6d586a-246c-4b12-89ca-a3d165e26721",
+  "roleId": "dee71902-77ab-47d3-9dd7-9342c07ab22a",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-02T04:49:44.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e60fd8ab38cbf4e8e831e"
+  },
+  "auditId": "c886179c-9697-4f29-a66e-f544608d8068",
+  "roleId": "4f542f6e-8af0-4127-851d-c0de563188cf",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-02T04:50:05.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e60fd8ab38cbf4e8e8323"
+  },
+  "auditId": "4593f41f-b6cb-4f1f-8845-50f4d48348ce",
+  "roleId": "4f542f6e-8af0-4127-851d-c0de563188cf",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-02T04:50:05.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e61258ab38cbf4e8e8336"
+  },
+  "auditId": "ad2c863e-860e-408b-b063-ed4d97769655",
+  "roleId": "446de58f-f560-4b7d-843e-0c5f6c13799f",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-02T04:50:45.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e61258ab38cbf4e8e833b"
+  },
+  "auditId": "339a5f69-7e5a-45f3-a593-847e49d64118",
+  "roleId": "446de58f-f560-4b7d-843e-0c5f6c13799f",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-02T04:50:45.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e61688ab38cbf4e8e8347"
+  },
+  "auditId": "68b31d3b-bfb7-4b9e-a16a-d5df4e41b8e6",
+  "roleId": "527f5bf3-aa07-4766-8197-4e05bafcb8a3",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-02T04:51:52.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e61688ab38cbf4e8e834c"
+  },
+  "auditId": "315b24e3-a680-4852-b75f-1698692cd9a9",
+  "roleId": "527f5bf3-aa07-4766-8197-4e05bafcb8a3",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-02T04:51:52.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e61988ab38cbf4e8e836e"
+  },
+  "auditId": "c954bb79-67f7-44cf-97cc-af9800d9f9b1",
+  "roleId": "446de58f-f560-4b7d-843e-0c5f6c13799f",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-02T04:52:40.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1e619c8ab38cbf4e8e8373"
+  },
+  "auditId": "b65ae028-5d87-4682-bad9-d3f8250a81f7",
+  "roleId": "527f5bf3-aa07-4766-8197-4e05bafcb8a3",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-02T04:52:44.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2105694704958d2f77d038"
+  },
+  "auditId": "ab1a3c59-e3ea-428b-bd25-72f0ce2bdf42",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T04:56:09.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2105694704958d2f77d03d"
+  },
+  "auditId": "f26c8eef-5bd1-4aac-a263-1d408e889ccc",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T04:56:09.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218313b85d0272de594581"
+  },
+  "auditId": "2b1f8ae7-0e9c-456e-9bb8-0ad5ca4977a5",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T13:52:19.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218313b85d0272de594589"
+  },
+  "auditId": "8280b759-c78b-45ab-93db-ae0bb32f9af8",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T13:52:19.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218328b85d0272de594595"
+  },
+  "auditId": "2f64c1da-2d27-4743-9c21-0520a412cc5b",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T13:52:40.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218328b85d0272de59459d"
+  },
+  "auditId": "adf95411-5a18-401f-af65-ccd0eea5dfb3",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T13:52:40.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218346b85d0272de5945a9"
+  },
+  "auditId": "7d1c87e8-dcda-4d3c-8b6e-a1484d891ca8",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T13:53:10.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218346b85d0272de5945ae"
+  },
+  "auditId": "234e6473-e430-420f-bb44-65ff99083dc9",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T13:53:10.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218905b85d0272de5945ca"
+  },
+  "auditId": "c483f5db-116c-476e-84ed-b2809253b1e7",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:17:41.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218905b85d0272de5945d2"
+  },
+  "auditId": "dec888f7-40d0-4331-909b-4898f16e8ee1",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:17:41.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218bfeb85d0272de5945ea"
+  },
+  "auditId": "08143a77-a435-4667-87b3-9fedb7e41266",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:30:22.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218bfeb85d0272de5945f2"
+  },
+  "auditId": "4fd9a691-9e34-4910-914c-8921d526d9a0",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:30:22.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218c5eb85d0272de5945fe"
+  },
+  "auditId": "530f425d-5bd4-42c8-bb5b-3db597a56cab",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:31:58.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218c5eb85d0272de594606"
+  },
+  "auditId": "24ab4830-3023-4865-8091-f3bc1a244bd1",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:31:58.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218d15b85d0272de594619"
+  },
+  "auditId": "b15f122d-567b-4d0f-924f-1aab86a544cd",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:35:01.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218d15b85d0272de59461f"
+  },
+  "auditId": "9926ce43-2bf9-40a4-bb82-361563454cc4",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:35:01.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218d5db85d0272de59462b"
+  },
+  "auditId": "e0c4998f-7ab0-4505-bb70-2d6e1ea41b24",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:36:13.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218d5db85d0272de594631"
+  },
+  "auditId": "0742a406-7035-4b30-9510-500092ecf262",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:36:13.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218d8bb85d0272de594642"
+  },
+  "auditId": "e1c680ed-2112-439c-bc13-7c8de60cdbc5",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:36:59.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218d8bb85d0272de594647"
+  },
+  "auditId": "bd78969f-5300-44f8-88a0-fb424caca1be",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:36:59.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218dacb85d0272de594655"
+  },
+  "auditId": "891635f1-d068-4409-a571-92de8d0c212a",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:37:32.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218dacb85d0272de59465d"
+  },
+  "auditId": "b971f536-e0a5-4e0e-a9ed-507ffa5133aa",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:37:32.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218dbeb85d0272de594669"
+  },
+  "auditId": "0365f7d8-13fd-4f56-8db8-88153e1cf8f5",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:37:50.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218dbeb85d0272de594671"
+  },
+  "auditId": "6c12dfdf-8eb1-43a0-9132-42c7ea08cd54",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:37:50.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218dd2b85d0272de59467d"
+  },
+  "auditId": "4eac71e7-ee79-4520-a8f0-b4c1d6bc41a7",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:38:10.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218dd2b85d0272de594685"
+  },
+  "auditId": "513f9edc-107d-4908-8b53-9b3987ab0c2f",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:38:10.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218e12b85d0272de594691"
+  },
+  "auditId": "326875ca-0ab2-4c46-85ac-d26c0b7f771d",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:39:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218e12b85d0272de594697"
+  },
+  "auditId": "dccd1692-5b2e-4f5a-8b71-baaeaaa7d64f",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:39:14.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218e68b85d0272de5946a3"
+  },
+  "auditId": "e284db8e-430d-4185-a818-e536634433de",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:40:40.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218e68b85d0272de5946ab"
+  },
+  "auditId": "7fad8dde-e080-4104-9635-745a52ccefbb",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:40:40.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218eb1b85d0272de5946b7"
+  },
+  "auditId": "d2afa735-125e-4221-8d92-883dfff9a06d",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:41:53.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218eb1b85d0272de5946be"
+  },
+  "auditId": "e1b6e9f9-466d-47d4-b9fd-e62e4a899aba",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:41:53.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218edbb85d0272de5946ca"
+  },
+  "auditId": "95d4ff3c-4286-4467-8ae3-4791c2de321f",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:42:35.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218edbb85d0272de5946d0"
+  },
+  "auditId": "d1cd9ab6-084d-4257-a227-1ca3f8866329",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:42:35.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218f00b85d0272de5946dc"
+  },
+  "auditId": "d96275fa-a94c-40b4-83c9-5dd05aa83ed9",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:43:12.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218f00b85d0272de5946e1"
+  },
+  "auditId": "db2de486-bf17-4150-9479-32094521eb70",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-04T14:43:12.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218f09b85d0272de5946ea"
+  },
+  "auditId": "ad9d99ab-bc24-4d3d-82a6-48bbf72af0ed",
+  "roleId": "dee71902-77ab-47d3-9dd7-9342c07ab22a",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:43:21.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218f0fb85d0272de5946ef"
+  },
+  "auditId": "6743145f-4711-455b-bf12-8208ca852ba6",
+  "roleId": "4f542f6e-8af0-4127-851d-c0de563188cf",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:43:27.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a218f1cb85d0272de5946f9"
+  },
+  "auditId": "c05ac5db-04a3-4d25-8382-f12b3e602a72",
+  "roleId": "6843253c-4481-46a9-9acb-403e3a7fa9a6",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-04T14:43:40.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2917054b57f80408e27c35"
+  },
+  "auditId": "6d68023c-142f-4e1d-afa3-68e17e84dc63",
+  "roleId": "60a5bd48-d17f-4ed6-b245-91e7a72c6632",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-10T07:49:25.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2917054b57f80408e27c3a"
+  },
+  "auditId": "8683fed2-66a4-4d6c-ac4c-3f54e909866f",
+  "roleId": "60a5bd48-d17f-4ed6-b245-91e7a72c6632",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-10T07:49:25.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2933dd84f8f968947a5bd4"
+  },
+  "auditId": "35174139-10f0-46a6-8692-8f2c16fe9787",
+  "roleId": "60a5bd48-d17f-4ed6-b245-91e7a72c6632",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-10T09:52:29.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29368284f8f968947a5be3"
+  },
+  "auditId": "c290c04d-54e2-44ac-8e17-227adc5b02d8",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-10T10:03:46.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29368284f8f968947a5be8"
+  },
+  "auditId": "dfeeda69-2b36-4c45-a87a-2f8dcef95956",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-10T10:03:46.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bcf992cfb015226a19136"
+  },
+  "auditId": "6ab7b6f9-dbef-4753-9bf3-73c90d2b9afe",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-12T09:21:29.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bcf992cfb015226a1913c"
+  },
+  "auditId": "c3178c52-f24c-419e-9a81-0e8b2c249fad",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-12T09:21:29.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bd0352cfb015226a1916b"
+  },
+  "auditId": "6709dcc5-270d-4084-87ae-ff57975bd866",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-12T09:24:05.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bd0352cfb015226a19170"
+  },
+  "auditId": "4d2bcd71-5b2d-42b4-a572-02e7df5bb74d",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-12T09:24:05.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bd0982cfb015226a19194"
+  },
+  "auditId": "7ac01f1a-0d67-44c8-8a9e-f573ecf9d12e",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-12T09:25:44.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bd0982cfb015226a19199"
+  },
+  "auditId": "ec88c8cb-35ac-46f0-af7c-497e0b41fa50",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-12T09:25:44.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a57bfcda629641611fd7b"
+  },
+  "auditId": "705e2801-3f07-485b-bce0-9a908e5585c3",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T09:54:07.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a57bfcda629641611fd80"
+  },
+  "auditId": "3731be7f-6dec-4d68-ac2c-4a686dacc1e1",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T09:54:07.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a584ccda629641611fdd8"
+  },
+  "auditId": "eae74dac-6e07-4047-af1b-eb12f3d759b1",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T09:56:28.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a584ccda629641611fddd"
+  },
+  "auditId": "f5c63df8-8915-4890-9462-08eba6144d8e",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T09:56:28.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5a3fcda629641611fe02"
+  },
+  "auditId": "6be135a6-f978-46d6-8930-c4d64fb34397",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:04:47.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5a3fcda629641611fe0a"
+  },
+  "auditId": "82c427cc-5635-46f3-ba02-03bba6469946",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:04:47.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5beacda629641611fe4f"
+  },
+  "auditId": "b2dcff45-4388-4c33-9ae8-e42d385f936e",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:11:54.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5beacda629641611fe57"
+  },
+  "auditId": "4239330e-be4e-4d5c-a564-420b4490c967",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:11:54.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5c96cda629641611fe63"
+  },
+  "auditId": "b156a874-51b6-455c-8dba-77f243de3cad",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:14:46.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5c96cda629641611fe6b"
+  },
+  "auditId": "8ad6f14c-50b9-4b29-91a7-107df0e9e503",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:14:46.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5d5bcda629641611fe7c"
+  },
+  "auditId": "c8eaa77c-2a1e-41b8-86f2-2764f5bb3bc6",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:18:03.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5d5bcda629641611fe84"
+  },
+  "auditId": "d4a59b51-72b9-4509-a38b-7abbac532928",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:18:03.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5e7ccda629641611fe90"
+  },
+  "auditId": "f4028511-bd65-44ab-9fd1-74e9b67955d0",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:22:52.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5e7ccda629641611fe96"
+  },
+  "auditId": "fbb7895d-8cc5-4e02-b275-8e81fa6aada4",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:22:52.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5f13cda629641611fea2"
+  },
+  "auditId": "a3b9ac27-3b46-48b2-9b4f-b47d9e0839c9",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:25:23.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5f13cda629641611fea8"
+  },
+  "auditId": "c7566692-c939-403e-acce-3ae676677fb0",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:25:23.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5f52cda629641611feb4"
+  },
+  "auditId": "ad1cb3dc-6cd8-48cf-a366-73815ba0ed0f",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:26:26.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5f52cda629641611feba"
+  },
+  "auditId": "b3ecc4ea-5800-4e40-aa68-7d25912e142b",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:26:26.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5fa8cda629641611fec6"
+  },
+  "auditId": "0de41f9b-8dde-4e7a-b277-9d527ff4a13b",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:27:52.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5fa8cda629641611fecc"
+  },
+  "auditId": "deffcfbe-40e3-4cdd-897e-47a76affc29b",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:27:52.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a601acda629641611fede"
+  },
+  "auditId": "ad9efe41-c8db-40f3-b1b6-847e7cbb348a",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:29:46.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a601acda629641611fee6"
+  },
+  "auditId": "d830c180-b8c3-4247-8934-c725a1f33b66",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:29:46.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a607acda629641611fefc"
+  },
+  "auditId": "4482f693-2e8e-4f7d-83f8-8f4cdaa145b4",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:31:22.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a607acda629641611ff03"
+  },
+  "auditId": "dbb54b30-dc86-4972-b53e-af1e19255c94",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:31:22.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a60b9cda629641611ff10"
+  },
+  "auditId": "99020e6c-4441-4e91-82c2-8a89d526e075",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:32:25.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a60b9cda629641611ff16"
+  },
+  "auditId": "b3398133-7588-4f0f-9bdb-79a0f025437b",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:32:25.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a60f2cda629641611ff22"
+  },
+  "auditId": "c13278b3-42dd-461a-a4cd-011b91879c1d",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:33:22.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a60f2cda629641611ff27"
+  },
+  "auditId": "7a5e1d42-3233-43e5-a75f-6c83f09479b1",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:33:22.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a637dcda629641611ff46"
+  },
+  "auditId": "d40c7fb0-c2a9-430e-be89-3b5e90b8aa59",
+  "roleId": "74ccaf5f-0bd1-43ea-869f-6cc3182a619c",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:44:13.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a637dcda629641611ff4c"
+  },
+  "auditId": "a76ee96d-b2a8-4d16-b591-5f3cb0f94972",
+  "roleId": "74ccaf5f-0bd1-43ea-869f-6cc3182a619c",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:44:13.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a638ecda629641611ff59"
+  },
+  "auditId": "fc863a7d-cfe9-4977-809c-02d950ee25ec",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:44:30.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a638ecda629641611ff5e"
+  },
+  "auditId": "7e52019e-3314-40b3-bf51-eee3d0295fe5",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-23T10:44:30.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6396cda629641611ff66"
+  },
+  "auditId": "d13f9d24-6403-491e-b382-5103c4ed0719",
+  "roleId": "74ccaf5f-0bd1-43ea-869f-6cc3182a619c",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-23T10:44:38.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43862539d3fc4c198fffbc"
+  },
+  "auditId": "4d97015d-43f1-4b4e-b6a4-9e18c391646d",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T09:02:29.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43862539d3fc4c198fffc2"
+  },
+  "auditId": "90c45549-67e6-4b28-8145-e12562adbbc2",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T09:02:29.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a438a4839d3fc4c198fffce"
+  },
+  "auditId": "c2d5dce3-d7ac-457b-af45-9bd34cdb8e12",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T09:20:08.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a438a4839d3fc4c198fffd3"
+  },
+  "auditId": "2e0e98ce-41c5-4258-916d-12b67378ab64",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T09:20:08.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a438ad239d3fc4c198fffdf"
+  },
+  "auditId": "5015a2dd-1cf1-48e1-977c-6e9d673000cc",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T09:22:26.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a438ad239d3fc4c198fffe5"
+  },
+  "auditId": "5daa08aa-fd1e-454a-9e0f-b3493fffa323",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T09:22:26.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a438b4939d3fc4c198ffff9"
+  },
+  "auditId": "7721fb4e-cc6a-4ee5-9002-594b0895e438",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T09:24:25.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a438b4939d3fc4c198ffffe"
+  },
+  "auditId": "6afe5567-8e6f-4885-8b21-d22085c7b0cf",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T09:24:25.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43933039d3fc4c1990001c"
+  },
+  "auditId": "ab085226-7172-4ec8-9049-14e5ead51f11",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T09:58:08.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43933039d3fc4c19900022"
+  },
+  "auditId": "275f68a8-3276-4b1d-a316-d93a9b4eaf5b",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T09:58:08.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43938339d3fc4c1990002e"
+  },
+  "auditId": "309be76d-3e0a-4904-a3e4-85358b68dc6d",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T09:59:31.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43938339d3fc4c19900034"
+  },
+  "auditId": "11b8ca58-0893-4105-8161-b6a8f12e1cc2",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T09:59:31.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43946e2e410673671b1d60"
+  },
+  "auditId": "801a247e-85b9-4b55-b095-265558fa98ab",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:03:26.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43946e2e410673671b1d66"
+  },
+  "auditId": "edad4177-2a2c-4af2-9d94-ac2e23eb599b",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:03:26.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4394bf2e410673671b1dbb"
+  },
+  "auditId": "e196373f-5923-4402-aed1-cabc25abeceb",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:04:47.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4394bf2e410673671b1dc1"
+  },
+  "auditId": "e8d6768f-01d0-4b1a-acd1-ffe632ad9f6e",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:04:47.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43950e2e410673671b1e1d"
+  },
+  "auditId": "7d53f175-9a51-41d5-ba00-b8315971fc2b",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:06:06.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43950e2e410673671b1e23"
+  },
+  "auditId": "f30554ab-202b-442e-b0b3-93ed366ae2b6",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:06:06.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4395902e410673671b1e32"
+  },
+  "auditId": "a6723ba1-176b-4a59-9abe-717e73986089",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:08:16.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4395902e410673671b1e38"
+  },
+  "auditId": "546e65bf-7dff-4bd3-b9c8-e674fe03233a",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:08:16.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43960b2e410673671b1e48"
+  },
+  "auditId": "a352f837-be80-48b2-a546-0700da332c22",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:10:19.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43960b2e410673671b1e4e"
+  },
+  "auditId": "2ba42827-3673-4a1a-a3ca-d3c4318aa578",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:10:19.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4396702e410673671b1e5d"
+  },
+  "auditId": "53fa865a-bbd4-42ff-8bfe-0234209511ca",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:12:00.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4396702e410673671b1e62"
+  },
+  "auditId": "ce3608bc-72dd-41af-82ab-9c390e41280d",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:12:00.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4396c32e410673671b1e6e"
+  },
+  "auditId": "376c5cdf-5c7d-408c-9126-cc2eaca1623b",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:13:23.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4396c32e410673671b1e74"
+  },
+  "auditId": "aea5bb86-5d69-4b15-ada1-e8126ef7ae11",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:13:23.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4397232e410673671b1e80"
+  },
+  "auditId": "dd005cdc-9ff3-4841-84c5-86892ba16af2",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:14:59.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4397232e410673671b1e85"
+  },
+  "auditId": "894102fb-cb54-4c65-a162-b2099dc6afe7",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:14:59.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4397632e410673671b1e91"
+  },
+  "auditId": "c8827be6-458f-4685-86de-c543cc9fe755",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:16:03.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4397632e410673671b1e97"
+  },
+  "auditId": "9e83b655-0e7c-4b0d-9686-57ee9efd543e",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:16:03.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4397e62e410673671b1eb5"
+  },
+  "auditId": "4796feed-05de-4c66-be2f-e8d315b0cc04",
+  "roleId": "471e1998-c9df-4df1-a5eb-82a101b94335",
+  "action": "CREATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:18:14.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4397e62e410673671b1ebb"
+  },
+  "auditId": "e0bbc08a-d88a-4ca9-96c6-f068a55b276a",
+  "roleId": "471e1998-c9df-4df1-a5eb-82a101b94335",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:18:14.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a439df22e410673671b1f4a"
+  },
+  "auditId": "1dcf277d-93cb-4072-ab91-68378a3ed202",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:44:02.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a439df22e410673671b1f50"
+  },
+  "auditId": "8e33f95d-d834-4a3a-90c6-8cb1bb2e83be",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:44:02.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a439eb02e410673671b1f7d"
+  },
+  "auditId": "313fb078-d12c-42ae-b0ce-13feca755fe3",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T10:47:12.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a439eb02e410673671b1f83"
+  },
+  "auditId": "2602fac0-4a2f-40ac-a1e7-a945bf77cce5",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T10:47:12.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43a2362e410673671b2024"
+  },
+  "auditId": "2558a4c3-65c0-4393-8ab5-cde0705bccbb",
+  "roleId": "471e1998-c9df-4df1-a5eb-82a101b94335",
+  "action": "DELETE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T11:02:14.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b2bf19385012dfa73208"
+  },
+  "auditId": "1afed06d-2a2a-4f0b-b0b1-d1c280e50492",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:12:47.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b2bf19385012dfa7320e"
+  },
+  "auditId": "4c83b472-8fa7-4fc5-ae28-6e8a56459af7",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:12:47.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b2f019385012dfa73238"
+  },
+  "auditId": "2f0ccf76-815c-45b0-abd4-75a2824947db",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:13:36.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b2f019385012dfa7323e"
+  },
+  "auditId": "77956cd6-9e74-4a5e-bea8-ed1607f79db4",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:13:36.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b30219385012dfa7324a"
+  },
+  "auditId": "5832e42c-6329-439d-8de8-9ecc93ca674d",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:13:54.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b30219385012dfa73250"
+  },
+  "auditId": "7711e06c-e888-449a-a816-5a742fadec50",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:13:54.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b31919385012dfa7325c"
+  },
+  "auditId": "7e93df38-4838-4053-becb-f1f6c3959d72",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:14:17.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b31919385012dfa73262"
+  },
+  "auditId": "ec6e804b-e3a9-4ea9-bdfe-44c51e0ef466",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:14:17.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b33219385012dfa7327a"
+  },
+  "auditId": "9d359f52-c5c1-4e55-adc1-f22d54ba5a49",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:14:42.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b33219385012dfa73280"
+  },
+  "auditId": "8f7f5857-1555-4399-b6f3-70df9ba1e0e5",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:14:42.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b33e19385012dfa7328c"
+  },
+  "auditId": "32fde4b7-4f0c-4209-aa81-ef3221063674",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:14:54.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b33f19385012dfa73292"
+  },
+  "auditId": "7227f0a9-a545-4d7d-8427-9de763e20078",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:14:55.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b35119385012dfa7329e"
+  },
+  "auditId": "09855cb8-4052-4579-adba-c9541a61fef8",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:15:13.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b35119385012dfa732a3"
+  },
+  "auditId": "d48f8271-b9fc-45fc-a158-c28796e873f9",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:15:13.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b67519385012dfa7331b"
+  },
+  "auditId": "7271e38d-58e0-4134-ae54-898e648ace21",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-06-30T12:28:37.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b67519385012dfa73321"
+  },
+  "auditId": "dbd46572-d824-413e-884b-0edbd3a75700",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-06-30T12:28:37.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a451fbd8f19f3e2c2497183"
+  },
+  "auditId": "e933edba-4eb6-4e3b-8c86-90efd78b84cf",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-01T14:10:05.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a69ab98311dcf28ad93f842"
+  },
+  "auditId": "5753eb8c-cc36-40cb-a2e6-1b632d548462",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-29T07:28:24.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a69abaf311dcf28ad93f848"
+  },
+  "auditId": "57a8dc7d-6265-499d-abbc-79b23d02a647",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-29T07:28:47.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a666fce5d2154731719d4"
+  },
+  "auditId": "079497ba-5d94-48c2-88ae-41753b6692dc",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T06:34:23.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a666fce5d2154731719d9"
+  },
+  "auditId": "ab80bbf7-ed9f-479a-83a5-61e4b0cb3fc5",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-09-04T06:34:23.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66a5ce5d2154731719e7"
+  },
+  "auditId": "08f4b751-39c9-401f-b638-e43d4fb76c47",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T06:35:17.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66a5ce5d2154731719ed"
+  },
+  "auditId": "99db9c91-88c1-4b98-84ed-04c985659920",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-09-04T06:35:17.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66edce5d215473171a0b"
+  },
+  "auditId": "e432a1a8-caba-49e8-b69a-91081217c636",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T06:36:29.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66eece5d215473171a11"
+  },
+  "auditId": "ba21a8d7-e93e-469b-8d27-2b16464d916b",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "SAVE_CONDITIONS",
+  "user": "System",
+  "timestamp": {
+    "$date": "2026-09-04T06:36:30.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aba602fea35ac16fc5ef424"
+  },
+  "auditId": "89962c78-bb63-49bc-921e-8bc3ccf68c77",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-28T12:40:15.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abdee57ea35ac16fc5ef441"
+  },
+  "auditId": "fff11e31-c62f-4b10-90b9-4813f218c2e4",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "action": "UPDATE",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-10-01T05:23:35.198Z"
+  },
+  "__v": 0
+}]

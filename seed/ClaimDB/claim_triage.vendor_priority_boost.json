@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "6a5f30a797b7f93e569f9154"
+  },
+  "vendorId": "d82df70a-10f9-44bd-ad5c-f59ea554fd0d",
+  "__v": 0,
+  "assignmentLimit": null,
+  "boostApplied": true,
+  "createdAt": {
+    "$date": "2026-07-21T08:41:11.226Z"
+  },
+  "createdBy": "claimssupervisor",
+  "reasonForBoost": "Boost for 90 days",
+  "serviceDisciplines": [
+    "Bill Review"
+  ],
+  "states": [
+    "AK"
+  ],
+  "updatedAt": {
+    "$date": "2026-07-21T08:41:11.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a63555997b7f93e569f9167"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "__v": 0,
+  "assignmentLimit": null,
+  "boostApplied": true,
+  "createdAt": {
+    "$date": "2026-07-24T12:06:49.108Z"
+  },
+  "createdBy": "claimssupervisor",
+  "reasonForBoost": "qualified",
+  "serviceDisciplines": [
+    "Records Production (Adverse-Party)"
+  ],
+  "states": [
+    "OK",
+    "LA",
+    "NM"
+  ],
+  "updatedAt": {
+    "$date": "2026-07-24T12:06:49.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a636fbf97b7f93e569f9172"
+  },
+  "vendorId": "49f8b5cf-7bf2-4731-9e82-c86a53dda41e",
+  "__v": 0,
+  "assignmentLimit": null,
+  "boostApplied": true,
+  "createdAt": {
+    "$date": "2026-07-24T13:59:27.183Z"
+  },
+  "createdBy": "claimssupervisor",
+  "reasonForBoost": "y",
+  "serviceDisciplines": [
+    "Bill Review",
+    "Records Production (Adverse-Party)",
+    "Records Retrieval (Defense)",
+    "Catastrophic case management"
+  ],
+  "states": [
+    "AR",
+    "MA"
+  ],
+  "updatedAt": {
+    "$date": "2026-07-24T13:59:27.183Z"
+  }
+}]

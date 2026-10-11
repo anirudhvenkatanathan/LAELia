@@ -1,0 +1,2380 @@
+[{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a90"
+  },
+  "kpiMatricsId": "KPI001",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a91"
+  },
+  "kpiMatricsId": "KPI002",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a92"
+  },
+  "kpiMatricsId": "KPI003",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a93"
+  },
+  "kpiMatricsId": "KPI004",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a94"
+  },
+  "kpiMatricsId": "KPI005",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a95"
+  },
+  "kpiMatricsId": "KPI006",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a96"
+  },
+  "kpiMatricsId": "KPI007",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a97"
+  },
+  "kpiMatricsId": "KPI008",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a98"
+  },
+  "kpiMatricsId": "KPI009",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a99"
+  },
+  "kpiMatricsId": "KPI010",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a9a"
+  },
+  "kpiMatricsId": "KPI011",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a9b"
+  },
+  "kpiMatricsId": "KPI012",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a9c"
+  },
+  "kpiMatricsId": "KPI013",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a9d"
+  },
+  "kpiMatricsId": "KPI014",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a9e"
+  },
+  "kpiMatricsId": "KPI015",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2a9f"
+  },
+  "kpiMatricsId": "KPI016",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa0"
+  },
+  "kpiMatricsId": "KPI017",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa1"
+  },
+  "kpiMatricsId": "KPI018",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa2"
+  },
+  "kpiMatricsId": "KPI019",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa3"
+  },
+  "kpiMatricsId": "KPI020",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa4"
+  },
+  "kpiMatricsId": "KPI021",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa5"
+  },
+  "kpiMatricsId": "KPI022",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa6"
+  },
+  "kpiMatricsId": "KPI023",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa7"
+  },
+  "kpiMatricsId": "KPI024",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa8"
+  },
+  "kpiMatricsId": "KPI025",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aa9"
+  },
+  "kpiMatricsId": "KPI026",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aaa"
+  },
+  "kpiMatricsId": "KPI027",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aab"
+  },
+  "kpiMatricsId": "KPI028",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aac"
+  },
+  "kpiMatricsId": "KPI029",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aad"
+  },
+  "kpiMatricsId": "KPI030",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aae"
+  },
+  "kpiMatricsId": "KPI031",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aaf"
+  },
+  "kpiMatricsId": "KPI032",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab0"
+  },
+  "kpiMatricsId": "KPI033",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab1"
+  },
+  "kpiMatricsId": "KPI034",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab2"
+  },
+  "kpiMatricsId": "KPI035",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab3"
+  },
+  "kpiMatricsId": "KPI036",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab4"
+  },
+  "kpiMatricsId": "KPI037",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab5"
+  },
+  "kpiMatricsId": "KPI038",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab6"
+  },
+  "kpiMatricsId": "KPI039",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab7"
+  },
+  "kpiMatricsId": "KPI040",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab8"
+  },
+  "kpiMatricsId": "KPI041",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ab9"
+  },
+  "kpiMatricsId": "KPI042",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aba"
+  },
+  "kpiMatricsId": "KPI043",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2abb"
+  },
+  "kpiMatricsId": "KPI044",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2abc"
+  },
+  "kpiMatricsId": "KPI045",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2abd"
+  },
+  "kpiMatricsId": "KPI046",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2abe"
+  },
+  "kpiMatricsId": "KPI047",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2abf"
+  },
+  "kpiMatricsId": "KPI048",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac0"
+  },
+  "kpiMatricsId": "KPI049",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac1"
+  },
+  "kpiMatricsId": "KPI050",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac2"
+  },
+  "kpiMatricsId": "KPI051",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac3"
+  },
+  "kpiMatricsId": "KPI052",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac4"
+  },
+  "kpiMatricsId": "KPI053",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac5"
+  },
+  "kpiMatricsId": "KPI054",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac6"
+  },
+  "kpiMatricsId": "KPI055",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac7"
+  },
+  "kpiMatricsId": "KPI056",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac8"
+  },
+  "kpiMatricsId": "KPI057",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ac9"
+  },
+  "kpiMatricsId": "KPI058",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aca"
+  },
+  "kpiMatricsId": "KPI059",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2acb"
+  },
+  "kpiMatricsId": "KPI060",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2acc"
+  },
+  "kpiMatricsId": "KPI061",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2acd"
+  },
+  "kpiMatricsId": "KPI062",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ace"
+  },
+  "kpiMatricsId": "KPI063",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2acf"
+  },
+  "kpiMatricsId": "KPI064",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad0"
+  },
+  "kpiMatricsId": "KPI065",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad1"
+  },
+  "kpiMatricsId": "KPI066",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad2"
+  },
+  "kpiMatricsId": "KPI067",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad3"
+  },
+  "kpiMatricsId": "KPI068",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad4"
+  },
+  "kpiMatricsId": "KPI069",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad5"
+  },
+  "kpiMatricsId": "KPI070",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad6"
+  },
+  "kpiMatricsId": "KPI071",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad7"
+  },
+  "kpiMatricsId": "KPI072",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad8"
+  },
+  "kpiMatricsId": "KPI073",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ad9"
+  },
+  "kpiMatricsId": "KPI074",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ada"
+  },
+  "kpiMatricsId": "KPI075",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2adb"
+  },
+  "kpiMatricsId": "KPI076",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2adc"
+  },
+  "kpiMatricsId": "KPI077",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2add"
+  },
+  "kpiMatricsId": "KPI078",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ade"
+  },
+  "kpiMatricsId": "KPI079",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2adf"
+  },
+  "kpiMatricsId": "KPI080",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae0"
+  },
+  "kpiMatricsId": "KPI081",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae1"
+  },
+  "kpiMatricsId": "KPI082",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae2"
+  },
+  "kpiMatricsId": "KPI083",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae3"
+  },
+  "kpiMatricsId": "KPI084",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae4"
+  },
+  "kpiMatricsId": "KPI085",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae5"
+  },
+  "kpiMatricsId": "KPI086",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae6"
+  },
+  "kpiMatricsId": "KPI087",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae7"
+  },
+  "kpiMatricsId": "KPI088",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae8"
+  },
+  "kpiMatricsId": "KPI089",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ae9"
+  },
+  "kpiMatricsId": "KPI090",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aea"
+  },
+  "kpiMatricsId": "KPI091",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aeb"
+  },
+  "kpiMatricsId": "KPI092",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aec"
+  },
+  "kpiMatricsId": "KPI093",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aed"
+  },
+  "kpiMatricsId": "KPI094",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aee"
+  },
+  "kpiMatricsId": "KPI095",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aef"
+  },
+  "kpiMatricsId": "KPI096",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af0"
+  },
+  "kpiMatricsId": "KPI097",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af1"
+  },
+  "kpiMatricsId": "KPI098",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af2"
+  },
+  "kpiMatricsId": "KPI099",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af3"
+  },
+  "kpiMatricsId": "KPI100",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af4"
+  },
+  "kpiMatricsId": "KPI101",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af5"
+  },
+  "kpiMatricsId": "KPI102",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af6"
+  },
+  "kpiMatricsId": "KPI103",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af7"
+  },
+  "kpiMatricsId": "KPI104",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af8"
+  },
+  "kpiMatricsId": "KPI105",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2af9"
+  },
+  "kpiMatricsId": "KPI106",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2afa"
+  },
+  "kpiMatricsId": "KPI107",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2afb"
+  },
+  "kpiMatricsId": "KPI108",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2afc"
+  },
+  "kpiMatricsId": "KPI109",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2afd"
+  },
+  "kpiMatricsId": "KPI110",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2afe"
+  },
+  "kpiMatricsId": "KPI111",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2aff"
+  },
+  "kpiMatricsId": "KPI112",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b00"
+  },
+  "kpiMatricsId": "KPI113",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b01"
+  },
+  "kpiMatricsId": "KPI114",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b02"
+  },
+  "kpiMatricsId": "KPI115",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b03"
+  },
+  "kpiMatricsId": "KPI116",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b04"
+  },
+  "kpiMatricsId": "KPI117",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b05"
+  },
+  "kpiMatricsId": "KPI118",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b06"
+  },
+  "kpiMatricsId": "KPI119",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b07"
+  },
+  "kpiMatricsId": "KPI120",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b08"
+  },
+  "kpiMatricsId": "KPI121",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b09"
+  },
+  "kpiMatricsId": "KPI122",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b0a"
+  },
+  "kpiMatricsId": "KPI123",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b0b"
+  },
+  "kpiMatricsId": "KPI124",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b0c"
+  },
+  "kpiMatricsId": "KPI125",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b0d"
+  },
+  "kpiMatricsId": "KPI126",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b0e"
+  },
+  "kpiMatricsId": "KPI127",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b0f"
+  },
+  "kpiMatricsId": "KPI128",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b10"
+  },
+  "kpiMatricsId": "KPI129",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b11"
+  },
+  "kpiMatricsId": "KPI130",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b12"
+  },
+  "kpiMatricsId": "KPI131",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Historical Outcomes",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b13"
+  },
+  "kpiMatricsId": "KPI132",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Litigation Effectiveness",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b14"
+  },
+  "kpiMatricsId": "KPI133",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Turnaround Time",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b15"
+  },
+  "kpiMatricsId": "KPI134",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Cost Efficiency",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b16"
+  },
+  "kpiMatricsId": "KPI135",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Capacity",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b17"
+  },
+  "kpiMatricsId": "KPI136",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Report Quality",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b18"
+  },
+  "kpiMatricsId": "KPI137",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Compliance",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b19"
+  },
+  "kpiMatricsId": "KPI138",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Adjuster Satisfaction",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b1a"
+  },
+  "kpiMatricsId": "KPI139",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Claimant Experience",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2b1b"
+  },
+  "kpiMatricsId": "KPI140",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "kpiGroupTracking": "Risk Profile",
+  "isActive": true,
+  "createdBy": "admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "admin",
+  "updatedAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  }
+}]

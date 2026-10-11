@@ -1,0 +1,1612 @@
+[{
+  "_id": {
+    "$oid": "6a4397232e410673671b1e83"
+  },
+  "conditionId": "68d1d2f8-bc20-492d-b0f3-a4eeb4f9b83d",
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "fieldName": "status_interval_days",
+  "operator": "=",
+  "value": "30",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a439df22e410673671b1f4d"
+  },
+  "conditionId": "1793575f-90d9-4dee-874e-c6445bd6af3d",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "fieldName": "treatment_duration_days",
+  "operator": ">",
+  "value": "30",
+  "conditionType": "OR",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a439df22e410673671b1f4e"
+  },
+  "conditionId": "387a0c3e-a353-40f2-820e-70e0bee4d7fe",
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "fieldName": "specialist_referral_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b2f019385012dfa7323b"
+  },
+  "conditionId": "e7471006-d93d-438b-8e82-8033183b86ed",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "fieldName": "disability_duration_days",
+  "operator": ">",
+  "value": "21",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b2f019385012dfa7323c"
+  },
+  "conditionId": "9b4c2fcb-8ad9-4cac-bf17-c98efcc1fa45",
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "fieldName": "Injury type",
+  "operator": "=",
+  "value": "'musculoskeletal'",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b31919385012dfa7325f"
+  },
+  "conditionId": "d61aa368-b698-43e6-9ccb-446405215479",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "fieldName": "claimAmount",
+  "operator": ">",
+  "value": "25000",
+  "conditionType": "OR",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b31919385012dfa73260"
+  },
+  "conditionId": "c6660916-c30c-4552-b8c7-755be8be5b49",
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "fieldName": "legal_representation_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b35119385012dfa732a1"
+  },
+  "conditionId": "f7900a68-e450-44d1-9d0e-0159d9560b7f",
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "fieldName": "distance_to_facility",
+  "operator": ">",
+  "value": "25",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b67519385012dfa7331e"
+  },
+  "conditionId": "74cdd194-9dff-479f-a487-65337de52158",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "fieldName": "total_reserve_amount",
+  "operator": ">",
+  "value": "500000",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a43b67519385012dfa7331f"
+  },
+  "conditionId": "a04c42a0-fda5-4292-8bfd-bfb758173a8c",
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "fieldName": "claimType",
+  "operator": "=",
+  "value": "Workers compensation",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a666fce5d2154731719d7"
+  },
+  "conditionId": "9038f8aa-897f-4f15-9bae-e10fc9f42456",
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "fieldName": "medical_bill_amount",
+  "operator": ">",
+  "value": "0",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66a5ce5d2154731719ea"
+  },
+  "conditionId": "e7de3c0d-d18d-4133-a77f-e37a153a4981",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "fieldName": "severity_category",
+  "operator": "=",
+  "value": "catastrophic",
+  "conditionType": "OR",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66a5ce5d2154731719eb"
+  },
+  "conditionId": "40f9650f-849e-48a0-9ee4-201f40b70139",
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "fieldName": "total_reserve_amount",
+  "operator": ">",
+  "value": "500000",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66eece5d215473171a0e"
+  },
+  "conditionId": "f820874b-81df-4a8f-9871-4f66681b9d40",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "fieldName": "severity_score",
+  "operator": ">=",
+  "value": "7",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a66eece5d215473171a0f"
+  },
+  "conditionId": "d58f9a8e-b531-43ad-a96c-ebe0eaedf348",
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "fieldName": "disability_duration_days",
+  "operator": ">",
+  "value": "10",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "26ae1390b93a19b0f5cd181d"
+  },
+  "conditionId": "d7b9bf76-816b-46c0-9f5e-e7a2cb9f4b48",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "medical_expense_total",
+  "operator": ">",
+  "value": "30000",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "9daa5fb0016fce59a3afe548"
+  },
+  "conditionId": "5995838c-6dbe-4687-91fd-b71d20b37410",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "disability_duration_days",
+  "operator": ">",
+  "value": "60",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b7d2c9cc13c7bccb2a339c3"
+  },
+  "conditionId": "ede5631b-d739-4d1a-9e92-23fab88c2682",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "disability_exceeds_elod_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "71510eb36aa29e711da87870"
+  },
+  "conditionId": "8e176fea-1dd7-434c-a48f-3a39bd5cd2ee",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "disability_exceeds_odg_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "78d70a9e9d58d72b84903667"
+  },
+  "conditionId": "e14ea029-d4ad-440f-b4d3-0e4b3eea9f88",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "provider_capabilities_unavailable_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "0b5125c945b871658fbcf016"
+  },
+  "conditionId": "dce3dca2-569d-48e3-a1c1-d08fd4c57e6f",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "surgical_authorization_requested_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d125a111f1e276ed8efd5800"
+  },
+  "conditionId": "7caf11bc-2da1-43c8-9a36-833fa4c459a5",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "diagnosis_changed_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "590dcf86af60d1033844ec8b"
+  },
+  "conditionId": "26ea3a1a-1871-4c05-b4d9-c51a74ceb62e",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "treatment_disputed_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "f5efc7f5f270eb1334c991ef"
+  },
+  "conditionId": "d3002bcb-fc81-4281-8662-786aa5576c03",
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "fieldName": "permanent_disability_assessment_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61ab357246fdec3353def40a"
+  },
+  "conditionId": "14032b70-a4cd-4442-9577-cfb696e5e9e0",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "liability_evidence_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "82cbb7676c80fa8f1c4109ff"
+  },
+  "conditionId": "bf55b6c0-2490-40e9-9c15-74afc4bb0160",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "potential_recovery_amount",
+  "operator": ">",
+  "value": "35000",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "04ebdeafba54cc38d7031bdd"
+  },
+  "conditionId": "7a5045b4-2031-493e-9bde-e3a50cec0707",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "jurisdiction",
+  "operator": "IN",
+  "value": "CA,TX,FL",
+  "conditionType": "AND",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643320f7db50f5368462f0ff"
+  },
+  "conditionId": "090e7aa2-3536-47b0-bc31-417111bf754c",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "mva_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d931b00875038252767880ce"
+  },
+  "conditionId": "a2dda721-c22a-4862-816d-738ec96e2473",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "product_involvement_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "33be9429870d60527c787fac"
+  },
+  "conditionId": "8acff9d0-9191-4949-ad59-2b7cad6fb59f",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "multiple_entities_jobsite_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "247b60384a2538702913306e"
+  },
+  "conditionId": "6b2536c8-9e16-4f18-87ab-5904b72bb4da",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "contractor_negligence_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "55c2e7b7018c3a94f92ce4d6"
+  },
+  "conditionId": "bb7493b9-2619-43ab-8fef-2fa5e5396fee",
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fieldName": "multiple_insurer_iso_hit_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "add25fec55ce17ef69fa1261"
+  },
+  "conditionId": "5f5f8b15-5bcf-43c4-ad7d-9ae3ad6e28ed",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "fraud_score",
+  "operator": ">",
+  "value": "70",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8cd1ed1dd5e0b520fc05d2a8"
+  },
+  "conditionId": "8a6680db-940f-45d3-89c9-28d2ff1e6838",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "prior_claim_history_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6353609167f5e22544185578"
+  },
+  "conditionId": "27b170eb-dacc-4eb6-9afa-a198d1556334",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "multiple_insurer_iso_hit_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5bc415b135f4a4ca56f8217f"
+  },
+  "conditionId": "593753f6-eacd-4f07-9771-f2c282993504",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "inconsistent_loss_version_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8bcaac61a82c709ace0a47df"
+  },
+  "conditionId": "41d094c6-c162-47a9-b98a-e663476f8afe",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "attorney_initial_notice_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "42ebe6ba40655d1ccc9df581"
+  },
+  "conditionId": "4da45f2c-0860-405c-b0ee-8e9d9d45a728",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "unwitnessed_credibility_concern_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "7a2e8e9c66d53fab59126668"
+  },
+  "conditionId": "2be5aacb-d0ec-476c-962e-067cc5f4c334",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "immediate_counsel_representation_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "3325bfeec2ec36ba1d840d3f"
+  },
+  "conditionId": "23c5f881-4ce0-4b74-9c55-fc00137e7e1b",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "provider_physical_capabilities_unavailable_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "417ff8eb64c323e8f94299b1"
+  },
+  "conditionId": "704485e4-205c-4844-95e4-3fa84afb818c",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "social_media_disability_inconsistency_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "0e12cc9fa3133d5e19c35bdd"
+  },
+  "conditionId": "0e07f188-6c34-42be-89d3-6901fabb2b18",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "psych_overlay_expansion_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "1d805d67f0d43cca164a40fa"
+  },
+  "conditionId": "7572de7a-e315-4ae6-a383-1e463bd8f496",
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fieldName": "ime_appointment_surveillance_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "1d9e1ae133bb88fdd43b43c7"
+  },
+  "conditionId": "8d964750-c698-41b9-a555-d4075bf853f9",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "fieldName": "employer_cooperation_score",
+  "operator": ">=",
+  "value": "7",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "9706cb6bbe33eaff67bd64bf"
+  },
+  "conditionId": "73a16ee6-a4a8-43ca-9834-3d92281f2606",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "fieldName": "claimant_willingness_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "255c08cfd42b3881e6134e2c"
+  },
+  "conditionId": "974c6497-531e-4b0e-9b99-dd4fb4d4c2a4",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "fieldName": "employer_no_modified_work_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6846d28f9c18ffe0d7dd5463"
+  },
+  "conditionId": "2bba268a-dc49-4133-b035-23a325dcaf74",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "fieldName": "job_development_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "090356b55f2f534a0e96b050"
+  },
+  "conditionId": "25d6eee5-b732-436e-869c-145e134adab6",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "fieldName": "transitional_employment_elsewhere_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d72635a0003dd34f4acc172a"
+  },
+  "conditionId": "461c2093-0d3f-4a4d-bd5d-3c564d7c1806",
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "fieldName": "modified_work_release_received_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8d56d939d7a7b3a81edfb3a3"
+  },
+  "conditionId": "d5a2a06a-8859-4b7d-a8f7-aa70938cf4aa",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "severity_score",
+  "operator": ">=",
+  "value": "5",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690ca14ce2b5af0db0197457"
+  },
+  "conditionId": "2bfd8bbe-4850-4556-adbc-6b779ce23b5e",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "disability_duration_days",
+  "operator": ">",
+  "value": "7",
+  "conditionType": "AND",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "84a476c23e3de52ab70b452d"
+  },
+  "conditionId": "bfb592c4-5402-4ff8-bb4f-95780667cdec",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "disability_exceeds_waiting_period_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "f9607589126c4d6afe0b8c3f"
+  },
+  "conditionId": "f5c5c0be-fe8e-44c3-927a-3b0534f9a144",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "surgical_intervention_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8e6ced4c859dbf82536b963b"
+  },
+  "conditionId": "24a64589-fa5f-48e1-ae16-d509d2b0c9ff",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "home_modification_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d9ac51c6a19210becae70268"
+  },
+  "conditionId": "2d385666-e373-432e-9bb9-9c3f429c4ddb",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "serious_injury_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c38fa5310e75873e42a6b"
+  },
+  "conditionId": "d0e18968-48c0-4b4d-b91c-2077a7be0899",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "immediate_hospitalization_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679baada4ba5a4fcaf65d514"
+  },
+  "conditionId": "e0ea3bd2-8e07-4922-b486-7de77cb01276",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "amputation_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "0ba4708e871b4ce4aaf31514"
+  },
+  "conditionId": "7d04186b-de89-4a94-b7b3-f1124d60ff19",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "burn_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "455dafd8fd94c0bd69f699f2"
+  },
+  "conditionId": "93ab2ca2-fd12-4f57-ab31-e3d0111419b8",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "head_trauma_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "fc4119205620f0fd4b2d097b"
+  },
+  "conditionId": "cd929301-6eda-4d03-be0d-7f4ec2bbfafb",
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "fieldName": "stalled_recovery_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "2e75aa8d92e539d588cac40f"
+  },
+  "conditionId": "b1ce3f8a-8591-45d9-b756-1c755fed1d4f",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "first_notice_petition_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "985cccd277de497d2e4f7e27"
+  },
+  "conditionId": "2716a771-a2ca-42b2-a844-4de35d25b95c",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "high_value_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "1f00ea00cc834d923b7d4114"
+  },
+  "conditionId": "8f439080-c1c4-44c5-8517-2c4876c07a4e",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "catastrophic_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d3431ff4f26cedc405a089ed"
+  },
+  "conditionId": "775acca7-2cb7-4ac4-a1b8-d8a3feeb05c8",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "Contested claim",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "be1fec69e957a3c5968de133"
+  },
+  "conditionId": "bc7e1e40-0e89-4d94-a651-fa1834d42ec7",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "Litigated claim",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d1f7d554a14930166d9e46e3"
+  },
+  "conditionId": "df0b073d-6e53-40e3-8999-248d417b76de",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "Fraud flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "08e39ad835c90a95cbd9c61c"
+  },
+  "conditionId": "ed84f3f0-b2dc-4837-8609-25db3cb5fc0b",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "significant_preexisting_condition_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "9bcd8295396d5cdc9996f2bb"
+  },
+  "conditionId": "9db300cf-97a7-4932-8e93-f2ad025a3df3",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "Diagnosis in dispute",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5f6c4a2426ddb25adbfcbbb9"
+  },
+  "conditionId": "e8d4b452-705b-4f5b-a91a-32ad64263a4b",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "large_lump_sum_resolution_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "0efbb5dcea1e685a56c0bfc9"
+  },
+  "conditionId": "aa2b8f37-1c6b-4739-9b3d-26a2833cd45e",
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "fieldName": "medical_set_aside_agreement_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "a3ce804bcfeaace3098e4dbb"
+  },
+  "conditionId": "0610c9f5-43e5-45e3-a980-7bbf2d8c369c",
+  "roleId": "03bb1f3e-d32a-459f-933e-bf6bbb84dabf",
+  "fieldName": "non_panel_provider_referral_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "70d220846ccccc41435e9ca6"
+  },
+  "conditionId": "1ac63b9a-5f89-4f2e-b001-a1db4120cf89",
+  "roleId": "03bb1f3e-d32a-459f-933e-bf6bbb84dabf",
+  "fieldName": "non_panel_treatment_within_statutory_period_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "cac963e32c1527185742466b"
+  },
+  "conditionId": "5b7ea269-4f3b-4f71-ad51-6909dee4a0e5",
+  "roleId": "03bb1f3e-d32a-459f-933e-bf6bbb84dabf",
+  "fieldName": "non_authorized_provider_billing_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "145c4c8bf4844879fdc96550"
+  },
+  "conditionId": "a93933fe-3d65-4b24-b2f1-2f384ed0c4fc",
+  "roleId": "03bb1f3e-d32a-459f-933e-bf6bbb84dabf",
+  "fieldName": "prescription_outside_pbm_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "f06574945d20f1890017c0b7"
+  },
+  "conditionId": "3d2ecd08-6df9-4fbd-8efc-6799980f7b96",
+  "roleId": "03bb1f3e-d32a-459f-933e-bf6bbb84dabf",
+  "fieldName": "surgical_authorization_referral_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "93365e9fd0bb1d336033b14e"
+  },
+  "conditionId": "518c0b38-24f6-4a49-8ee1-4a8abda23c7e",
+  "roleId": "d6cbd9e1-5083-4fd3-ae41-42895d30deeb",
+  "fieldName": "inconsistent_loss_version_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "395f4f25142bda797812e6e5"
+  },
+  "conditionId": "4f53c284-fcdb-4f60-9afe-ed857e17e7c7",
+  "roleId": "d6cbd9e1-5083-4fd3-ae41-42895d30deeb",
+  "fieldName": "liability_negligence_contested_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8848815b8310874c660635c7"
+  },
+  "conditionId": "3f0b84de-f8db-4cc5-aefe-1c40e001ffcf",
+  "roleId": "d6cbd9e1-5083-4fd3-ae41-42895d30deeb",
+  "fieldName": "damages_overstated_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "e335d8c32f669fa3d48676f1"
+  },
+  "conditionId": "9b8f4cdd-b9c6-4dcb-b0d6-0c3015e87f0f",
+  "roleId": "d6cbd9e1-5083-4fd3-ae41-42895d30deeb",
+  "fieldName": "prior_claim_history_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "e7c08d0dafb20b64afdb6711"
+  },
+  "conditionId": "e3027ce9-a3a1-4965-841a-89a26b34e5fa",
+  "roleId": "d6cbd9e1-5083-4fd3-ae41-42895d30deeb",
+  "fieldName": "party_non_cooperation_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "cbeaf33a04f9de870f538478"
+  },
+  "conditionId": "7fe57e7c-7f73-46e7-8b66-5d47dbec9758",
+  "roleId": "fdc422d4-9f71-438e-ac77-fedf1378f4f7",
+  "fieldName": "high_value_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "f967ba348873f48242b94767"
+  },
+  "conditionId": "bb7da2ab-938b-4d0f-ac03-ef7400367acd",
+  "roleId": "fdc422d4-9f71-438e-ac77-fedf1378f4f7",
+  "fieldName": "catastrophic_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "58de338da186da53677aac27"
+  },
+  "conditionId": "870e43fc-5f33-4c2d-96d6-cb65589881ce",
+  "roleId": "fdc422d4-9f71-438e-ac77-fedf1378f4f7",
+  "fieldName": "disputed_cause_origin_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8bb3e19957b858e93960b3e9"
+  },
+  "conditionId": "7799f3e4-1c51-455b-a1d5-7a6417bdc292",
+  "roleId": "fdc422d4-9f71-438e-ac77-fedf1378f4f7",
+  "fieldName": "multiple_entities_jobsite_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "52a1076399b100b2bd06234e"
+  },
+  "conditionId": "a5dbd210-c591-48ea-8865-209757413038",
+  "roleId": "fdc422d4-9f71-438e-ac77-fedf1378f4f7",
+  "fieldName": "liability_contribution_determination_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8c26052bad1ddc4c4cebeebf"
+  },
+  "conditionId": "7902db3c-0246-45e2-b5a7-40f58d7370c7",
+  "roleId": "fdc422d4-9f71-438e-ac77-fedf1378f4f7",
+  "fieldName": "contractor_negligence_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "0cb181b6cb86d47efa37662d"
+  },
+  "conditionId": "3f5e07f6-d28b-41ee-b55d-4bade2bbc8f1",
+  "roleId": "8dacd136-20cf-4365-837c-a21855d5bca3",
+  "fieldName": "no_damage_estimate_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "c0284f26f2d7bb65a56722a6"
+  },
+  "conditionId": "56c40596-7e3b-4430-9c7c-0d7d7df69996",
+  "roleId": "8dacd136-20cf-4365-837c-a21855d5bca3",
+  "fieldName": "vehicle_damage_estimate_amount",
+  "operator": ">",
+  "value": "1000",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "f6b18fcd4f6178e3211f01be"
+  },
+  "conditionId": "a4229b69-d783-4ac3-8773-2467b0738101",
+  "roleId": "8dacd136-20cf-4365-837c-a21855d5bca3",
+  "fieldName": "repair_disagreement_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6c8e5d778b31e834df26e598"
+  },
+  "conditionId": "1fc2be2f-2759-4a13-8673-6a0eca74e6c5",
+  "roleId": "8dacd136-20cf-4365-837c-a21855d5bca3",
+  "fieldName": "total_loss_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "18d8ba2e8c65f7fddcd081ab"
+  },
+  "conditionId": "58823f4d-6a7b-45fb-8a50-a77fcbb7b74f",
+  "roleId": "8dacd136-20cf-4365-837c-a21855d5bca3",
+  "fieldName": "pre_loss_condition_review_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6e9c1a5ba27bc8dd19fba8b7"
+  },
+  "conditionId": "318aad90-46ef-40bb-807f-67be3a0a79e8",
+  "roleId": "8dacd136-20cf-4365-837c-a21855d5bca3",
+  "fieldName": "comparable_vehicle_dispute_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "4c60a771742241b3ba01e57a"
+  },
+  "conditionId": "e81245fe-db77-48bb-85e5-26a1c978d66a",
+  "roleId": "0bbf4eb0-433a-49e0-9fc4-a65e94fec5ee",
+  "fieldName": "repair_shop_referral_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8dd3c7b7f6ad2be73db06e05"
+  },
+  "conditionId": "a6538a92-43ec-404a-88ec-3849cc38f63c",
+  "roleId": "0bbf4eb0-433a-49e0-9fc4-a65e94fec5ee",
+  "fieldName": "antique_vehicle_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "74b17d08d4459aab1efe4b6a"
+  },
+  "conditionId": "adf8f58f-46fa-4124-8abd-b636f0ac553a",
+  "roleId": "dd85a729-d742-4277-b4c4-9d4b15afb9a0",
+  "fieldName": "towing_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "b1f39604537372e489ac6a5e"
+  },
+  "conditionId": "33764411-34a9-4f69-bc88-464db66c0d96",
+  "roleId": "dd85a729-d742-4277-b4c4-9d4b15afb9a0",
+  "fieldName": "total_loss_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "35d8ba0a8daa62bac6f6b6c2"
+  },
+  "conditionId": "cd28444f-bb7f-4afe-9fa5-a57c79c3c305",
+  "roleId": "dd85a729-d742-4277-b4c4-9d4b15afb9a0",
+  "fieldName": "salvage_title_transfer_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "fbdb099e76bfb6069b3923d3"
+  },
+  "conditionId": "057442dc-5f6a-47cc-bccb-a97a5c90dc3f",
+  "roleId": "9b957b16-5b16-4a93-9f69-67dd4fc565e3",
+  "fieldName": "medical_bill_amount",
+  "operator": ">",
+  "value": "0",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "4cad0da40603b255d30adc88"
+  },
+  "conditionId": "91fbfb99-0432-4f8a-9956-0ddd924e8345",
+  "roleId": "9b957b16-5b16-4a93-9f69-67dd4fc565e3",
+  "fieldName": "provider_payment_dispute_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "bef77b188c8f3ba47b9994d0"
+  },
+  "conditionId": "d496aea5-178c-4441-8d4d-b71e22774152",
+  "roleId": "c366ed3e-49c7-44b6-8192-7d801e714dd0",
+  "fieldName": "high_value_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b0327f9131a171c2bb3e56b"
+  },
+  "conditionId": "a52d262b-f777-4013-8547-598b3fa039a5",
+  "roleId": "c366ed3e-49c7-44b6-8192-7d801e714dd0",
+  "fieldName": "catastrophic_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d3aa63327d74ef09acdf9369"
+  },
+  "conditionId": "62cb3cf0-cbb1-47aa-93e1-6140fbb1b752",
+  "roleId": "c366ed3e-49c7-44b6-8192-7d801e714dd0",
+  "fieldName": "liability_negligence_contested_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d41166b1a91c2a8929460e11"
+  },
+  "conditionId": "f18b7082-5699-4116-91a0-ea31038532ed",
+  "roleId": "c366ed3e-49c7-44b6-8192-7d801e714dd0",
+  "fieldName": "product_involvement_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "f6c39b561b3fa72af54c7277"
+  },
+  "conditionId": "0b3223fc-8cc7-49ec-be55-f55d710bdd3d",
+  "roleId": "c366ed3e-49c7-44b6-8192-7d801e714dd0",
+  "fieldName": "faulty_maintenance_allegation_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "2bff55def3d0e4517678dca6"
+  },
+  "conditionId": "4a14d779-d999-4d08-b477-43b38f17ec9b",
+  "roleId": "6403ead4-26e8-4e7d-9fd0-3be887c111f5",
+  "fieldName": "roof_damage_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "13e8c5d8e502bb96fa06d2a1"
+  },
+  "conditionId": "1a81a1af-4ed4-4f7c-849a-2878eb7a7711",
+  "roleId": "6403ead4-26e8-4e7d-9fd0-3be887c111f5",
+  "fieldName": "debris_removal_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "1f4cf7c56006043e8123aacc"
+  },
+  "conditionId": "2b7502a8-d2ed-47f4-a2cd-65b84c302e72",
+  "roleId": "6403ead4-26e8-4e7d-9fd0-3be887c111f5",
+  "fieldName": "hvac_odor_remediation_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "150f8e7e9e47e355d577bfbb"
+  },
+  "conditionId": "ad3f3256-f361-4fae-b3a2-6655b1ed5882",
+  "roleId": "6403ead4-26e8-4e7d-9fd0-3be887c111f5",
+  "fieldName": "mold_remediation_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "4443b19946ed3414b7337d9e"
+  },
+  "conditionId": "62e36073-f2c9-4a24-a45b-287fef02f8d1",
+  "roleId": "6403ead4-26e8-4e7d-9fd0-3be887c111f5",
+  "fieldName": "structural_drying_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "e0754a559113ab83491596ee"
+  },
+  "conditionId": "fdb38399-5eca-4eef-9d24-038b4a11f594",
+  "roleId": "85efc2b6-1027-41c7-8987-b5d05c63344b",
+  "fieldName": "business_interruption_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "e1ee1064978043275af513df"
+  },
+  "conditionId": "780a629d-d6a5-469b-b8ff-5f1183d9a40e",
+  "roleId": "85efc2b6-1027-41c7-8987-b5d05c63344b",
+  "fieldName": "large_additional_expense_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "b96a95ad85286cfa4363878f"
+  },
+  "conditionId": "173601eb-7809-476d-a65c-3a6a35b29017",
+  "roleId": "85efc2b6-1027-41c7-8987-b5d05c63344b",
+  "fieldName": "inflated_value_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "1737168d60156ae788c15b9e"
+  },
+  "conditionId": "c057c752-5ae1-4c79-a7d2-38e4f37476a2",
+  "roleId": "85efc2b6-1027-41c7-8987-b5d05c63344b",
+  "fieldName": "complex_inventory_loss_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "2ee7d159517c0c413763f5fe"
+  },
+  "conditionId": "2c797392-22aa-4197-93ce-a24ff6057308",
+  "roleId": "85efc2b6-1027-41c7-8987-b5d05c63344b",
+  "fieldName": "Litigated claim",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e6e5a913c048c6f3fb027"
+  },
+  "conditionId": "0ca71984-ca92-4d50-8f31-20365b73b24d",
+  "roleId": "85efc2b6-1027-41c7-8987-b5d05c63344b",
+  "fieldName": "potential_recovery_amount",
+  "operator": ">",
+  "value": "35000",
+  "conditionType": "OR",
+  "sortOrder": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "2eabdad55967f129c87bd57c"
+  },
+  "conditionId": "283ec2c5-c413-4f56-9a03-1f7b768d3ee3",
+  "roleId": "5ba3b67c-0a1e-46a8-a209-a6ea648d1aa1",
+  "fieldName": "scene_investigation_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "9cd9e8ed826d8481e293be0b"
+  },
+  "conditionId": "9e49bfeb-08bf-4016-91df-f180751da628",
+  "roleId": "5ba3b67c-0a1e-46a8-a209-a6ea648d1aa1",
+  "fieldName": "police_report_required_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d3e27e96fa6fb9dd75aa1d7e"
+  },
+  "conditionId": "8d880270-c24a-4d10-b5a5-20752870d8ab",
+  "roleId": "f661ec4d-8dc4-4b0c-bcf2-cea1e2b99550",
+  "fieldName": "construction_trade_involvement_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "a740414c12901fd4df20877d"
+  },
+  "conditionId": "2f7af2be-9abd-4685-b504-20621827a3bf",
+  "roleId": "f661ec4d-8dc4-4b0c-bcf2-cea1e2b99550",
+  "fieldName": "special_handling_property_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "cc2d8b3625e548459d72309b"
+  },
+  "conditionId": "1e2ee8df-3859-483c-8310-a116132e8fac",
+  "roleId": "3f325fac-46b9-40a6-9d35-30f2541d7d14",
+  "fieldName": "high_value_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "AND",
+  "sortOrder": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "8de0c31e6800d01b0fa5bd2e"
+  },
+  "conditionId": "8fedde52-629d-4608-a8c8-d2d9bfbe8ba0",
+  "roleId": "3f325fac-46b9-40a6-9d35-30f2541d7d14",
+  "fieldName": "catastrophic_claim_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6e95752ea7d4b9d8fcfc432d"
+  },
+  "conditionId": "6052fb7c-8541-4afa-9bd1-0041170e6e2f",
+  "roleId": "3f325fac-46b9-40a6-9d35-30f2541d7d14",
+  "fieldName": "fraud_score",
+  "operator": ">",
+  "value": "70",
+  "conditionType": "OR",
+  "sortOrder": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "a8f65f33c488118b5ca81dfc"
+  },
+  "conditionId": "4b23d483-df90-4cc1-a5a7-59e3bf338c10",
+  "roleId": "3f325fac-46b9-40a6-9d35-30f2541d7d14",
+  "fieldName": "contractor_negligence_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "d4d16879180fb2e29f3ffcca"
+  },
+  "conditionId": "c3e9c0cf-f4ec-41c4-82b2-0bf72c476bba",
+  "roleId": "3f325fac-46b9-40a6-9d35-30f2541d7d14",
+  "fieldName": "product_involvement_flag",
+  "operator": "!=",
+  "value": "",
+  "conditionType": "OR",
+  "sortOrder": 4,
+  "__v": 0
+}]

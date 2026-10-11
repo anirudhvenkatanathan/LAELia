@@ -1,0 +1,34 @@
+# Render Blueprint — one web service that serves the API (/api, /graphql)
+# and the built React frontend from the same URL.
+# Secrets marked `sync: false` are entered in the Render dashboard, never committed.
+services:
+  - type: web
+    name: laelia
+    runtime: node
+    plan: free
+    region: virginia
+    branch: main
+    autoDeploy: true
+    healthCheckPath: /
+    buildCommand: >-
+      printf 'VITE_GRAPHQL_URL=/graphql\nVITE_API_URL=\n' > .env.production &&
+      cd sourceCode/apps/frontEnd && npm ci --include=dev --no-audit --no-fund && npm run build &&
+      cd ../api && npm ci --include=dev --legacy-peer-deps --no-audit --no-fund && npm run build
+    startCommand: cd sourceCode/apps/api && node dist/server.js
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: MONGO_URI
+        sync: false          # MongoDB Atlas connection string, e.g. mongodb+srv://.../claim_triage
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: SEED_ON_EMPTY
+        value: "true"        # loads seed/ClaimDB only if the database has no users yet
+      - key: TEMPLATE_FOLDER_PATH
+        value: /opt/render/project/src/Template
+      - key: VENDOR_DOC_UPLOAD_PATH
+        value: /tmp/vendor_doc_uploads   # ephemeral on the free plan — see HOSTING.md

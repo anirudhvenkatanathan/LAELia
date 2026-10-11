@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbb5"
+  },
+  "recordId": "06576fe1-9e84-47be-bc41-8511db4525ea",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "recordIndex": 1,
+  "recordData": "{\"Payload Fields\":\"claimNumber\",\"Field Mapping\":\"claimNumber\"}",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbb6"
+  },
+  "recordId": "ad3b0141-9af4-4f64-bb72-4d14805e4159",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "recordIndex": 2,
+  "recordData": "{\"Payload Fields\":\"policyNumber\",\"Field Mapping\":\"policyNumber\"}",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbb7"
+  },
+  "recordId": "e757eb7d-ac58-41cf-a6cd-6a0cf831d84d",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "recordIndex": 3,
+  "recordData": "{\"Payload Fields\":\"insuredName\",\"Field Mapping\":\"insuredName\"}",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbb8"
+  },
+  "recordId": "48aed7a7-6b54-4117-bd3a-b3c59b91629d",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "recordIndex": 4,
+  "recordData": "{\"Payload Fields\":\"lossDate\",\"Field Mapping\":\"lossDate\"}",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbb9"
+  },
+  "recordId": "f144afac-a575-4b62-9300-c8b58067b59f",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "recordIndex": 5,
+  "recordData": "{\"Payload Fields\":\"reportedDate\",\"Field Mapping\":\"reportedDate\"}",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbba"
+  },
+  "recordId": "14b4719c-de37-449b-9e39-5477942fdfed",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "recordIndex": 6,
+  "recordData": "{\"Payload Fields\":\"claimType\",\"Field Mapping\":\"claimType\"}",
+  "__v": 0
+}]

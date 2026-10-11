@@ -1,0 +1,479 @@
+[{
+  "_id": {
+    "$oid": "6a1d9a69db492b19439f0766"
+  },
+  "roleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "uploadId": "manual",
+  "roleName": "Bill Review",
+  "description": "Bill Review",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(medical_bill_amount > 0)",
+  "nlpCondition": "medical_bill_amount > 0",
+  "nlpConditionInWords": "Trigger if the bill exceeds $400 or the provider is out-of-network",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2105694704958d2f77d036"
+  },
+  "roleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "uploadId": "manual",
+  "roleName": "Records Production (Adverse-Party)",
+  "description": "Records Production (Adverse-Party)",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(claimAmount > 25000) OR (legal_representation_flag != '')",
+  "nlpCondition": "claim amount>25000 OR legal_representation_flag is not empty",
+  "nlpConditionInWords": "Trigger if claim amount is above 25k or if a lawyer is present",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218313b85d0272de59457f"
+  },
+  "roleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "uploadId": "manual",
+  "roleName": "Records Retrieval (Defense)",
+  "description": "Records Retrieval (Defense)",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(treatment_duration_days > 30) OR (specialist_referral_flag != '')",
+  "nlpCondition": "treatment_duration_days > 30 OR specialist_referral_flag is not empty",
+  "nlpConditionInWords": "Trigger if treatment lasts more than 30 days or if a specialist referral exists",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218905b85d0272de5945c8"
+  },
+  "roleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "uploadId": "manual",
+  "roleName": "Medical canvassing",
+  "description": "Medical canvassing",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(disability_duration_days > 21) AND (Injury type = ''musculoskeletal'')",
+  "nlpCondition": "disability_duration_days >21 AND injury type = 'musculoskeletal'",
+  "nlpConditionInWords": "Trigger if disability lasts more than 21 days and injury is musculoskeletal",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218bfeb85d0272de5945e8"
+  },
+  "roleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "uploadId": "manual",
+  "roleName": "IME / peer review",
+  "description": "IME / peer review",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(medical_expense_total > 30000) OR (disability_duration_days > 60) OR (disability_exceeds_elod_flag != '') OR (disability_exceeds_odg_flag != '') OR (provider_capabilities_unavailable_flag != '') OR (surgical_authorization_requested_flag != '') OR (diagnosis_changed_flag != '') OR (treatment_disputed_flag != '') OR (permanent_disability_assessment_flag != '')",
+  "nlpCondition": "medical_expense_total>30000 or disability_duration_days>60 or disability_exceeds_elod_flag is not empty or disability_exceeds_odg_flag is not empty or provider_capabilities_unavailable_flag is not empty or surgical_authorization_requested_flag is not empty or diagnosis_changed_flag is not empty or treatment_disputed_flag is not empty or permanent_disability_assessment_flag is not empty",
+  "nlpConditionInWords": "Trigger on high cost/duration claims, exceeded disability guidelines, unresponsive providers, surgery requests, disputed diagnosis, or PD ratings",
+  "lineOfBusiness": [
+    "WCM",
+    "General Liability"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218c5eb85d0272de5945fc"
+  },
+  "roleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "uploadId": "manual",
+  "roleName": "Desk investigations",
+  "description": "Desk investigations",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(fraud_score > 70) OR (prior_claim_history_flag != '') OR (multiple_insurer_iso_hit_flag != '') OR (inconsistent_loss_version_flag != '') OR (attorney_initial_notice_flag != '') OR (unwitnessed_credibility_concern_flag != '') OR (immediate_counsel_representation_flag != '') OR (provider_physical_capabilities_unavailable_flag != '') OR (social_media_disability_inconsistency_flag != '') OR (psych_overlay_expansion_flag != '') OR (ime_appointment_surveillance_flag != '')",
+  "nlpCondition": "fraud_score>70 or prior_claim_history_flag is not empty or multiple_insurer_iso_hit_flag is not empty or inconsistent_loss_version_flag is not empty or attorney_initial_notice_flag is not empty or unwitnessed_credibility_concern_flag is not empty or immediate_counsel_representation_flag is not empty or provider_physical_capabilities_unavailable_flag is not empty or social_media_disability_inconsistency_flag is not empty or psych_overlay_expansion_flag is not empty or ime_appointment_surveillance_flag is not empty",
+  "nlpConditionInWords": "Trigger on fraud risk or surveillance red flags (history, inconsistencies, early counsel, credibility, social media, psych overlay)",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218d15b85d0272de594617"
+  },
+  "roleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "uploadId": "manual",
+  "roleName": "Nurse case management",
+  "description": "Nurse case management",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(Severity_score >= 6) AND (Disability_duration_days > 14)",
+  "nlpCondition": "severity_score >= 6 and disability_duration_days > 14",
+  "nlpConditionInWords": "Trigger if severity is 6 or more and disability lasts more than 14 days",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218d5db85d0272de594629"
+  },
+  "roleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "uploadId": "manual",
+  "roleName": "Catastrophic case management",
+  "description": "Catastrophic case management",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(severity_category = 'catastrophic') OR (total_reserve_amount > 500000)",
+  "nlpCondition": "severity_category=catastrophic or total_reserve_amount>500000",
+  "nlpConditionInWords": "Trigger if severity is catastrophic, reserve is high, or claim flagged catastrophic",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218e12b85d0272de59468f"
+  },
+  "roleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "uploadId": "manual",
+  "roleName": "Pharmacy carve-out",
+  "description": "Pharmacy carve-out",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(total_reserve_amount > 450000) AND (claimType = 'Workers compensation')",
+  "nlpCondition": "total_reserve_amount > 450000 and claim type = Workers compensation",
+  "nlpConditionInWords": "Trigger if reserve exceeds 450k and claim is worker's comp",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218e68b85d0272de5946a1"
+  },
+  "roleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "uploadId": "manual",
+  "roleName": "RTW / JFA",
+  "description": "RTW / JFA",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(employer_cooperation_score >= 7) AND (claimant_willingness_flag != '') OR (employer_no_modified_work_flag != '') OR (job_development_required_flag != '') OR (transitional_employment_elsewhere_required_flag != '') OR (modified_work_release_received_flag != '')",
+  "nlpCondition": "(employer_cooperation_score>=7 and claimant_willingness_flag is not empty) or employer_no_modified_work_flag is not empty or job_development_required_flag is not empty or transitional_employment_elsewhere_required_flag is not empty or modified_work_release_received_flag is not empty",
+  "nlpConditionInWords": "Trigger on cooperative RTW, or when modified work is unavailable or a release is received",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218eb1b85d0272de5946b5"
+  },
+  "roleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "uploadId": "manual",
+  "roleName": "Transportation",
+  "description": "Transportation",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(distance_to_facility > 25)",
+  "nlpCondition": "distance_to_facility >25",
+  "nlpConditionInWords": "Trigger if facility distance is more than 25 miles",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218edbb85d0272de5946c8"
+  },
+  "roleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "uploadId": "manual",
+  "roleName": "Subrogation",
+  "description": "Subrogation",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "((liability_evidence_flag != '') AND (potential_recovery_amount > 35000) AND (jurisdiction IN ('CA','TX','FL'))) OR (mva_flag != '') OR (product_involvement_flag != '') OR (multiple_entities_jobsite_flag != '') OR (contractor_negligence_flag != '') OR (multiple_insurer_iso_hit_flag != '')",
+  "nlpCondition": "(liability_evidence_flag is not empty and potential_recovery_amount>35000 and jurisdiction in CA,TX,FL) or mva_flag is not empty or product_involvement_flag is not empty or multiple_entities_jobsite_flag is not empty or contractor_negligence_flag is not empty or multiple_insurer_iso_hit_flag is not empty",
+  "nlpConditionInWords": "Trigger on liability evidence with recovery potential, or signs of 3rd-party exposure",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a218f00b85d0272de5946da"
+  },
+  "roleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "uploadId": "manual",
+  "roleName": "Decision letters",
+  "description": "Decision letters",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(status_interval_days = 30)",
+  "nlpCondition": "if status_interval_days =30",
+  "nlpConditionInWords": "Trigger at every 30‑day status interval",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a29368284f8f968947a5be1"
+  },
+  "roleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "uploadId": "manual",
+  "roleName": "Telephonic Case Management",
+  "description": "Telephonic Case Management",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(severity_score >= 5) AND (disability_duration_days > 7) OR (disability_exceeds_waiting_period_flag != '') OR (surgical_intervention_required_flag != '') OR (home_modification_required_flag != '') OR (serious_injury_flag != '') OR (immediate_hospitalization_flag != '') OR (amputation_flag != '') OR (burn_flag != '') OR (head_trauma_flag != '') OR (stalled_recovery_flag != '')",
+  "nlpCondition": "(severity_score>=5 and disability_duration_days>7) or disability_exceeds_waiting_period_flag is not empty or surgical_intervention_required_flag is not empty or home_modification_required_flag is not empty or serious_injury_flag is not empty or immediate_hospitalization_flag is not empty or amputation_flag is not empty or burn_flag is not empty or head_trauma_flag is not empty or stalled_recovery_flag is not empty",
+  "nlpConditionInWords": "Trigger on moderate severity/duration, or need for surgery, home mods, serious injury, or stalled recovery",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "24abced2bb2242c37c928fd7"
+  },
+  "roleId": "7bdfcd3f-a78e-4e29-8317-6e41786a5b9c",
+  "uploadId": "manual",
+  "roleName": "Legal",
+  "description": "Legal",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(first_notice_petition_flag != '') OR (high_value_claim_flag != '') OR (catastrophic_claim_flag != '') OR (Contested claim != '') OR (Litigated claim != '') OR (Fraud flag != '') OR (significant_preexisting_condition_flag != '') OR (Diagnosis in dispute != '') OR (large_lump_sum_resolution_flag != '') OR (medical_set_aside_agreement_flag != '')",
+  "nlpCondition": "first_notice_petition_flag is not empty or high_value_claim_flag is not empty or catastrophic_claim_flag is not empty or contested_claim is not empty or litigated_claim is not empty or fraud_flag is not empty or significant_preexisting_condition_flag is not empty or diagnosis_in_dispute is not empty or large_lump_sum_resolution_flag is not empty or medical_set_aside_agreement_flag is not empty",
+  "nlpConditionInWords": "Trigger on petitions, high-value/catastrophic claims, disputes, fraud, or large settlements needing an MSA",
+  "lineOfBusiness": [
+    "WCM",
+    "General Liability",
+    "Auto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "87ab62d551bc8c0854d3a4de"
+  },
+  "roleId": "03bb1f3e-d32a-459f-933e-bf6bbb84dabf",
+  "uploadId": "manual",
+  "roleName": "PPN",
+  "description": "PPN",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(non_panel_provider_referral_flag != '') OR (non_panel_treatment_within_statutory_period_flag != '') OR (non_authorized_provider_billing_flag != '') OR (prescription_outside_pbm_flag != '') OR (surgical_authorization_referral_flag != '')",
+  "nlpCondition": "non_panel_provider_referral_flag is not empty or non_panel_treatment_within_statutory_period_flag is not empty or non_authorized_provider_billing_flag is not empty or prescription_outside_pbm_flag is not empty or surgical_authorization_referral_flag is not empty",
+  "nlpConditionInWords": "Trigger on non-panel care, unauthorized billing, off-PBM scripts, or surgical authorization referrals",
+  "lineOfBusiness": [
+    "WCM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "00d4c3cda670ed291a254022"
+  },
+  "roleId": "d6cbd9e1-5083-4fd3-ae41-42895d30deeb",
+  "uploadId": "manual",
+  "roleName": "Independent Adjusters",
+  "description": "Independent Adjusters",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(inconsistent_loss_version_flag != '') OR (liability_negligence_contested_flag != '') OR (damages_overstated_flag != '') OR (prior_claim_history_flag != '') OR (party_non_cooperation_flag != '')",
+  "nlpCondition": "inconsistent_loss_version_flag is not empty or liability_negligence_contested_flag is not empty or damages_overstated_flag is not empty or prior_claim_history_flag is not empty or party_non_cooperation_flag is not empty",
+  "nlpConditionInWords": "Trigger on conflicting loss accounts, contested liability/negligence, overstated damages, prior loss/injury history, or lack of party cooperation",
+  "lineOfBusiness": [
+    "General Liability"
+  ]
+},
+{
+  "_id": {
+    "$oid": "51d97f3e0d91549b253a29fd"
+  },
+  "roleId": "fdc422d4-9f71-438e-ac77-fedf1378f4f7",
+  "uploadId": "manual",
+  "roleName": "Forensic Engineers",
+  "description": "Forensic Engineers",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(high_value_claim_flag != '') OR (catastrophic_claim_flag != '') OR (disputed_cause_origin_flag != '') OR (multiple_entities_jobsite_flag != '') OR (liability_contribution_determination_flag != '') OR (contractor_negligence_flag != '')",
+  "nlpCondition": "high_value_claim_flag is not empty or catastrophic_claim_flag is not empty or disputed_cause_origin_flag is not empty or multiple_entities_jobsite_flag is not empty or liability_contribution_determination_flag is not empty or contractor_negligence_flag is not empty",
+  "nlpConditionInWords": "Trigger on high value/catastrophic losses, disputed cause & origin, multi-party/multi-trade liability, liability contribution determination, or complex subrogation via contractor negligence",
+  "lineOfBusiness": [
+    "General Liability"
+  ]
+},
+{
+  "_id": {
+    "$oid": "ca11ec6a255552a5557de017"
+  },
+  "roleId": "8dacd136-20cf-4365-837c-a21855d5bca3",
+  "uploadId": "manual",
+  "roleName": "Auto Appraisers",
+  "description": "Auto Appraisers",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(no_damage_estimate_flag != '') OR (vehicle_damage_estimate_amount > 1000) OR (repair_disagreement_flag != '') OR (total_loss_flag != '') OR (pre_loss_condition_review_flag != '') OR (comparable_vehicle_dispute_flag != '')",
+  "nlpCondition": "no_damage_estimate_flag is not empty or vehicle_damage_estimate_amount>1000 or repair_disagreement_flag is not empty or total_loss_flag is not empty or pre_loss_condition_review_flag is not empty or comparable_vehicle_dispute_flag is not empty",
+  "nlpConditionInWords": "Trigger when no damage estimate exists, estimate exceeds $1,000, repair is disputed/stalled, total loss, pre-loss condition review needed, or comparable vehicle dispute",
+  "lineOfBusiness": [
+    "Auto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "fabdf0f1ac2287bc66a7b0c7"
+  },
+  "roleId": "0bbf4eb0-433a-49e0-9fc4-a65e94fec5ee",
+  "uploadId": "manual",
+  "roleName": "Repair Networks",
+  "description": "Repair Networks",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(repair_shop_referral_required_flag != '') OR (antique_vehicle_flag != '')",
+  "nlpCondition": "repair_shop_referral_required_flag is not empty or antique_vehicle_flag is not empty",
+  "nlpConditionInWords": "Trigger when a repair shop referral is needed, or the vehicle requires a specialty (antique/unique) repair network",
+  "lineOfBusiness": [
+    "Auto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "2ad39db5c39f353ce24158cd"
+  },
+  "roleId": "dd85a729-d742-4277-b4c4-9d4b15afb9a0",
+  "uploadId": "manual",
+  "roleName": "Salvage and Towing Partnerships",
+  "description": "Salvage and Towing Partnerships",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(towing_required_flag != '') OR (total_loss_flag != '') OR (salvage_title_transfer_flag != '')",
+  "nlpCondition": "towing_required_flag is not empty or total_loss_flag is not empty or salvage_title_transfer_flag is not empty",
+  "nlpConditionInWords": "Trigger when towing is needed, or the vehicle is a total loss requiring salvage handling and title transfer",
+  "lineOfBusiness": [
+    "Auto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "cef57a92e45b92704e3de677"
+  },
+  "roleId": "9b957b16-5b16-4a93-9f69-67dd4fc565e3",
+  "uploadId": "manual",
+  "roleName": "Medical Review and Bill Examiners",
+  "description": "Medical Review and Bill Examiners",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(medical_bill_amount > 0) OR (provider_payment_dispute_flag != '')",
+  "nlpCondition": "medical_bill_amount > 0 or provider_payment_dispute_flag is not empty",
+  "nlpConditionInWords": "Trigger for PIP/Med Pay bill accuracy review, or when a provider challenges a payment",
+  "lineOfBusiness": [
+    "Auto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "e77137aafbc8ae5b3e627856"
+  },
+  "roleId": "c366ed3e-49c7-44b6-8192-7d801e714dd0",
+  "uploadId": "manual",
+  "roleName": "Accident Reconstructionist",
+  "description": "Accident Reconstructionist",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(high_value_claim_flag != '') OR (catastrophic_claim_flag != '') OR (liability_negligence_contested_flag != '') OR (product_involvement_flag != '') OR (faulty_maintenance_allegation_flag != '')",
+  "nlpCondition": "high_value_claim_flag is not empty or catastrophic_claim_flag is not empty or liability_negligence_contested_flag is not empty or product_involvement_flag is not empty or faulty_maintenance_allegation_flag is not empty",
+  "nlpConditionInWords": "Trigger on significant losses, disputes in negligence, or allegations of product/brake defect or faulty maintenance",
+  "lineOfBusiness": [
+    "Auto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0e69b66888efeddd318f1f"
+  },
+  "roleId": "6403ead4-26e8-4e7d-9fd0-3be887c111f5",
+  "uploadId": "manual",
+  "roleName": "24/7 Loss Mitigation Contractors",
+  "description": "24/7 Loss Mitigation Contractors",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(roof_damage_flag != '') OR (debris_removal_required_flag != '') OR (hvac_odor_remediation_required_flag != '') OR (mold_remediation_required_flag != '') OR (structural_drying_required_flag != '')",
+  "nlpCondition": "roof_damage_flag is not empty or debris_removal_required_flag is not empty or hvac_odor_remediation_required_flag is not empty or mold_remediation_required_flag is not empty or structural_drying_required_flag is not empty",
+  "nlpConditionInWords": "Trigger for prompt dispatch on roof tarping/boarding, debris removal, HVAC/odor remediation, mold remediation, or structural drying/water damage",
+  "lineOfBusiness": [
+    "Property"
+  ]
+},
+{
+  "_id": {
+    "$oid": "3adc9327f18425660cb2d462"
+  },
+  "roleId": "85efc2b6-1027-41c7-8987-b5d05c63344b",
+  "uploadId": "manual",
+  "roleName": "Forensic Accountant",
+  "description": "Forensic Accountant",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(business_interruption_flag != '') OR (large_additional_expense_flag != '') OR (inflated_value_claim_flag != '') OR (complex_inventory_loss_flag != '') OR (Litigated claim != '') OR (potential_recovery_amount > 35000)",
+  "nlpCondition": "business_interruption_flag is not empty or large_additional_expense_flag is not empty or inflated_value_claim_flag is not empty or complex_inventory_loss_flag is not empty or litigated_claim is not empty or potential_recovery_amount>35000",
+  "nlpConditionInWords": "Trigger on business interruption losses, large additional expense claims, inflated value claims (documentation gaps, unusual payroll, inconsistent operations), complex inventory losses, or litigation/subrogation with recovery potential",
+  "lineOfBusiness": [
+    "Property"
+  ]
+},
+{
+  "_id": {
+    "$oid": "95ba546e9318b103048f03d4"
+  },
+  "roleId": "5ba3b67c-0a1e-46a8-a209-a6ea648d1aa1",
+  "uploadId": "manual",
+  "roleName": "Independent Adjusters",
+  "description": "Independent Adjusters (Auto)",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(scene_investigation_required_flag != '') OR (police_report_required_flag != '')",
+  "nlpCondition": "scene_investigation_required_flag is not empty or police_report_required_flag is not empty",
+  "nlpConditionInWords": "Trigger when field investigation is needed (scene, intersections, signal timing, witness canvassing, driver/witness statements) or official documents like police reports must be secured",
+  "lineOfBusiness": [
+    "Auto"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6399dcdf5b8b57641f538536"
+  },
+  "roleId": "f661ec4d-8dc4-4b0c-bcf2-cea1e2b99550",
+  "uploadId": "manual",
+  "roleName": "Appraisers/Independent Adjusters",
+  "description": "Appraisers/Independent Adjusters (Property)",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(construction_trade_involvement_flag != '') OR (special_handling_property_flag != '')",
+  "nlpCondition": "construction_trade_involvement_flag is not empty or special_handling_property_flag is not empty",
+  "nlpConditionInWords": "Trigger on construction-trade appraisal needs, or special handling for artwork, expensive items, and collectibles",
+  "lineOfBusiness": [
+    "Property"
+  ]
+},
+{
+  "_id": {
+    "$oid": "ab9698c9ed2804820585a4d8"
+  },
+  "roleId": "3f325fac-46b9-40a6-9d35-30f2541d7d14",
+  "uploadId": "manual",
+  "roleName": "Cause & Origin Specialists",
+  "description": "Cause & Origin Specialists (Property)",
+  "status": "Active",
+  "__v": 0,
+  "conditionExpression": "(high_value_claim_flag != '') OR (catastrophic_claim_flag != '') OR (fraud_score > 70) OR (contractor_negligence_flag != '') OR (product_involvement_flag != '')",
+  "nlpCondition": "high_value_claim_flag is not empty or catastrophic_claim_flag is not empty or fraud_score>70 or contractor_negligence_flag is not empty or product_involvement_flag is not empty",
+  "nlpConditionInWords": "Trigger on large or catastrophic losses, suspicious losses, or losses with 3rd-party recovery potential (contractor errors, faulty wiring/electrical)",
+  "lineOfBusiness": [
+    "Property"
+  ]
+}]

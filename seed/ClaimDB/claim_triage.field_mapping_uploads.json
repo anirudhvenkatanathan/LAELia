@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbc3"
+  },
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "fileName": "field-mapping-template (6).xlsx",
+  "uploadType": "EXCEL",
+  "uploadedBy": "Admin",
+  "uploadDate": {
+    "$date": "2026-06-01T10:27:06.320Z"
+  },
+  "totalRecords": 6,
+  "status": "Processed",
+  "headers": "[\"Payload Fields\",\"Field Mapping\"]",
+  "validationResults": "PASS",
+  "processingMessages": "Processed 6 record(s), 6 mapping(s).",
+  "createdAt": {
+    "$date": "2026-06-01T10:27:06.359Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-01T10:27:06.359Z"
+  },
+  "__v": 0
+}]

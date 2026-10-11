@@ -1,0 +1,622 @@
+[{
+  "_id": "6841a101f1a23c0012342111",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "vendorConfirmationName": "Professional liability insurance ≥ $2M",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342112",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "vendorConfirmationName": "Cyber liability insurance ≥ $5M",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342113",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "vendorConfirmationName": "Business license & legal entity / tax ID",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342114",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "vendorConfirmationName": "SOC 2 Type II certification",
+  "isMandatory": false
+},
+{
+  "_id": "6841a101f1a23c0012342115",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "vendorConfirmationName": "HIPAA Business Associate Agreement (signed)",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342116",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "vendorConfirmationName": "State licensing per covered state",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342117",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "vendorConfirmationName": "Conflict of interest disclosure",
+  "isMandatory": false
+},
+{
+  "_id": "6841a101f1a23c0012342118",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "vendorConfirmationId": "6841a101f1a23c0012342118",
+  "vendorConfirmationName": "REST API with documented endpoints",
+  "isMandatory": false
+},
+{
+  "_id": "6841a101f1a23c0012342119",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "vendorConfirmationId": "6841a101f1a23c0012342119",
+  "vendorConfirmationName": "ClaimSystem integration (native or middleware)",
+  "isMandatory": false
+},
+{
+  "_id": "6841a101f1a23c0012342120",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "vendorConfirmationId": "6841a101f1a23c0012342120",
+  "vendorConfirmationName": "Two-way status updates (webhook or daily batch)",
+  "isMandatory": false
+},
+{
+  "_id": "6841a101f1a23c0012342121",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "vendorConfirmationId": "6841a101f1a23c0012342121",
+  "vendorConfirmationName": "Machine-readable reports with audit trail",
+  "isMandatory": false
+},
+{
+  "_id": "6841a101f1a23c0012342122",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "vendorConfirmationId": "6841a101f1a23c0012342122",
+  "vendorConfirmationName": "Business continuity plan with tested RTO/RPO",
+  "isMandatory": false
+},
+{
+  "_id": "6841a101f1a23c0012342123",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "vendorConfirmationName": "3+ years in each applied service category",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342124",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "vendorConfirmationName": "Carrier reference of comparable scale",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342125",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "vendorConfirmationName": "Capacity attestation — max claim volume per month/quarter + certification to meet demand",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342126",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "vendorConfirmationName": "Prior pilot disclosure (including failures)",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342127",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "vendorConfirmationName": "Third-party analyst rating (if category has one)",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342128",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342128",
+  "vendorConfirmationName": "Willingness to accept performance-based fees",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342129",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342129",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "vendorConfirmationName": "Fee Schedule Access Letter",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342130",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342130",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "vendorConfirmationName": "Jurisdiction Coverage Attestation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342131",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342131",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "vendorConfirmationName": "Sample Bill Review Report",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342132",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342132",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "vendorConfirmationName": "Quality Audit Results",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342133",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342133",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "vendorConfirmationName": "Minimum Processing Capacity Attestation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342134",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342134",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "vendorConfirmationName": "HIPAA-Compliant Retrieval SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342135",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342135",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "vendorConfirmationName": "State Authorization Form Templates",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342136",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342136",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "vendorConfirmationName": "Turnaround Time SLA Attestation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342137",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342137",
+  "serviceRequestRoleId": "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "vendorConfirmationName": "Sample Completed Production Package",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342138",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342138",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "vendorConfirmationName": "HIPAA-Compliant Defense Retrieval SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342139",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342139",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "vendorConfirmationName": "Facility Coverage and Release Agreement List",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342140",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342140",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "vendorConfirmationName": "Turnaround Time SLA Attestation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342141",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342141",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "vendorConfirmationName": "Digital Delivery and Security Specification",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342142",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342142",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "vendorConfirmationName": "Canvassing Methodology Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342143",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342143",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "vendorConfirmationName": "Database Access and Partnership Evidence",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342144",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342144",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "vendorConfirmationName": "Hit Rate History Report",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342145",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342145",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "vendorConfirmationName": "Sample Canvassing Report",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342146",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342146",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "vendorConfirmationName": "Panel Physician Roster with Credentials",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342147",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342147",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "vendorConfirmationName": "Specialty and State Coverage Matrix",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342148",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342148",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "vendorConfirmationName": "Conflict of Interest Screening SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342149",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342149",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "vendorConfirmationName": "Sample IME Report",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342150",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342150",
+  "serviceRequestRoleId": "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+  "vendorConfirmationName": "State-Specific Examiner Licensing Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342151",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342151",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "vendorConfirmationName": "Investigator Credentials and Licensing",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342152",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342152",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "vendorConfirmationName": "Database Access Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342153",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342153",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "vendorConfirmationName": "Fraud Indicator Scoring Methodology",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342154",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342154",
+  "serviceRequestRoleId": "d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "vendorConfirmationName": "Sample Desk Investigation Report",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342155",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342155",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Nurse Credential Verification",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342156",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342156",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Case Management SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342157",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342157",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Caseload Capacity Attestation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342158",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342158",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Sample Case Management Progress Note",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342159",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342159",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Catastrophic Specialty Certifications",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342160",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342160",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Life Care Planning Capability Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342161",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342161",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Hospital-to-Home Transition SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342162",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342162",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "vendorConfirmationName": "Provider and Facility Network Coverage",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342163",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342163",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "vendorConfirmationName": "Catastrophic Specialty Certifications",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342164",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342164",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "vendorConfirmationName": "Life Care Planning Capability Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342165",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342165",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "vendorConfirmationName": "Hospital-to-Home Transition SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342166",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342166",
+  "serviceRequestRoleId": "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "vendorConfirmationName": "Provider and Facility Network Coverage",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342167",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342167",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "vendorConfirmationName": "Pharmacy Network and PBM Partnership Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342168",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342168",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "vendorConfirmationName": "Drug Formulary and Specialty List",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342169",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342169",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "vendorConfirmationName": "Clinical Pharmacist Credential Verification",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342170",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342170",
+  "serviceRequestRoleId": "7b7d36eb-8759-4131-a746-1a8ab7a94b71",
+  "vendorConfirmationName": "Drug Utilization Review SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342171",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342171",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "vendorConfirmationName": "RTW Coordinator Credential Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342172",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342172",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "vendorConfirmationName": "Job Demand Analysis and Functional Capacity Methodology",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342173",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342173",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "vendorConfirmationName": "Employer Coordination Protocol",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342174",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342174",
+  "serviceRequestRoleId": "1db52bc8-ede5-4aaa-af44-18b481423205",
+  "vendorConfirmationName": "Sample RTW Plan",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342175",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342175",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "vendorConfirmationName": "State Operating Authority Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342176",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342176",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "vendorConfirmationName": "Vehicle Safety and ADA Compliance Certification",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342177",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342177",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "vendorConfirmationName": "Driver Vetting and Credentialing Protocol",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342178",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342178",
+  "serviceRequestRoleId": "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+  "vendorConfirmationName": "Scheduling, Dispatch, and No-Show Reporting SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342179",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342179",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "vendorConfirmationName": "Subrogation Counsel Network Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342180",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342180",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "vendorConfirmationName": "Lien Identification and Preservation SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342181",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342181",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "vendorConfirmationName": "State Statute Compliance Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342182",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342182",
+  "serviceRequestRoleId": "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "vendorConfirmationName": "Recovery Rate History Report",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342183",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342183",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "vendorConfirmationName": "Jurisdiction-Specific Letter Templates",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342184",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342184",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "vendorConfirmationName": "Turnaround Time SLA Attestation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342185",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342185",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "vendorConfirmationName": "Attorney Review and Compliance Approval Process",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342186",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342186",
+  "serviceRequestRoleId": "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "vendorConfirmationName": "State Filing and Delivery Compliance SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342187",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342187",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "vendorConfirmationName": "Telephonic Nurse Credential Verification",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342188",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342188",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "vendorConfirmationName": "Telephonic Intake and Assessment SOP",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342189",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342189",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "vendorConfirmationName": "Language Services Access Documentation",
+  "isMandatory": true
+},
+{
+  "_id": "6841a101f1a23c0012342190",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342190",
+  "serviceRequestRoleId": "3bb4649d-4d65-4740-a936-1fae32c73273",
+  "vendorConfirmationName": "Technology Platform Specification",
+  "isMandatory": true
+}]

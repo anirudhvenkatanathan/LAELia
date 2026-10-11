@@ -1,0 +1,85 @@
+RUN-002 Attempt 2 — FieldMappingMaster Test Results
+Generated: 2026-05-31
+,,,,
+SUMMARY,,,,
+Total Test Cases,71,,,
+Covered,45,,,
+Missing,26,,,
+Critical Failures,0,,,
+OVERALL,PASS,,,
+,,,,
+TC ID,Area,Requirement,Status,Notes
+TC-01,Upload Field Mapping,File is required (null file rejected),COVERED,Unit: validateUpload — errors[file] contains choose
+TC-02,Upload Field Mapping,.xlsx extension accepted,COVERED,Unit: validateUpload
+TC-03,Upload Field Mapping,.xls extension accepted,COVERED,Unit: validateUpload
+TC-04,Upload Field Mapping,Non-.xlsx/.xls extension rejected,COVERED,Unit: validateUpload
+TC-05,Upload Field Mapping,Max 10 MB file size enforced,COVERED,Unit: validateUpload
+TC-06,Upload Field Mapping,Empty file (0 bytes) rejected,COVERED,Unit: validateUpload
+TC-07,Upload Field Mapping,Excel only — no copy/paste allowed,MISSING,No paste-event assertion
+TC-08,Upload Modal,Upload modal opens on button click,COVERED,E2E SPEC 4
+TC-09,Upload Modal,Modal has file input accept=.xlsx/.xls,COVERED,E2E SPEC 5
+TC-10,Upload Modal,Cancel button closes the modal,COVERED,E2E SPEC 6
+TC-11,Upload Modal,Upload submit button present inside modal,MISSING,Not asserted in E2E
+TC-12,Grid Columns,Column: Upload ID visible,COVERED,E2E SPEC 7
+TC-13,Grid Columns,Column: File Name visible,COVERED,E2E SPEC 7
+TC-14,Grid Columns,Column: Upload Type visible,COVERED,E2E SPEC 7
+TC-15,Grid Columns,Column: Total Records visible,COVERED,E2E SPEC 7
+TC-16,Grid Columns,Column: Uploaded By visible,COVERED,E2E SPEC 7
+TC-17,Grid Columns,Column: Upload Date visible,COVERED,E2E SPEC 7
+TC-18,Grid Columns,Column: Status visible,COVERED,E2E SPEC 7
+TC-19,Grid Features,Grid supports sorting,MISSING,No sort interaction test
+TC-20,Grid Features,Grid supports filtering,MISSING,No filter interaction test
+TC-21,Grid Features,Grid supports pagination,MISSING,No pagination test
+TC-22,Grid Features,Grid supports search,MISSING,No search test
+TC-23,Navigation,Row click navigates to /field-mapping/details/:uploadId,COVERED,E2E SPEC 8
+TC-24,Details — Header Strip,Detail info strip element is rendered,COVERED,E2E SPEC 9
+TC-25,Details — Header Strip,Strip field: Upload ID,MISSING,Container only — no field-level assertion
+TC-26,Details — Header Strip,Strip field: File Name,MISSING,
+TC-27,Details — Header Strip,Strip field: Upload Type,MISSING,
+TC-28,Details — Header Strip,Strip field: Upload Date,MISSING,
+TC-29,Details — Header Strip,Strip field: Status,MISSING,
+TC-30,Details — KPI Cards,KPI card Total Records visible,COVERED,Unit SECTION 5 — added in attempt 2 (was CRITICAL MISSING)
+TC-31,Details — KPI Cards,KPI card Processed visible,COVERED,Unit SECTION 5 — added in attempt 2 (was CRITICAL MISSING)
+TC-32,Details — KPI Cards,KPI card Failed visible,COVERED,Unit SECTION 5 — added in attempt 2 (was CRITICAL MISSING)
+TC-33,Uploaded Records Grid,Uploaded Records section heading visible,COVERED,E2E SPEC 10
+TC-34,Uploaded Records Grid,Grid columns are dynamic from file headers,MISSING,
+TC-35,Uploaded Records Grid,Grid is read-only,MISSING,
+TC-36,Uploaded Records Grid,Export CSV button functional,MISSING,
+TC-37,Uploaded Records Grid,Export Excel button functional,MISSING,
+TC-38,Mapping Config,Mapping Configuration section heading visible,COVERED,E2E SPEC 11
+TC-39,Mapping Config,Add Mapping button visible,COVERED,E2E SPEC 12
+TC-40,Mapping Config,Save All button visible,COVERED,E2E SPEC 13
+TC-41,Mapping Config CRUD,Add Row inserts a new blank editable row,COVERED,Unit SECTION 6 + E2E CRUD — added in attempt 2 (was CRITICAL MISSING)
+TC-42,Mapping Config CRUD,Edit button makes row inline-editable,COVERED,Unit SECTION 6 + E2E CRUD — added in attempt 2 (was CRITICAL MISSING)
+TC-43,Mapping Config CRUD,Save persists mapping via saveFieldMapping,COVERED,Unit SECTION 6 + E2E CRUD — added in attempt 2 (was CRITICAL MISSING)
+TC-44,Mapping Config CRUD,Cancel reverts unsaved changes,COVERED,Unit SECTION 6 + E2E CRUD — added in attempt 2 (was CRITICAL MISSING)
+TC-45,Validation,Source Field required,COVERED,Unit: validateMappingRow
+TC-46,Validation,Target Field required,COVERED,Unit: validateMappingRow
+TC-47,Validation,Both fields missing simultaneously,COVERED,Unit: validateMappingRow
+TC-48,Validation,Valid row with no duplicate,COVERED,Unit: validateMappingRow
+TC-49,Validation,Duplicate sourceField rejected,COVERED,Unit: validateMappingRow
+TC-50,Validation,Same-row edit allowed (same mappingId),COVERED,Unit: validateMappingRow
+TC-51,Validation,Duplicate check is case-insensitive,COVERED,Unit: validateMappingRow
+TC-52,Download Template,Download Template button visible,COVERED,Unit SECTION 3 + E2E SPEC 3
+TC-53,Download Template,Download Template triggers file download,MISSING,Service mocked; no actual download asserted
+TC-54,App Shell,Sidebar present on Master screen,MISSING,
+TC-55,App Shell,Topbar present on Master screen,MISSING,
+TC-56,App Shell,Sidebar present on Details screen,MISSING,
+TC-57,App Shell,Topbar present on Details screen,MISSING,
+TC-58,Breadcrumbs,No breadcrumbs on Master screen (unit),COVERED,Unit SECTION 3
+TC-59,Breadcrumbs,No breadcrumbs on Master screen (E2E),COVERED,E2E breadcrumb test
+TC-60,Breadcrumbs,No breadcrumbs on Details screen (E2E),COVERED,E2E breadcrumb test
+TC-61,Responsive,Page adapts to narrow viewport,MISSING,No viewport resize test
+TC-62,Error Handling,Upload success toast shown,MISSING,
+TC-63,Error Handling,Upload failure message shown,MISSING,
+TC-64,Error Handling,Fetch error sets error state in hook,COVERED,Unit: useFieldMapping
+TC-65,Error Handling,Save success notification shown,MISSING,
+TC-66,Error Handling,Save failure notification shown,MISSING,
+TC-67,Error Handling,Validation error inline message shown in UI,MISSING,Schema tested; UI display not tested
+TC-H01,Hook,Hook fetches uploaded files on mount,COVERED,Unit: useFieldMapping
+TC-H02,Hook,Hook re-fetches after upload success,COVERED,Unit: useFieldMapping
+TC-H03,Hook,Hook initial state is empty before fetch,COVERED,Unit: useFieldMapping
+TC-C01,Component Render,Page title Field Mapping renders,COVERED,Unit SECTION 3
+TC-C02,Component Render,Upload File button renders,COVERED,Unit SECTION 3
+TC-C03,Component Render,Download Template button renders,COVERED,Unit SECTION 3
+TC-C04,Component Render,Page subtitle renders,COVERED,Unit SECTION 3

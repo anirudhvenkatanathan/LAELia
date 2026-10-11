@@ -1,0 +1,3190 @@
+[{
+  "_id": {
+    "$oid": "6a62f44697b7f93e569f915e"
+  },
+  "claimNumber": "WCM-2026-100005",
+  "__v": 0,
+  "bodyPart": "Right Knee",
+  "claimAmount": "77000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "disabilityDurationDays": 70,
+  "distanceToFacility": 20,
+  "employerCooperationScore": 9,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "fraudScore": 40,
+  "injuryType": "ACL Tear (Surgical)",
+  "insuredName": "Sandra Kowalski",
+  "isCompleted": false,
+  "lossDate": "2026-04-07",
+  "mechanism": "Slip and Fall",
+  "medicalBillAmount": 20000,
+  "medicalExpenseTotal": 45000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Finalized Selection",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "policyNumber": "POL-100005",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-04-07",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-06T00:56:30.436Z",
+      "_id": {
+        "$oid": "6a73dbbcbe4135b764227dd7"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-06T00:56:30.437Z",
+      "_id": {
+        "$oid": "6a73dbbcbe4135b764227dd8"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-06T00:56:30.437Z",
+      "_id": {
+        "$oid": "6a73dbbcbe4135b764227dd9"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-06T00:56:30.437Z",
+      "_id": {
+        "$oid": "6a73dbbcbe4135b764227dda"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-06T00:56:30.437Z",
+      "_id": {
+        "$oid": "6a73dbbcbe4135b764227ddb"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-06T00:56:30.437Z",
+      "_id": {
+        "$oid": "6a73dbbcbe4135b764227ddc"
+      }
+    },
+    {
+      "roleName": "Catastrophic case management",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "LYCA Productions",
+      "selectedVendor": "LYCA Productions",
+      "status": "Rejected",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-06T00:56:30.437Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-08-06T00:57:55.734Z",
+      "supervisorComment": "This is not the recommended best fit",
+      "adjusterComment": "Additional service needed",
+      "_id": {
+        "$oid": "6a73dc11be4135b764227e40"
+      }
+    }
+  ],
+  "severityCategory": "Severe",
+  "severityScore": 8,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 73000,
+  "treatmentDurationDays": 90,
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "ACME Services",
+    "LEIDOS QTC",
+    "Amelio Health",
+    "Claims IO",
+    "CorVel"
+  ],
+  "adjusterComments": "Additional service needed; This is the best provider for PA",
+  "adjusterSubmittedAt": "2026-08-06T00:56:28.068Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a62f6dd97b7f93e569f915f"
+  },
+  "claimNumber": "WCM-2026-100006",
+  "__v": 0,
+  "bodyPart": "Wrists, Hands",
+  "claimAmount": "50000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [],
+  "disabilityDurationDays": 45,
+  "distanceToFacility": 20,
+  "employerCooperationScore": 5,
+  "existingplanservices": [],
+  "fraudScore": 40,
+  "injuryType": "Carpal Tunnel Syndrome (Bilateral)",
+  "insuredName": "Thomas Yamamoto",
+  "isCompleted": false,
+  "lossDate": "2026-02-14",
+  "mechanism": "Cumulative Trauma / Repetitive Motion",
+  "medicalBillAmount": 12000,
+  "medicalExpenseTotal": 18000,
+  "planServiceComments": "",
+  "planServiceStatus": "Pending Selection",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "policyNumber": "POL-100006",
+  "potentialRecoveryAmount": 0,
+  "priorClaimHistoryFlag": "present",
+  "recordIndex": 1,
+  "reportedDate": "2026-02-14",
+  "serviceVendorReview": [],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 12000
+    },
+    {
+      "service": "Records Production",
+      "claimAmount": 40000,
+      "legal_representation_flag": "present"
+    },
+    {
+      "service": "IME / Peer Review",
+      "medical_expense_total": 18000,
+      "disability_duration_days": 45
+    },
+    {
+      "service": "Decision Letters",
+      "status_interval_days": 30
+    }
+  ],
+  "severityCategory": "Moderate",
+  "severityScore": 6,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 40000,
+  "treatmentDurationDays": 60,
+  "uploadId": "b3053566-d27e-4482-a94c-7cedbd9ade87",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "",
+  "vendorServices": []
+},
+{
+  "_id": {
+    "$oid": "6a62f6f597b7f93e569f9160"
+  },
+  "claimNumber": "WCM-2026-100007",
+  "__v": 0,
+  "bodyPart": "Left Hand",
+  "claimAmount": "250000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "disabilityDurationDays": 90,
+  "distanceToFacility": 35,
+  "employerCooperationScore": 9,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "fraudScore": 30,
+  "injuryType": "Traumatic Amputation",
+  "insuredName": "Carlos Mendez",
+  "isCompleted": false,
+  "lossDate": "2026-05-20",
+  "mechanism": "Caught in Machinery",
+  "medicalBillAmount": 25000,
+  "medicalExpenseTotal": 95000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Finalized Selection",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "policyNumber": "POL-100007",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-05-20",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.922Z",
+      "_id": {
+        "$oid": "6a6319a9a37bdba375126632"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "Enlyte (Genex)",
+      "selectedVendor": "Enlyte (Genex)",
+      "status": "Modified",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.922Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-07-24T07:55:51.127Z",
+      "supervisorComment": "enlyte might be better",
+      "_id": {
+        "$oid": "6a631a87a37bdba3751266bb"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.922Z",
+      "_id": {
+        "$oid": "6a6319a9a37bdba375126634"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.923Z",
+      "_id": {
+        "$oid": "6a6319a9a37bdba375126635"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.923Z",
+      "_id": {
+        "$oid": "6a6319a9a37bdba375126636"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.923Z",
+      "_id": {
+        "$oid": "6a6319a9a37bdba375126637"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Rejected",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.923Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-07-24T07:55:51.128Z",
+      "supervisorComment": "remove decision",
+      "_id": {
+        "$oid": "6a631a87a37bdba3751266c0"
+      }
+    },
+    {
+      "roleName": "Medical canvassing",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "FIS",
+      "selectedVendor": "FIS",
+      "status": "Rejected",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:52:08.923Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-07-24T07:55:51.128Z",
+      "supervisorComment": "remove the service, let claimant request for the service.",
+      "_id": {
+        "$oid": "6a631a87a37bdba3751266c1"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 25000
+    },
+    {
+      "service": "Medical Canvassing",
+      "disability_duration_days": 90,
+      "injury_type": "musculoskeletal"
+    },
+    {
+      "service": "Nurse Case Management",
+      "severity_score": 9,
+      "disability_duration_days": 90
+    },
+    {
+      "service": "Catastrophic CM",
+      "severity_category": "catastrophic",
+      "total_reserve_amount": 170000
+    },
+    {
+      "service": "Pharmacy Carve-Out",
+      "total_reserve_amount": 170000,
+      "claimType": "Worker's comp"
+    },
+    {
+      "service": "RTW / JFA",
+      "employer_cooperation_score": 9,
+      "claimant_willingness_flag": "present"
+    },
+    {
+      "service": "Transportation",
+      "distance_to_facility": 35
+    }
+  ],
+  "severityCategory": "Catastrophic",
+  "severityScore": 9,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 170000,
+  "treatmentDurationDays": 100,
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "ACME Services",
+    "Amelio Health",
+    "AVO T&T",
+    "Claims IO",
+    "Enlyte (Genex)"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a62f6ff97b7f93e569f9161"
+  },
+  "claimNumber": "WCM-2026-100008",
+  "__v": 0,
+  "bodyPart": "Lower Back + Psychological",
+  "claimAmount": "80000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "disabilityDurationDays": 40,
+  "distanceToFacility": 15,
+  "employerCooperationScore": 8,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "fraudScore": 20,
+  "injuryType": "Lumbar Strain with Psychological Overlay",
+  "insuredName": "Angela Ross",
+  "isCompleted": false,
+  "lossDate": "2026-03-25",
+  "mechanism": "Patient Handling / Lifting",
+  "medicalBillAmount": 14000,
+  "medicalExpenseTotal": 28000,
+  "planServiceComments": "",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "policyNumber": "POL-100008",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-03-25",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "Veracity Research",
+      "selectedVendor": "Veracity Research",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:35:24.122Z",
+      "adjusterComment": "They have a better network in the state of claim.",
+      "_id": {
+        "$oid": "6aa039403bfa414259f867bb"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:35:24.122Z",
+      "_id": {
+        "$oid": "6aa039403bfa414259f867bc"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:35:24.123Z",
+      "_id": {
+        "$oid": "6aa039403bfa414259f867bd"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:35:24.123Z",
+      "_id": {
+        "$oid": "6aa039403bfa414259f867be"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 14000
+    },
+    {
+      "service": "Records Retrieval",
+      "treatment_duration_days": 50,
+      "specialist_referral_flag": 1
+    },
+    {
+      "service": "Nurse Case Management",
+      "severity_score": 6,
+      "disability_duration_days": 40
+    },
+    {
+      "service": "Decision Letters",
+      "status_interval_days": 30
+    },
+    {
+      "service": "Telephonic CM",
+      "severity_score": 6,
+      "disability_duration_days": 40
+    }
+  ],
+  "severityCategory": "Moderate",
+  "severityScore": 6,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 60000,
+  "treatmentDurationDays": 50,
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "They have a better network in the state of claim.",
+  "vendorServices": [
+    "Veracity Research",
+    "ACME Services",
+    "Claims IO",
+    "CorVel"
+  ],
+  "adjusterComments": "They have a better network in the state of claim.",
+  "adjusterSubmittedAt": "2026-09-08T16:35:12.647Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a62f70997b7f93e569f9162"
+  },
+  "claimNumber": "WCM-2026-100009",
+  "__v": 0,
+  "bodyPart": "Lumbar Spine, Hip, Knee",
+  "claimAmount": "80000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": {
+    "$date": "2026-07-30T05:09:37.152Z"
+  },
+  "completedBy": "claimssupervisor",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "disabilityDurationDays": 65,
+  "distanceToFacility": 25,
+  "employerCooperationScore": 3,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "fraudScore": 85,
+  "injuryType": "Multi-Level Lumbar Fracture (Disputed)",
+  "insuredName": "Vincent Palermo",
+  "isCompleted": true,
+  "liabilityEvidenceFlag": "present",
+  "lossDate": "2026-01-15",
+  "mechanism": "Struck by Vehicle (Disputed)",
+  "medicalBillAmount": 20000,
+  "medicalExpenseTotal": 55000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Completed",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "policyNumber": "POL-100009",
+  "potentialRecoveryAmount": 70000,
+  "priorClaimHistoryFlag": "present",
+  "recordIndex": 1,
+  "reportedDate": "2026-01-15",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "_id": {
+        "$oid": "6a633555e4346417df4dbc17"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "_id": {
+        "$oid": "6a633555e4346417df4dbc18"
+      }
+    },
+    {
+      "roleName": "Desk investigations",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Digistream Investigations",
+      "proposedVendor": "Digistream Investigations",
+      "selectedVendor": "Digistream Investigations",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "_id": {
+        "$oid": "6a633555e4346417df4dbc19"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "_id": {
+        "$oid": "6a633555e4346417df4dbc1a"
+      }
+    },
+    {
+      "roleName": "Subrogation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Praxis Subrogation",
+      "proposedVendor": "Praxis Subrogation",
+      "selectedVendor": "Praxis Subrogation",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "_id": {
+        "$oid": "6a633555e4346417df4dbc1b"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "_id": {
+        "$oid": "6a633555e4346417df4dbc1c"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "_id": {
+        "$oid": "6a633555e4346417df4dbc1d"
+      }
+    },
+    {
+      "roleName": "Medical canvassing",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "FIS",
+      "selectedVendor": "FIS",
+      "status": "Rejected",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T09:50:13.524Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-07-24T09:51:00.174Z",
+      "supervisorComment": "Not necessary",
+      "_id": {
+        "$oid": "6a633584e4346417df4dbcc3"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 20000
+    },
+    {
+      "service": "Records Production",
+      "claimAmount": 140000,
+      "legal_representation_flag": "present"
+    },
+    {
+      "service": "IME / Peer Review",
+      "medical_expense_total": 55000,
+      "disability_duration_days": 65
+    },
+    {
+      "service": "Decision Letters",
+      "status_interval_days": 30
+    },
+    {
+      "service": "Field Investigations",
+      "fraud_score": 85,
+      "disability_duration_days": 65
+    }
+  ],
+  "severityCategory": "Severe",
+  "severityScore": 8,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 140000,
+  "treatmentDurationDays": 80,
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "Digistream Investigations",
+    "Claims IO",
+    "LEIDOS QTC",
+    "ACME Services",
+    "Praxis Subrogation",
+    "Amelio Health",
+    "CorVel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a62f71497b7f93e569f9163"
+  },
+  "claimNumber": "WCM-2026-100010",
+  "__v": 0,
+  "bodyPart": "Right Hip",
+  "claimAmount": "120000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "disabilityDurationDays": 75,
+  "distanceToFacility": 28,
+  "employerCooperationScore": 9,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "fraudScore": 30,
+  "injuryType": "Hip Fracture (Surgical)",
+  "insuredName": "Helen MacPherson",
+  "isCompleted": false,
+  "lossDate": "2026-04-14",
+  "mechanism": "Slip and Fall",
+  "medicalBillAmount": 22000,
+  "medicalExpenseTotal": 62000,
+  "planServiceComments": "w",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "policyNumber": "POL-100010",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-04-14",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba375126737"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba375126738"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba375126739"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba37512673a"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba37512673b"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba37512673c"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba37512673d"
+      }
+    },
+    {
+      "roleName": "Pharmacy carve-out",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "myMatrixx",
+      "selectedVendor": "myMatrixx",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T08:12:43.604Z",
+      "_id": {
+        "$oid": "6a631e7ba37bdba37512673e"
+      }
+    }
+  ],
+  "severityCategory": "Severe",
+  "severityScore": 8,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 100000,
+  "treatmentDurationDays": 90,
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "",
+  "vendorServices": [
+    "ACME Services",
+    "LEIDOS QTC",
+    "Amelio Health",
+    "AVO T&T",
+    "Claims IO",
+    "CorVel",
+    "myMatrixx"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a62f72997b7f93e569f9164"
+  },
+  "claimNumber": "WCM-2026-100002",
+  "__v": 0,
+  "bodyPart": "Cervical Spine, Right Shoulder",
+  "claimAmount": "62000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "disabilityDurationDays": 35,
+  "distanceToFacility": 30,
+  "employerCooperationScore": 8,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "fraudScore": 85,
+  "injuryType": "Cervical Strain / Shoulder Contusion",
+  "insuredName": "Derek Washington",
+  "isCompleted": false,
+  "liabilityEvidenceFlag": "present",
+  "lossDate": "2026-04-28",
+  "mechanism": "Motor Vehicle Accident",
+  "medicalBillAmount": 15000,
+  "medicalExpenseTotal": 18000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Finalized Selection",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "policyNumber": "POL-100002",
+  "potentialRecoveryAmount": 60000,
+  "recordIndex": 1,
+  "reportedDate": "2026-04-28",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:50.847Z",
+      "_id": {
+        "$oid": "6a6317b6a37bdba375126562"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:50.847Z",
+      "_id": {
+        "$oid": "6a6317b6a37bdba375126563"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:50.847Z",
+      "_id": {
+        "$oid": "6a6317b6a37bdba375126564"
+      }
+    },
+    {
+      "roleName": "Subrogation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Praxis Subrogation",
+      "proposedVendor": "Praxis Subrogation",
+      "selectedVendor": "Praxis Subrogation",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:50.847Z",
+      "_id": {
+        "$oid": "6a6317b6a37bdba375126565"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:50.847Z",
+      "_id": {
+        "$oid": "6a6317b6a37bdba375126566"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:50.847Z",
+      "_id": {
+        "$oid": "6a6317b6a37bdba375126567"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 15000
+    },
+    {
+      "service": "Records Production",
+      "claimAmount": 32000,
+      "legal_representation_flag": "present"
+    },
+    {
+      "service": "Transportation",
+      "distance_to_facility": 30
+    },
+    {
+      "service": "Subrogation",
+      "liability_evidence_flag": "present",
+      "potential_recovery_amount": 60000
+    },
+    {
+      "service": "Field Investigations",
+      "fraud_score": 85,
+      "disability_duration_days": 35
+    }
+  ],
+  "severityCategory": "Moderate",
+  "severityScore": 6,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 32000,
+  "treatmentDurationDays": 45,
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "ACME Services",
+    "AVO T&T",
+    "Praxis Subrogation",
+    "Claims IO",
+    "CorVel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a62f73497b7f93e569f9165"
+  },
+  "claimNumber": "WCM-2026-100003",
+  "__v": 0,
+  "bodyPart": "Head / Brain, Wrist, Spine",
+  "claimAmount": "42000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "disabilityDurationDays": 90,
+  "distanceToFacility": 40,
+  "employerCooperationScore": 7,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "fraudScore": 30,
+  "injuryType": "Traumatic Brain Injury",
+  "insuredName": "James Callahan",
+  "isCompleted": false,
+  "lossDate": "2026-03-10",
+  "mechanism": "Fall from Height",
+  "medicalBillAmount": 25000,
+  "medicalExpenseTotal": 280000,
+  "planServiceComments": "need catastrophic for this claimant",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "policyNumber": "POL-100003",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-03-10",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:37.983Z",
+      "_id": {
+        "$oid": "6a6317aaa37bdba3751264fc"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:37.984Z",
+      "_id": {
+        "$oid": "6a6317aaa37bdba3751264fd"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:37.984Z",
+      "_id": {
+        "$oid": "6a6317aaa37bdba3751264fe"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "Carisk Intelligent Solutions",
+      "selectedVendor": "Carisk Intelligent Solutions",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:37.984Z",
+      "_id": {
+        "$oid": "6a6317aaa37bdba3751264ff"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:37.984Z",
+      "_id": {
+        "$oid": "6a6317aaa37bdba375126500"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:37.985Z",
+      "_id": {
+        "$oid": "6a6317aaa37bdba375126501"
+      }
+    },
+    {
+      "roleName": "Catastrophic case management",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "LYCA Productions",
+      "selectedVendor": "LYCA Productions",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:43:37.985Z",
+      "_id": {
+        "$oid": "6a6317aaa37bdba375126502"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 25000
+    },
+    {
+      "service": "Medical Canvassing",
+      "disability_duration_days": 90,
+      "injury_type": "musculoskeletal"
+    },
+    {
+      "service": "Catastrophic CM",
+      "severity_category": "catastrophic",
+      "total_reserve_amount": 400000
+    },
+    {
+      "service": "Pharmacy Carve-Out",
+      "total_reserve_amount": 400000,
+      "claimType": "Worker's comp"
+    },
+    {
+      "service": "Transportation",
+      "distance_to_facility": 40
+    }
+  ],
+  "severityCategory": "Catastrophic",
+  "severityScore": 9,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 400000,
+  "treatmentDurationDays": 120,
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "caisk",
+  "vendorServices": [
+    "ACME Services",
+    "LEIDOS QTC",
+    "Amelio Health",
+    "Carisk Intelligent Solutions",
+    "Claims IO",
+    "CorVel",
+    "LYCA Productions"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a62f73c97b7f93e569f9166"
+  },
+  "claimNumber": "WCM-2026-100004",
+  "__v": 0,
+  "bodyPart": "Right Shoulder",
+  "claimAmount": "20000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "disabilityDurationDays": 20,
+  "distanceToFacility": 15,
+  "employerCooperationScore": 4,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "fraudScore": 75,
+  "injuryType": "Rotator Cuff Strain (Disputed)",
+  "insuredName": "Ronald Peters",
+  "isCompleted": false,
+  "lossDate": "2026-06-02",
+  "mechanism": "Repetitive Motion (Disputed)",
+  "medicalBillAmount": 5000,
+  "medicalExpenseTotal": 5000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Finalized Selection",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "policyNumber": "POL-100004",
+  "potentialRecoveryAmount": 0,
+  "priorClaimHistoryFlag": "present",
+  "recordIndex": 1,
+  "reportedDate": "2026-06-02",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Modified",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:42:37.055Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-07-24T07:46:32.252Z",
+      "supervisorComment": "ACME has good rating and best suits for this claim",
+      "_id": {
+        "$oid": "6a631858a37bdba3751265be"
+      }
+    },
+    {
+      "roleName": "Desk investigations",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Digistream Investigations",
+      "proposedVendor": "Digistream Investigations",
+      "selectedVendor": "Digistream Investigations",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:42:37.055Z",
+      "_id": {
+        "$oid": "6a63176da37bdba3751264a2"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T07:42:37.055Z",
+      "_id": {
+        "$oid": "6a63176da37bdba3751264a3"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 5000
+    },
+    {
+      "service": "Records Retrieval",
+      "treatment_duration_days": 35,
+      "specialist_referral_flag": 1
+    },
+    {
+      "service": "Desk Investigations",
+      "fraud_score": 75,
+      "prior_claim_history_flag": "present"
+    },
+    {
+      "service": "Field Investigations",
+      "fraud_score": 85,
+      "disability_duration_days": 32
+    }
+  ],
+  "severityCategory": "Low",
+  "severityScore": 3,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 11000,
+  "treatmentDurationDays": 35,
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "Digistream Investigations",
+    "Claims IO",
+    "ACME Services"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a635dc097b7f93e569f9168"
+  },
+  "claimNumber": "WCM-2026-200006",
+  "__v": 0,
+  "bodyPart": "Wrists, Hands",
+  "claimAmount": "38000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "disabilityDurationDays": 50,
+  "distanceToFacility": 18,
+  "employerCooperationScore": 6,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "fraudScore": 45,
+  "injuryType": "Carpal Tunnel Syndrome (Bilateral)",
+  "insuredName": "Emily Carter",
+  "isCompleted": false,
+  "lossDate": "2026-02-20",
+  "mechanism": "Keyboard Typing / Repetitive Motion",
+  "medicalBillAmount": 11000,
+  "medicalExpenseTotal": 17000,
+  "planServiceComments": "This is required based on the case details",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "policyNumber": "POL-200006",
+  "potentialRecoveryAmount": 0,
+  "priorClaimHistoryFlag": "present",
+  "recordIndex": 1,
+  "reportedDate": "2026-02-21",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:33:38.080Z",
+      "_id": {
+        "$oid": "6aa038d63bfa414259f8676e"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:33:38.080Z",
+      "_id": {
+        "$oid": "6aa038d63bfa414259f8676f"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:33:38.080Z",
+      "_id": {
+        "$oid": "6aa038d63bfa414259f86770"
+      }
+    },
+    {
+      "roleName": "Catastrophic case management",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "KPN Productions",
+      "selectedVendor": "KPN Productions",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-09-08T16:33:38.080Z",
+      "adjusterComment": "This is required based on the case details",
+      "_id": {
+        "$oid": "6aa038d63bfa414259f86771"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 11000
+    },
+    {
+      "service": "Records Production",
+      "claimAmount": 38000,
+      "legal_representation_flag": "present"
+    },
+    {
+      "service": "IME / Peer Review",
+      "medical_expense_total": 17000,
+      "disability_duration_days": 50
+    },
+    {
+      "service": "Decision Letters",
+      "status_interval_days": 30
+    }
+  ],
+  "severityCategory": "Moderate",
+  "severityScore": 6,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 38000,
+  "treatmentDurationDays": 65,
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "",
+  "vendorServices": [
+    "ACME Services",
+    "Claims IO",
+    "CorVel",
+    "KPN Productions"
+  ],
+  "adjusterComments": "This is required based on the case details",
+  "adjusterSubmittedAt": "2026-09-08T16:33:26.605Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a635e2397b7f93e569f9169"
+  },
+  "claimNumber": "WCM-2026-200007",
+  "__v": 0,
+  "bodyPart": "Right Hand",
+  "claimAmount": "180000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "disabilityDurationDays": 95,
+  "distanceToFacility": 32,
+  "employerCooperationScore": 9,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "fraudScore": 25,
+  "injuryType": "Traumatic Amputation",
+  "insuredName": "Robert Singh",
+  "isCompleted": false,
+  "lossDate": "2026-05-25",
+  "mechanism": "Industrial Machine Accident",
+  "medicalBillAmount": 27000,
+  "medicalExpenseTotal": 96000,
+  "planServiceComments": "",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "policyNumber": "POL-200007",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-05-26",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-25T19:02:03.814Z",
+      "_id": {
+        "$oid": "6a8de6a6ce5d215473171728"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-25T19:02:03.815Z",
+      "_id": {
+        "$oid": "6a8de6a6ce5d215473171729"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-25T19:02:03.815Z",
+      "_id": {
+        "$oid": "6a8de6a6ce5d21547317172a"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-25T19:02:03.815Z",
+      "_id": {
+        "$oid": "6a8de6a6ce5d21547317172b"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-25T19:02:03.816Z",
+      "_id": {
+        "$oid": "6a8de6a6ce5d21547317172c"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "RR Donnelley",
+      "selectedVendor": "RR Donnelley",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-25T19:02:03.816Z",
+      "adjusterComment": "better fit",
+      "_id": {
+        "$oid": "6a8de6a6ce5d21547317172d"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-25T19:02:03.816Z",
+      "_id": {
+        "$oid": "6a8de6a6ce5d21547317172e"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 27000
+    },
+    {
+      "service": "Medical Canvassing",
+      "disability_duration_days": 95,
+      "injury_type": "musculoskeletal"
+    },
+    {
+      "service": "Nurse Case Management",
+      "severity_score": 9,
+      "disability_duration_days": 95
+    },
+    {
+      "service": "Catastrophic CM",
+      "severity_category": "catastrophic",
+      "total_reserve_amount": 180000
+    },
+    {
+      "service": "Pharmacy Carve-Out",
+      "total_reserve_amount": 180000,
+      "claimType": "Worker's comp"
+    },
+    {
+      "service": "RTW / JFA",
+      "employer_cooperation_score": 9,
+      "claimant_willingness_flag": "present"
+    },
+    {
+      "service": "Transportation",
+      "distance_to_facility": 32
+    }
+  ],
+  "severityCategory": "Catastrophic",
+  "severityScore": 9,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 180000,
+  "treatmentDurationDays": 110,
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "better fit",
+  "vendorServices": [
+    "ACME Services",
+    "LEIDOS QTC",
+    "Amelio Health",
+    "AVO T&T",
+    "RR Donnelley",
+    "CorVel"
+  ],
+  "adjusterComments": "better fit",
+  "adjusterSubmittedAt": "2026-08-25T19:01:58.026Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a635e4f97b7f93e569f916a"
+  },
+  "claimNumber": "WCM-2026-200008",
+  "__v": 0,
+  "bodyPart": "Lower Back + Psychological",
+  "claimAmount": "82000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "disabilityDurationDays": 42,
+  "distanceToFacility": 14,
+  "employerCooperationScore": 8,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "fraudScore": 22,
+  "injuryType": "Lumbar Strain with Psychological Overlay",
+  "insuredName": "Sophia Martinez",
+  "isCompleted": false,
+  "lossDate": "2026-03-30",
+  "mechanism": "Patient Lifting",
+  "medicalBillAmount": 15000,
+  "medicalExpenseTotal": 29000,
+  "planServiceComments": "Not qualified yet; Claimant has other open WorkComp Claim",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "policyNumber": "POL-200008",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-03-31",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-12T19:47:24.948Z",
+      "_id": {
+        "$oid": "6a7ccdc8be4135b764228823"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-12T19:47:24.949Z",
+      "_id": {
+        "$oid": "6a7ccdc8be4135b764228824"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-12T19:47:24.949Z",
+      "_id": {
+        "$oid": "6a7ccdc8be4135b764228825"
+      }
+    },
+    {
+      "roleName": "Desk investigations",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "Digistream Investigations",
+      "selectedVendor": "Digistream Investigations",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-12T19:47:24.950Z",
+      "adjusterComment": "Claimant has other open WorkComp Claim",
+      "_id": {
+        "$oid": "6a7ccdc8be4135b764228826"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 15000
+    },
+    {
+      "service": "Records Retrieval",
+      "treatment_duration_days": 55,
+      "specialist_referral_flag": 1
+    },
+    {
+      "service": "Nurse Case Management",
+      "severity_score": 6,
+      "disability_duration_days": 42
+    },
+    {
+      "service": "Decision Letters",
+      "status_interval_days": 30
+    },
+    {
+      "service": "Telephonic CM",
+      "severity_score": 6,
+      "disability_duration_days": 42
+    }
+  ],
+  "severityCategory": "Moderate",
+  "severityScore": 6,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 62000,
+  "treatmentDurationDays": 55,
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "",
+  "vendorServices": [
+    "ACME Services",
+    "Claims IO",
+    "CorVel",
+    "Digistream Investigations"
+  ],
+  "adjusterComments": "Not qualified yet; Claimant has other open WorkComp Claim",
+  "adjusterSubmittedAt": "2026-08-12T19:47:20.065Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a635e7297b7f93e569f916b"
+  },
+  "claimNumber": "WCM-2026-200009",
+  "__v": 0,
+  "bodyPart": "Lumbar Spine, Hip, Knee",
+  "claimAmount": "145000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "disabilityDurationDays": 68,
+  "distanceToFacility": 26,
+  "employerCooperationScore": 3,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "fraudScore": 88,
+  "injuryType": "Multi-Level Lumbar Fracture",
+  "insuredName": "David Johnson",
+  "isCompleted": false,
+  "liabilityEvidenceFlag": "present",
+  "lossDate": "2026-01-20",
+  "mechanism": "Vehicle Collision",
+  "medicalBillAmount": 21000,
+  "medicalExpenseTotal": 56000,
+  "planServiceComments": "Accident is Catastrophic based on Claimant input",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "policyNumber": "POL-200009",
+  "potentialRecoveryAmount": 72000,
+  "priorClaimHistoryFlag": "present",
+  "recordIndex": 1,
+  "reportedDate": "2026-01-21",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "KPN Productions",
+      "selectedVendor": "KPN Productions",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.600Z",
+      "adjusterComment": "KPN has the best network in TN",
+      "_id": {
+        "$oid": "6a7626b7be4135b7642283f9"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.600Z",
+      "_id": {
+        "$oid": "6a7626b7be4135b7642283fa"
+      }
+    },
+    {
+      "roleName": "Desk investigations",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Digistream Investigations",
+      "proposedVendor": "Digistream Investigations",
+      "selectedVendor": "Digistream Investigations",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.600Z",
+      "_id": {
+        "$oid": "6a7626b7be4135b7642283fb"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.601Z",
+      "_id": {
+        "$oid": "6a7626b7be4135b7642283fc"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.601Z",
+      "_id": {
+        "$oid": "6a7626b7be4135b7642283fd"
+      }
+    },
+    {
+      "roleName": "Subrogation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Praxis Subrogation",
+      "proposedVendor": "Praxis Subrogation",
+      "selectedVendor": "Praxis Subrogation",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.601Z",
+      "_id": {
+        "$oid": "6a7626b7be4135b7642283fe"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.601Z",
+      "_id": {
+        "$oid": "6a7626b7be4135b7642283ff"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.601Z",
+      "_id": {
+        "$oid": "6a7626b7be4135b764228400"
+      }
+    },
+    {
+      "roleName": "Catastrophic case management",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "KPN Productions",
+      "selectedVendor": "KPN Productions",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-08-07T18:40:58.601Z",
+      "adjusterComment": "Accident is Catastrophic based on Claimant input",
+      "_id": {
+        "$oid": "6a7626b7be4135b764228401"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 21000
+    },
+    {
+      "service": "Records Production",
+      "claimAmount": 145000,
+      "legal_representation_flag": "present"
+    },
+    {
+      "service": "IME / Peer Review",
+      "medical_expense_total": 56000,
+      "disability_duration_days": 68
+    },
+    {
+      "service": "Decision Letters",
+      "status_interval_days": 30
+    },
+    {
+      "service": "Field Investigations",
+      "fraud_score": 88,
+      "disability_duration_days": 68
+    }
+  ],
+  "severityCategory": "Severe",
+  "severityScore": 8,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 145000,
+  "treatmentDurationDays": 85,
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "KPN has the best network in TN",
+  "vendorServices": [
+    "KPN Productions",
+    "LEIDOS QTC",
+    "Digistream Investigations",
+    "Amelio Health",
+    "AVO T&T",
+    "Praxis Subrogation",
+    "Claims IO",
+    "CorVel"
+  ],
+  "adjusterComments": "KPN has the best network in TN; Accident is Catastrophic based on Claimant input",
+  "adjusterSubmittedAt": "2026-08-07T18:40:55.606Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a635ef297b7f93e569f916c"
+  },
+  "claimNumber": "WCM-2026-200010",
+  "__v": 0,
+  "bodyPart": "Right Hip",
+  "claimAmount": "122000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "disabilityDurationDays": 78,
+  "distanceToFacility": 29,
+  "employerCooperationScore": 9,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "fraudScore": 28,
+  "injuryType": "Hip Fracture (Surgical)",
+  "insuredName": "Margaret Lee",
+  "isCompleted": false,
+  "lossDate": "2026-04-18",
+  "mechanism": "Slip and Fall",
+  "medicalBillAmount": 23000,
+  "medicalExpenseTotal": 64000,
+  "planServiceComments": "Prior claim history in ISO.  Questionable as it's a similar injury",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "policyNumber": "POL-200010",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-04-19",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.381Z",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272ee"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.382Z",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272ef"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.382Z",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272f0"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.382Z",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272f1"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.382Z",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272f2"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.382Z",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272f3"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.383Z",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272f4"
+      }
+    },
+    {
+      "roleName": "Desk investigations",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "Digistream Investigations",
+      "selectedVendor": "Digistream Investigations",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-31T18:00:01.383Z",
+      "adjusterComment": "Prior claim history in ISO.  Questionable as it's a similar injury",
+      "_id": {
+        "$oid": "6a6ce2a0be4135b7642272f5"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 23000
+    },
+    {
+      "service": "Medical Canvassing",
+      "disability_duration_days": 78,
+      "injury_type": "musculoskeletal"
+    },
+    {
+      "service": "Nurse Case Management",
+      "severity_score": 8,
+      "disability_duration_days": 78
+    },
+    {
+      "service": "Pharmacy Carve-Out",
+      "total_reserve_amount": 102000,
+      "claimType": "Worker's comp"
+    },
+    {
+      "service": "RTW / JFA",
+      "employer_cooperation_score": 9,
+      "claimant_willingness_flag": "present"
+    },
+    {
+      "service": "Transportation",
+      "distance_to_facility": 29
+    }
+  ],
+  "severityCategory": "Severe",
+  "severityScore": 8,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 102000,
+  "treatmentDurationDays": 92,
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "",
+  "vendorServices": [
+    "ACME Services",
+    "LEIDOS QTC",
+    "Amelio Health",
+    "AVO T&T",
+    "Claims IO",
+    "CorVel",
+    "Digistream Investigations"
+  ],
+  "adjusterComments": "Prior claim history in ISO.  Questionable as it's a similar injury",
+  "adjusterSubmittedAt": "2026-07-31T18:00:00.954Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a635fcc97b7f93e569f916d"
+  },
+  "claimNumber": "WCM-2026-400001",
+  "__v": 0,
+  "bodyPart": "Lower Back",
+  "claimAmount": "18000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "disabilityDurationDays": 20,
+  "distanceToFacility": 12,
+  "employerCooperationScore": 9,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "fraudScore": 30,
+  "injuryType": "Lumbar Strain",
+  "insuredName": "Ethan Miller",
+  "isCompleted": false,
+  "lossDate": "2026-05-10",
+  "mechanism": "Heavy Lifting",
+  "medicalBillAmount": 8000,
+  "medicalExpenseTotal": 10000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Finalized Selection",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "policyNumber": "POL-400001",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-05-11",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "KPN Productions",
+      "selectedVendor": "KPN Productions",
+      "status": "Modified",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T12:08:13.131Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-07-28T12:08:13.131Z",
+      "supervisorComment": "kpn best suits",
+      "_id": {
+        "$oid": "6a689bad311dcf28ad93f645"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T12:08:13.131Z",
+      "_id": {
+        "$oid": "6a689bad311dcf28ad93f646"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T12:08:13.132Z",
+      "_id": {
+        "$oid": "6a689bad311dcf28ad93f647"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 8000
+    },
+    {
+      "service": "Decision Letters",
+      "status_interval_days": 30
+    }
+  ],
+  "severityCategory": "Moderate",
+  "severityScore": 4,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 18000,
+  "treatmentDurationDays": 25,
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "KPN Productions",
+    "ACME Services",
+    "Claims IO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a63600197b7f93e569f916e"
+  },
+  "claimNumber": "WCM-2026-400002",
+  "__v": 0,
+  "bodyPart": "Neck",
+  "claimAmount": "30000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "disabilityDurationDays": 40,
+  "distanceToFacility": 28,
+  "employerCooperationScore": 7,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "fraudScore": 60,
+  "injuryType": "Whiplash",
+  "insuredName": "Grace Thompson",
+  "isCompleted": false,
+  "liabilityEvidenceFlag": "present",
+  "lossDate": "2026-04-18",
+  "mechanism": "Car Collision",
+  "medicalBillAmount": 12000,
+  "medicalExpenseTotal": 18000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Finalized Selection",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "policyNumber": "POL-400002",
+  "potentialRecoveryAmount": 55000,
+  "recordIndex": 1,
+  "reportedDate": "2026-04-19",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T10:58:32.712Z",
+      "_id": {
+        "$oid": "6a688b59311dcf28ad93f4a7"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T10:58:32.713Z",
+      "_id": {
+        "$oid": "6a688b59311dcf28ad93f4a8"
+      }
+    },
+    {
+      "roleName": "Subrogation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Praxis Subrogation",
+      "proposedVendor": "Praxis Subrogation",
+      "selectedVendor": "Praxis Subrogation",
+      "status": "Locked",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T10:58:32.713Z",
+      "_id": {
+        "$oid": "6a688b59311dcf28ad93f4a9"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Guidewire CCM",
+      "selectedVendor": "Guidewire CCM",
+      "status": "Modified",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T10:58:32.713Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-07-28T10:58:32.713Z",
+      "supervisorComment": "test",
+      "_id": {
+        "$oid": "6a688b59311dcf28ad93f4aa"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "claimssupervisor",
+      "confirmedAt": "2026-07-28T10:58:32.713Z",
+      "_id": {
+        "$oid": "6a688b59311dcf28ad93f4ab"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 12000
+    },
+    {
+      "service": "Records Production",
+      "claimAmount": 30000,
+      "legal_representation_flag": "present"
+    },
+    {
+      "service": "Transportation",
+      "distance_to_facility": 28
+    },
+    {
+      "service": "Subrogation",
+      "liability_evidence_flag": "present",
+      "potential_recovery_amount": 55000
+    }
+  ],
+  "severityCategory": "Moderate",
+  "severityScore": 6,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 30000,
+  "treatmentDurationDays": 45,
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "ACME Services",
+    "AVO T&T",
+    "Praxis Subrogation",
+    "Guidewire CCM",
+    "CorVel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a63600997b7f93e569f916f"
+  },
+  "claimNumber": "WCM-2026-400003",
+  "__v": 0,
+  "bodyPart": "Head",
+  "claimAmount": "420000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "disabilityDurationDays": 100,
+  "distanceToFacility": 40,
+  "employerCooperationScore": 6,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "fraudScore": 20,
+  "injuryType": "Head Trauma",
+  "insuredName": "Oliver Davis",
+  "isCompleted": false,
+  "lossDate": "2026-03-05",
+  "mechanism": "Fall from Ladder",
+  "medicalBillAmount": 30000,
+  "medicalExpenseTotal": 280000,
+  "planServiceComments": "Add pharmacy carve out",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "policyNumber": "POL-400003",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-03-06",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T13:00:34.893Z",
+      "_id": {
+        "$oid": "6a6361f3e4346417df4dbfad"
+      }
+    },
+    {
+      "roleName": "IME / peer review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "LEIDOS QTC",
+      "proposedVendor": "LEIDOS QTC",
+      "selectedVendor": "LEIDOS QTC",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T13:00:34.893Z",
+      "_id": {
+        "$oid": "6a6361f3e4346417df4dbfae"
+      }
+    },
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Windham Group",
+      "selectedVendor": "Windham Group",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T13:00:34.893Z",
+      "_id": {
+        "$oid": "6a6361f3e4346417df4dbfaf"
+      }
+    },
+    {
+      "roleName": "Transportation",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "AVO T&T",
+      "proposedVendor": "AVO T&T",
+      "selectedVendor": "AVO T&T",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T13:00:34.894Z",
+      "_id": {
+        "$oid": "6a6361f3e4346417df4dbfb0"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T13:00:34.894Z",
+      "_id": {
+        "$oid": "6a6361f3e4346417df4dbfb1"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "Accuro Solutions",
+      "selectedVendor": "Accuro Solutions",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T13:00:34.894Z",
+      "_id": {
+        "$oid": "6a6361f3e4346417df4dbfb2"
+      }
+    },
+    {
+      "roleName": "Pharmacy carve-out",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "myMatrixx",
+      "selectedVendor": "myMatrixx",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T13:00:34.894Z",
+      "_id": {
+        "$oid": "6a6361f3e4346417df4dbfb3"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 30000
+    },
+    {
+      "service": "Catastrophic CM",
+      "severity_category": "catastrophic",
+      "total_reserve_amount": 420000
+    },
+    {
+      "service": "Pharmacy Carve-Out",
+      "total_reserve_amount": 420000,
+      "claimType": "Worker's comp"
+    },
+    {
+      "service": "Transportation",
+      "distance_to_facility": 40
+    }
+  ],
+  "severityCategory": "Catastrophic",
+  "severityScore": 9,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 420000,
+  "treatmentDurationDays": 120,
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "test",
+  "vendorServices": [
+    "ACME Services",
+    "LEIDOS QTC",
+    "Windham Group",
+    "AVO T&T",
+    "Claims IO",
+    "Accuro Solutions",
+    "myMatrixx"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a63609b97b7f93e569f9170"
+  },
+  "claimNumber": "WCM-2026-400004",
+  "__v": 0,
+  "bodyPart": "Shoulder",
+  "claimAmount": "15000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "disabilityDurationDays": 25,
+  "distanceToFacility": 20,
+  "employerCooperationScore": 5,
+  "existingplanservices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "fraudScore": 75,
+  "injuryType": "Rotator Cuff Tear",
+  "insuredName": "Sophia White",
+  "isCompleted": false,
+  "lossDate": "2026-06-01",
+  "mechanism": "Repetitive Motion",
+  "medicalBillAmount": 6000,
+  "medicalExpenseTotal": 9000,
+  "planServiceComments": "",
+  "planServiceStatus": "Pending Review",
+  "planServices": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "policyNumber": "POL-400004",
+  "potentialRecoveryAmount": 0,
+  "priorClaimHistoryFlag": "present",
+  "recordIndex": 1,
+  "reportedDate": "2026-06-02",
+  "serviceVendorReview": [
+    {
+      "roleName": "Bill Review",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "AGS Solutions",
+      "selectedVendor": "AGS Solutions",
+      "status": "Pending Review",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-27T10:02:09.787Z",
+      "adjusterComment": "AGS best suits",
+      "_id": {
+        "$oid": "6a672ca200b767aa3554af3c"
+      }
+    },
+    {
+      "roleName": "Desk investigations",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Digistream Investigations",
+      "proposedVendor": "Digistream Investigations",
+      "selectedVendor": "Digistream Investigations",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-27T10:02:09.787Z",
+      "_id": {
+        "$oid": "6a672ca200b767aa3554af3d"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-27T10:02:09.787Z",
+      "_id": {
+        "$oid": "6a672ca200b767aa3554af3e"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 6000
+    },
+    {
+      "service": "Desk Investigations",
+      "fraud_score": 75,
+      "prior_claim_history_flag": "present"
+    }
+  ],
+  "severityCategory": "Low",
+  "severityScore": 4,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 15000,
+  "treatmentDurationDays": 30,
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "AGS best suits",
+  "vendorServices": [
+    "AGS Solutions",
+    "Digistream Investigations",
+    "Claims IO"
+  ],
+  "adjusterComments": "AGS best suits",
+  "adjusterSubmittedAt": "2026-07-27T10:02:10.713Z",
+  "adjusterSubmittedBy": "Priya Nair"
+},
+{
+  "_id": {
+    "$oid": "6a6360a497b7f93e569f9171"
+  },
+  "claimNumber": "WCM-2026-400005",
+  "__v": 0,
+  "bodyPart": "Knee",
+  "claimAmount": "80000",
+  "claimStatus": "Active",
+  "claimType": "WCM",
+  "claimantWillingnessFlag": "present",
+  "completedAt": null,
+  "completedBy": "",
+  "confirmedPlanServices": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "disabilityDurationDays": 60,
+  "distanceToFacility": 22,
+  "employerCooperationScore": 8,
+  "existingplanservices": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "fraudScore": 40,
+  "injuryType": "ACL Tear",
+  "insuredName": "Lucas Brown",
+  "isCompleted": false,
+  "lossDate": "2026-04-15",
+  "mechanism": "Sports Injury",
+  "medicalBillAmount": 20000,
+  "medicalExpenseTotal": 50000,
+  "planServiceComments": "Plan services confirmed",
+  "planServiceStatus": "Finalized Selection",
+  "planServices": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "policyNumber": "POL-400005",
+  "potentialRecoveryAmount": 0,
+  "recordIndex": 1,
+  "reportedDate": "2026-04-16",
+  "serviceVendorReview": [
+    {
+      "roleName": "Nurse case management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Amelio Health",
+      "proposedVendor": "Amelio Health",
+      "selectedVendor": "Amelio Health",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T15:36:25.227Z",
+      "_id": {
+        "$oid": "6a6386790a894b690266dd91"
+      }
+    },
+    {
+      "roleName": "RTW / JFA",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "ACME Services",
+      "proposedVendor": "ACME Services",
+      "selectedVendor": "ACME Services",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T15:36:25.227Z",
+      "_id": {
+        "$oid": "6a6386790a894b690266dd92"
+      }
+    },
+    {
+      "roleName": "Decision letters",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "Claims IO",
+      "proposedVendor": "Claims IO",
+      "selectedVendor": "Claims IO",
+      "status": "Modified",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T15:36:25.227Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-08-12T19:50:48.863Z",
+      "supervisorComment": "Have a corporate deal & rate with ClaimsIO",
+      "_id": {
+        "$oid": "6a7cce94be4135b764228893"
+      }
+    },
+    {
+      "roleName": "Telephonic Case Management",
+      "changeType": "ProviderChange",
+      "recommendedVendor": "CorVel",
+      "proposedVendor": "CorVel",
+      "selectedVendor": "CorVel",
+      "status": "Locked",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T15:36:25.227Z",
+      "_id": {
+        "$oid": "6a6386790a894b690266dd94"
+      }
+    },
+    {
+      "roleName": "Desk investigations",
+      "changeType": "ServiceAdded",
+      "recommendedVendor": "",
+      "proposedVendor": "Digistream Investigations",
+      "selectedVendor": "Digistream Investigations",
+      "status": "Included",
+      "confirmedBy": "Priya Nair",
+      "confirmedAt": "2026-07-24T15:36:25.227Z",
+      "reviewedBy": "claimssupervisor",
+      "reviewedAt": "2026-08-12T19:50:48.863Z",
+      "_id": {
+        "$oid": "6a7cce94be4135b764228895"
+      }
+    }
+  ],
+  "servicesTriggered": [
+    {
+      "service": "Bill Review",
+      "medical_bill_amount": 20000
+    },
+    {
+      "service": "IME / Peer Review",
+      "medical_expense_total": 50000,
+      "disability_duration_days": 60
+    },
+    {
+      "service": "Nurse Case Management",
+      "severity_score": 7,
+      "disability_duration_days": 60
+    }
+  ],
+  "severityCategory": "Severe",
+  "severityScore": 7,
+  "statusIntervalDays": 30,
+  "totalReserveAmount": 80000,
+  "treatmentDurationDays": 75,
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "validationMessage": "Passed",
+  "validationStatus": "Passed",
+  "vendorServiceComments": "Vendor selection confirmed",
+  "vendorServices": [
+    "ACME Services",
+    "Claims IO",
+    "Amelio Health",
+    "CorVel",
+    "Digistream Investigations"
+  ]
+}]

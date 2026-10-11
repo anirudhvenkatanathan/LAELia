@@ -1,0 +1,5271 @@
+[{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d12"
+  },
+  "kpiMatricsFieldAndConditionId": "9eecabe7-125c-40cd-b455-500f4745abe5",
+  "kpiMatricsFieldAndSectionsId": "4ff87a2d-b287-4a97-aa8d-7c3cbda78408",
+  "fieldName": "Correctly Reviewed Bills",
+  "operator": "/",
+  "value": "Audited Bills * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "55%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d13"
+  },
+  "kpiMatricsFieldAndConditionId": "b45c6c03-37a1-4e9a-aa72-9159f3b3fc98",
+  "kpiMatricsFieldAndSectionsId": "80a1ef24-db0c-465a-b8d8-3dbd4071cf3e",
+  "fieldName": "Appeals Won By Provider",
+  "operator": "/",
+  "value": "Total Appeals * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "93%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d14"
+  },
+  "kpiMatricsFieldAndConditionId": "4ff5fb0c-6e9c-40c4-983d-6819addf5e33",
+  "kpiMatricsFieldAndSectionsId": "7730581f-b297-48f6-b605-ec924192a582",
+  "fieldName": "Bills Processed Without Exception",
+  "operator": "/",
+  "value": "Total Bills * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "77%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d15"
+  },
+  "kpiMatricsFieldAndConditionId": "97af5ea5-802d-4f98-94e1-0b50d043eb69",
+  "kpiMatricsFieldAndSectionsId": "0ec29248-1b2d-4e47-a041-c88442625664",
+  "fieldName": "Bills Reaching Dispute Resolution",
+  "operator": "/",
+  "value": "Total Bills * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "12%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d16"
+  },
+  "kpiMatricsFieldAndConditionId": "5a272ed8-1555-4719-8d16-97d92a566b31",
+  "kpiMatricsFieldAndSectionsId": "b85feb27-4055-4f04-86fa-a99769bf2345",
+  "fieldName": "Provider Challenges Rejected",
+  "operator": "/",
+  "value": "Total Provider Challenges * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "21%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d17"
+  },
+  "kpiMatricsFieldAndConditionId": "fe69ec22-c3ce-4976-804c-cafcff71e004",
+  "kpiMatricsFieldAndSectionsId": "9ae42937-ac99-4b8d-8b7c-ffb9611ddb61",
+  "fieldName": "Bill Review Completion Date",
+  "operator": "-",
+  "value": "Bill Receipt Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d18"
+  },
+  "kpiMatricsFieldAndConditionId": "a02e90ee-7332-45f3-a0b5-b23b0ea4d1df",
+  "kpiMatricsFieldAndSectionsId": "96b20246-87ff-4e1e-81e6-66cb5f22261e",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (pass/fail per bill)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d19"
+  },
+  "kpiMatricsFieldAndConditionId": "99a77750-3c27-40c5-a795-48dff24d943b",
+  "kpiMatricsFieldAndSectionsId": "607dd6bc-2e5a-4efa-9e12-0f0b05866c44",
+  "fieldName": "Bills Reviewed Within SLA",
+  "operator": "/",
+  "value": "Total Bills * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "56%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d1a"
+  },
+  "kpiMatricsFieldAndConditionId": "854089bb-faef-41da-9be2-78e1e2944510",
+  "kpiMatricsFieldAndSectionsId": "0cb785ed-04d7-4ba4-8f58-4f1950a8f116",
+  "fieldName": "Billed Amount",
+  "operator": "-",
+  "value": "Paid Amount",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$47,400",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d1b"
+  },
+  "kpiMatricsFieldAndConditionId": "4685f07f-b118-4445-a1db-5f2c2241f89e",
+  "kpiMatricsFieldAndSectionsId": "402b0ed4-3fdb-418a-8a90-7835153b125b",
+  "fieldName": "Duplicate Bills",
+  "operator": "/",
+  "value": "Bills Submitted * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "22%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d1c"
+  },
+  "kpiMatricsFieldAndConditionId": "7bd6dba2-a259-4a20-8c29-bbb7bf34113d",
+  "kpiMatricsFieldAndSectionsId": "69a84a69-404c-4bc8-83d0-4822a4c20f88",
+  "fieldName": "Incorrect Coding Amount",
+  "operator": "/",
+  "value": "Billed Amount * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "16%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d1d"
+  },
+  "kpiMatricsFieldAndConditionId": "26b19a80-be10-4c0c-8510-5b638bb284fa",
+  "kpiMatricsFieldAndSectionsId": "9aad546b-56e5-4c2b-98fe-739987d89e81",
+  "fieldName": "Bills Requiring Reprocessing",
+  "operator": "/",
+  "value": "Total Bills * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "44%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d1e"
+  },
+  "kpiMatricsFieldAndConditionId": "6c7e37a3-c65b-4534-9f97-362d93e39cbc",
+  "kpiMatricsFieldAndSectionsId": "62dadce3-917b-47e5-ab17-281d6ddfc6af",
+  "fieldName": "Correctly Reviewed Bills",
+  "operator": "/",
+  "value": "Audited Bills * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "88%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d1f"
+  },
+  "kpiMatricsFieldAndConditionId": "0b6997b9-7742-47d3-9bdd-fc7d4216bd4b",
+  "kpiMatricsFieldAndSectionsId": "b7bcf7ad-4483-463b-8bea-66c045b961d2",
+  "fieldName": "Bills Escalated For Clinical Review",
+  "operator": "/",
+  "value": "Total Bills * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "98%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d20"
+  },
+  "kpiMatricsFieldAndConditionId": "bd473c1e-8571-4c0a-a4cb-a100d4b57af1",
+  "kpiMatricsFieldAndSectionsId": "9adbbee0-9e8d-4743-9634-66be612c02b4",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per bill)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d21"
+  },
+  "kpiMatricsFieldAndConditionId": "d811495f-5ee6-4294-a3af-477536b18e32",
+  "kpiMatricsFieldAndSectionsId": "03f96b98-6a04-435c-a2b4-1d0374c8521b",
+  "fieldName": "Average survey rating (post-review)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "2/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d22"
+  },
+  "kpiMatricsFieldAndConditionId": "82c7df25-9ff0-4272-a871-e0f6f4c003f3",
+  "kpiMatricsFieldAndSectionsId": "6bc9a700-5989-438e-9972-c75068ca8c74",
+  "fieldName": "Average survey rating (claimant)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "4/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d23"
+  },
+  "kpiMatricsFieldAndConditionId": "97bff117-6405-4f58-aa87-0a23ea953988",
+  "kpiMatricsFieldAndSectionsId": "4848720b-9bc6-4f38-aa8c-f79efd80a8b4",
+  "fieldName": "Catastrophic Cases Successfully Stabilized",
+  "operator": "/",
+  "value": "CCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "88%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d24"
+  },
+  "kpiMatricsFieldAndConditionId": "19ebbbaa-4c2e-43d9-a68f-2c4d42021958",
+  "kpiMatricsFieldAndSectionsId": "8e8b76f2-131f-4fec-8529-1de5903728ae",
+  "fieldName": "Cases Avoiding Permanent Disability Escalation",
+  "operator": "/",
+  "value": "CCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "21%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d25"
+  },
+  "kpiMatricsFieldAndConditionId": "920b7280-bd72-48c5-b242-28d3af99bac3",
+  "kpiMatricsFieldAndSectionsId": "19683f3c-b8e9-4bb3-b31b-1ed6574c8143",
+  "fieldName": "Reserve Accuracy After CCM",
+  "operator": "-",
+  "value": "Before CCM",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "36%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d26"
+  },
+  "kpiMatricsFieldAndConditionId": "0475ca04-c42f-4081-8b44-0189a7948e35",
+  "kpiMatricsFieldAndSectionsId": "de9df198-c5a5-4e56-8ec9-01cb131cbc60",
+  "fieldName": "Expected Readmission Cost",
+  "operator": "-",
+  "value": "Actual Readmission Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$41,100",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d27"
+  },
+  "kpiMatricsFieldAndConditionId": "265eedf0-d8b0-43df-8227-6249e65aeae8",
+  "kpiMatricsFieldAndSectionsId": "547e33b3-aa39-4f4f-9291-d1fe1d83d0d5",
+  "fieldName": "CCM Cases Escalated to Litigation",
+  "operator": "/",
+  "value": "Total CCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "62%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d28"
+  },
+  "kpiMatricsFieldAndConditionId": "bc0a45d6-d90e-4e77-81e4-fcc0457f945c",
+  "kpiMatricsFieldAndSectionsId": "7e3792e6-62f0-4b30-8878-48bdce1fa48e",
+  "fieldName": "Cases Resolved Without Litigation",
+  "operator": "/",
+  "value": "Cases With Attorney Involvement * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "37%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d29"
+  },
+  "kpiMatricsFieldAndConditionId": "0e1a1cdd-cca5-47ec-9c3f-65fc8b93249c",
+  "kpiMatricsFieldAndSectionsId": "31051f70-ab76-4cd7-8e32-abc5b0b7aa1a",
+  "fieldName": "Care Plan Date",
+  "operator": "-",
+  "value": "Assignment Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "4 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d2a"
+  },
+  "kpiMatricsFieldAndConditionId": "e3bfe21b-2ad4-4126-a49a-6f59eafc31ea",
+  "kpiMatricsFieldAndSectionsId": "2ea661f7-6f08-4451-aedf-ff005f1b3027",
+  "fieldName": "Discharge Plan Completion Date",
+  "operator": "-",
+  "value": "Hospital Discharge Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "14 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d2b"
+  },
+  "kpiMatricsFieldAndConditionId": "2d21dac9-d241-4186-9451-42d6664da7a2",
+  "kpiMatricsFieldAndSectionsId": "711f604e-f921-4505-aa52-8e0b3f96b126",
+  "fieldName": "Cases Contacted Within SLA",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "74%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d2c"
+  },
+  "kpiMatricsFieldAndConditionId": "a1f8a26d-b8be-4893-8df4-6ecac810ed5e",
+  "kpiMatricsFieldAndSectionsId": "1952288d-6b15-47d6-a168-9c7186694e76",
+  "fieldName": "Expected Rehab Duration",
+  "operator": "-",
+  "value": "Actual Rehab Duration",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d2d"
+  },
+  "kpiMatricsFieldAndConditionId": "dd1584ff-a46f-4c25-aac5-f460e5a9b3b2",
+  "kpiMatricsFieldAndSectionsId": "c212b89a-5f55-42b1-9a10-e6f391cef273",
+  "fieldName": "Projected Medical Cost",
+  "operator": "-",
+  "value": "Actual Medical Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$29,900",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d2e"
+  },
+  "kpiMatricsFieldAndConditionId": "89001a48-0891-4dcb-a5fc-196262f5aa20",
+  "kpiMatricsFieldAndSectionsId": "1ae2ee09-5f01-41c5-91fe-e2b43292edd4",
+  "fieldName": "Projected Lifetime Care Cost",
+  "operator": "-",
+  "value": "Revised Lifetime Care Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$14,500",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d2f"
+  },
+  "kpiMatricsFieldAndConditionId": "c841ddde-8b33-4d6c-9328-7237224a1d8b",
+  "kpiMatricsFieldAndSectionsId": "e4dae291-f81a-4a88-ba5f-9f3627dec8e4",
+  "fieldName": "Cases Following CCM Care Plan",
+  "operator": "/",
+  "value": "Total CCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "24%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d30"
+  },
+  "kpiMatricsFieldAndConditionId": "028206b1-cfd7-4b46-9ceb-3ca4551866a3",
+  "kpiMatricsFieldAndSectionsId": "bfd5b163-6989-448f-8f73-37ed24f95b55",
+  "fieldName": "Recommendations Adopted",
+  "operator": "/",
+  "value": "Recommendations Made * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "76%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d31"
+  },
+  "kpiMatricsFieldAndConditionId": "929aced7-d4d8-4c76-9eae-69bf8e419d69",
+  "kpiMatricsFieldAndSectionsId": "ff57f6aa-19cf-484c-8358-4da3220fa39d",
+  "fieldName": "Required Home Modifications Completed",
+  "operator": "/",
+  "value": "Required Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "17%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d32"
+  },
+  "kpiMatricsFieldAndConditionId": "0f472910-87e4-4999-bd18-8f77e2527597",
+  "kpiMatricsFieldAndSectionsId": "6c2f36bc-83f5-4fce-8128-99c155368731",
+  "fieldName": "Scheduled Visits Completed",
+  "operator": "/",
+  "value": "Scheduled Visits * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "67%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d33"
+  },
+  "kpiMatricsFieldAndConditionId": "8cc2a859-c9ce-4990-a1a2-addce7a2ff30",
+  "kpiMatricsFieldAndSectionsId": "a422b108-cf9e-46d9-b50a-ddb450c5d31d",
+  "fieldName": "Cases Successfully Coordinating Multiple Providers",
+  "operator": "/",
+  "value": "CCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "50%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d34"
+  },
+  "kpiMatricsFieldAndConditionId": "13913769-8f34-47f6-b87d-756dee59d365",
+  "kpiMatricsFieldAndSectionsId": "67b3e6ff-fdca-4930-a91b-68c4c16a80c8",
+  "fieldName": "Average survey rating (post-case)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d35"
+  },
+  "kpiMatricsFieldAndConditionId": "6fd4e920-3a66-435a-acfb-de266f8778da",
+  "kpiMatricsFieldAndSectionsId": "531558df-b65c-46d3-bd74-b6e9bf5c2745",
+  "fieldName": "Average survey rating (claimant)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d36"
+  },
+  "kpiMatricsFieldAndConditionId": "f3fbfa7b-7bfb-4dc3-b8ff-c65c933b5f5a",
+  "kpiMatricsFieldAndSectionsId": "c32f678c-ec6d-44be-8914-3c2b92161cc7",
+  "fieldName": "Decision Letters Issued Correctly on First Attempt",
+  "operator": "/",
+  "value": "Total Letters Issued * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "83%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d37"
+  },
+  "kpiMatricsFieldAndConditionId": "ef0fcb4a-d421-4fa4-aa81-69fa8462cf3d",
+  "kpiMatricsFieldAndSectionsId": "853a90fe-a923-43eb-99a1-330b9e7f2f15",
+  "fieldName": "Letters Revised Due to Error",
+  "operator": "/",
+  "value": "Total Letters Issued in Prior Period * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "91%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d38"
+  },
+  "kpiMatricsFieldAndConditionId": "298d2858-e18a-4423-a038-76a1ffa48056",
+  "kpiMatricsFieldAndSectionsId": "bce18282-ea39-4b7b-90a0-7944e678c687",
+  "fieldName": "Cases Escalated to Complex Litigation",
+  "operator": "/",
+  "value": "Total Production Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "88%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d39"
+  },
+  "kpiMatricsFieldAndConditionId": "4764b251-a6a3-417e-96be-ab830e787e69",
+  "kpiMatricsFieldAndSectionsId": "4e0ad855-77ac-4bb9-9ae7-10d7042797d3",
+  "fieldName": "Reserve for Legal Spend",
+  "operator": "-",
+  "value": "Actual Spend",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$14,400",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d3a"
+  },
+  "kpiMatricsFieldAndConditionId": "b03b736d-fe31-451c-adb9-50415835b3c6",
+  "kpiMatricsFieldAndSectionsId": "a6867434-1e7b-43cd-816c-5ffbd26c39ec",
+  "fieldName": "Completed Date",
+  "operator": "-",
+  "value": "Assigned Date (days)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d3b"
+  },
+  "kpiMatricsFieldAndConditionId": "377a9a11-205c-4c4f-a63c-08495b6a3017",
+  "kpiMatricsFieldAndSectionsId": "a2507204-65cb-41f6-af5b-4e3dbf0c2792",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d3c"
+  },
+  "kpiMatricsFieldAndConditionId": "5cc7e69e-dc83-4a9e-9469-c9a363ed132f",
+  "kpiMatricsFieldAndSectionsId": "6319322b-e14f-4401-9f7a-081c7d2d2fee",
+  "fieldName": "Cases Within SLA",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "63%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d3d"
+  },
+  "kpiMatricsFieldAndConditionId": "92cffe2b-2690-42ba-a9c2-e8bb05c79267",
+  "kpiMatricsFieldAndSectionsId": "60d4faed-bf60-4034-945f-d0d494a2cb04",
+  "fieldName": "Reserve for Legal Spend",
+  "operator": "-",
+  "value": "Actual Spend",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$48,500",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d3e"
+  },
+  "kpiMatricsFieldAndConditionId": "f5b52626-d305-420e-b005-b72da14f9099",
+  "kpiMatricsFieldAndSectionsId": "8065f750-e355-4130-acd4-f6a373a46af5",
+  "fieldName": "Letters Issued Without Revision",
+  "operator": "/",
+  "value": "Total Letters * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "86%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d3f"
+  },
+  "kpiMatricsFieldAndConditionId": "25b7cdc7-d6c4-4be7-93b3-7dbf6d24f761",
+  "kpiMatricsFieldAndSectionsId": "de55c22b-d98d-4309-a03c-27454645db65",
+  "fieldName": "Required Fields Fully Populated",
+  "operator": "/",
+  "value": "Total Required Fields * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "21%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d40"
+  },
+  "kpiMatricsFieldAndConditionId": "9b7ca51d-5078-430d-b779-7bf04ee98aea",
+  "kpiMatricsFieldAndSectionsId": "badf3bd0-1848-4b12-879f-395d392902c4",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d41"
+  },
+  "kpiMatricsFieldAndConditionId": "b48ca80e-1c63-44d5-a2ca-ea5508bb357e",
+  "kpiMatricsFieldAndSectionsId": "3b1f373b-a483-4603-a56a-d4cecf8707df",
+  "fieldName": "Average adjuster survey rating post-letter delivery",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d42"
+  },
+  "kpiMatricsFieldAndConditionId": "4050b2fc-7ce7-4960-b0e7-09f7f13c5f3e",
+  "kpiMatricsFieldAndSectionsId": "f70da238-cf5e-4319-9dd9-36b8f867c120",
+  "fieldName": "Average claimant comprehension survey rating",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d43"
+  },
+  "kpiMatricsFieldAndConditionId": "0d54f27d-e3e5-433e-bc10-77eabc7b9dad",
+  "kpiMatricsFieldAndSectionsId": "2ee5a31b-96b3-44fe-874e-82655e6ab150",
+  "fieldName": "Verified Findings",
+  "operator": "/",
+  "value": "Total Findings Reported * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "67%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d44"
+  },
+  "kpiMatricsFieldAndConditionId": "6980e0a2-c07b-47ce-9ffb-2336b88b507d",
+  "kpiMatricsFieldAndSectionsId": "7808dc6a-7a5f-44bf-b461-c49ab1c9a5ea",
+  "fieldName": "Reports Accepted Without Clarification",
+  "operator": "/",
+  "value": "Total Reports * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "40%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d45"
+  },
+  "kpiMatricsFieldAndConditionId": "a6631556-7a47-4c88-a2d9-92ee1fbf26d0",
+  "kpiMatricsFieldAndSectionsId": "b51831ba-8aed-484d-836f-aa2f8db95a73",
+  "fieldName": "Reserve Accuracy After Investigation",
+  "operator": "-",
+  "value": "Before Investigation",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "77%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d46"
+  },
+  "kpiMatricsFieldAndConditionId": "2fb9d94e-0158-490e-be4f-8c99adc1ebf3",
+  "kpiMatricsFieldAndSectionsId": "2b49b62a-3223-4372-bf1f-619f71c55782",
+  "fieldName": "Claims With Material Contradictions Found",
+  "operator": "/",
+  "value": "Claims Investigated * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "81%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d47"
+  },
+  "kpiMatricsFieldAndConditionId": "c1beee5d-2d02-4d48-9ea0-c864758d24b7",
+  "kpiMatricsFieldAndSectionsId": "4d574073-4858-4afd-b1a8-a2fb66d7725c",
+  "fieldName": "Claims Where Prior Claims Found",
+  "operator": "/",
+  "value": "Claims Investigated * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "74%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d48"
+  },
+  "kpiMatricsFieldAndConditionId": "e3f30848-f064-4e99-96fe-bacd596246ae",
+  "kpiMatricsFieldAndSectionsId": "7008f0cd-a9bc-458c-b3bc-880ace59b5f5",
+  "fieldName": "Claims Where Prior Injuries Found",
+  "operator": "/",
+  "value": "Claims Investigated * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "26%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d49"
+  },
+  "kpiMatricsFieldAndConditionId": "fc3872bb-a8e7-4be6-afab-a2ca96c9ba42",
+  "kpiMatricsFieldAndSectionsId": "fdd3c9bd-180f-42ba-975a-a3d6dcf6fe22",
+  "fieldName": "Claims Reclassified After Investigation",
+  "operator": "/",
+  "value": "Claims Investigated * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "56%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d4a"
+  },
+  "kpiMatricsFieldAndConditionId": "25edba4d-6843-442e-bdd3-7d8927259179",
+  "kpiMatricsFieldAndSectionsId": "6e80d496-2291-484b-ae5e-ff8d942ecd13",
+  "fieldName": "Projected Exposure",
+  "operator": "-",
+  "value": "Actual Exposure After Findings",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$32,900",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d4b"
+  },
+  "kpiMatricsFieldAndConditionId": "f3c43c14-81a9-4f71-a0d8-9291f66174bc",
+  "kpiMatricsFieldAndSectionsId": "9f04a066-a708-4aed-a926-ab220b7b074d",
+  "fieldName": "Investigation Completion Date",
+  "operator": "-",
+  "value": "Assignment Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "13 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d4c"
+  },
+  "kpiMatricsFieldAndConditionId": "6653c1d9-a6f6-499a-bf3d-bc7b7b007922",
+  "kpiMatricsFieldAndSectionsId": "14589815-686a-45ae-9faf-638cbdab43aa",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d4d"
+  },
+  "kpiMatricsFieldAndConditionId": "151289c2-a187-4b45-a1f8-078780e2b8a2",
+  "kpiMatricsFieldAndSectionsId": "d7020584-75ed-405d-9cbf-34d3ff676ee8",
+  "fieldName": "Investigations Completed Within SLA",
+  "operator": "/",
+  "value": "Total Investigations * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "67%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d4e"
+  },
+  "kpiMatricsFieldAndConditionId": "6617bcda-b78a-4b77-bc23-3bc43c636808",
+  "kpiMatricsFieldAndSectionsId": "8da6fb66-e407-4638-a779-47096090937c",
+  "fieldName": "Projected Exposure",
+  "operator": "-",
+  "value": "Actual Exposure After Findings",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$8,100",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d4f"
+  },
+  "kpiMatricsFieldAndConditionId": "7e7b29ae-7cca-437b-8eb7-cbf90114a9ac",
+  "kpiMatricsFieldAndSectionsId": "ed7d1027-c8ba-469b-bce7-40020c6c1c08",
+  "fieldName": "Reserved Legal Spend",
+  "operator": "-",
+  "value": "Actual Legal Spend",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$40,500",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d50"
+  },
+  "kpiMatricsFieldAndConditionId": "2fed1b2d-50fc-4824-af34-e415cd390149",
+  "kpiMatricsFieldAndSectionsId": "35560658-a295-4e52-9bf6-378874c4e0a7",
+  "fieldName": "Reserve Accuracy After Investigation",
+  "operator": "-",
+  "value": "Before Investigation",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "43%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d51"
+  },
+  "kpiMatricsFieldAndConditionId": "9cbe7df5-df8b-46c1-9ce0-40f0ed3fdf32",
+  "kpiMatricsFieldAndSectionsId": "15a9ef6b-5682-4469-a5da-e4b0c0b04af0",
+  "fieldName": "Investigations Requiring Additional Research",
+  "operator": "/",
+  "value": "Total Investigations * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "83%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d52"
+  },
+  "kpiMatricsFieldAndConditionId": "a9642f6a-52e9-451b-ac11-2f33209a6a2b",
+  "kpiMatricsFieldAndSectionsId": "fe367d93-8493-41e9-a34f-e48da11ef22d",
+  "fieldName": "Verified Findings",
+  "operator": "/",
+  "value": "Total Findings Reported * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "40%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d53"
+  },
+  "kpiMatricsFieldAndConditionId": "421202f5-148f-46f8-9e09-e8718d0a9df8",
+  "kpiMatricsFieldAndSectionsId": "c24534c5-3e0e-4807-8df9-cc278655cfb0",
+  "fieldName": "Average rating of usefulness of findings (adjuster survey)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d54"
+  },
+  "kpiMatricsFieldAndConditionId": "23c2999b-50fb-4fec-810c-fdcbc7fd0260",
+  "kpiMatricsFieldAndSectionsId": "e644039b-1603-4fe8-b000-81fcbc993bd4",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d55"
+  },
+  "kpiMatricsFieldAndConditionId": "62bc0606-c76b-4e28-8b0b-f26e9e69ee16",
+  "kpiMatricsFieldAndSectionsId": "0691fa57-cc2e-4772-8361-57faaea1e6f2",
+  "fieldName": "Average survey rating (post-investigation)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d56"
+  },
+  "kpiMatricsFieldAndConditionId": "26ecedb4-e644-4382-9b4b-16c613fd5704",
+  "kpiMatricsFieldAndSectionsId": "9b17c1f4-c4e4-4783-912f-c08231b3502c",
+  "fieldName": "Claimant Interviews Completed",
+  "operator": "/",
+  "value": "Claimant Interviews Scheduled * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "73%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d57"
+  },
+  "kpiMatricsFieldAndConditionId": "67225669-842e-498a-947f-727079d0951e",
+  "kpiMatricsFieldAndSectionsId": "fea30240-bb88-4dc0-b714-9c234d4cca2e",
+  "fieldName": "Reports Accepted Without Rework",
+  "operator": "/",
+  "value": "Total Reports * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "97%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d58"
+  },
+  "kpiMatricsFieldAndConditionId": "16f85448-02c3-4040-8e69-0aa040e6857c",
+  "kpiMatricsFieldAndSectionsId": "cd73d4e6-568e-41be-93cb-47e3df49e4f0",
+  "fieldName": "Claims Reaching MMI Due to IME",
+  "operator": "/",
+  "value": "Total IMEs * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d59"
+  },
+  "kpiMatricsFieldAndConditionId": "97c81fe4-f360-4402-a7bd-2e5e8be2edc9",
+  "kpiMatricsFieldAndSectionsId": "21f35558-a033-43f1-8e4f-8e94597890cd",
+  "fieldName": "Claims Reclassified After IME",
+  "operator": "/",
+  "value": "Total IMEs * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "51%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d5a"
+  },
+  "kpiMatricsFieldAndConditionId": "5200cef8-bff4-4367-b7d8-a7c51b80e52e",
+  "kpiMatricsFieldAndSectionsId": "0e84eada-09dd-48d6-adf9-b6bc868fcddc",
+  "fieldName": "Reserve Accuracy After IME",
+  "operator": "/",
+  "value": "Before IME (% improvement)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "44%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d5b"
+  },
+  "kpiMatricsFieldAndConditionId": "06a65973-7be2-47c3-a73c-31b059136ddd",
+  "kpiMatricsFieldAndSectionsId": "f81a4e9a-155b-4ee7-a1d8-d83ae2d41972",
+  "fieldName": "Claims Where Disability Rating Changed",
+  "operator": "/",
+  "value": "Total IMEs * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "59%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d5c"
+  },
+  "kpiMatricsFieldAndConditionId": "aa85343b-2591-4dcb-8221-a094908b89db",
+  "kpiMatricsFieldAndSectionsId": "9e13c14d-529d-4fe3-a3d1-7528bf9d4136",
+  "fieldName": "Historical Decision Duration",
+  "operator": "-",
+  "value": "Actual Decision Duration (days)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d5d"
+  },
+  "kpiMatricsFieldAndConditionId": "218dc3c5-00e5-49e4-9e4d-7a77c9568136",
+  "kpiMatricsFieldAndSectionsId": "807b17dd-222c-41d2-be49-038a5acc9c9d",
+  "fieldName": "Questionable Treatment Cost Avoided",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$47,800",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d5e"
+  },
+  "kpiMatricsFieldAndConditionId": "6b71f319-1266-4813-9ed3-70a92f1fc63a",
+  "kpiMatricsFieldAndSectionsId": "2877b868-982a-4560-a245-6fd48990f54b",
+  "fieldName": "Appointment Scheduled Date",
+  "operator": "-",
+  "value": "Referral Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "11 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d5f"
+  },
+  "kpiMatricsFieldAndConditionId": "e9834fc8-57ed-4f29-b4e0-0eb941c096d5",
+  "kpiMatricsFieldAndSectionsId": "553f19e0-c26a-4f7c-ace6-54838036c117",
+  "fieldName": "Report Received Date",
+  "operator": "-",
+  "value": "Exam Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "11 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d60"
+  },
+  "kpiMatricsFieldAndConditionId": "7c3a3ade-6dbe-4354-b356-55d6ad3a82f2",
+  "kpiMatricsFieldAndSectionsId": "2ff996f4-59e8-4452-aae6-9bb31798c5e3",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d61"
+  },
+  "kpiMatricsFieldAndConditionId": "ef97920b-cd27-49d8-9b80-04318b942452",
+  "kpiMatricsFieldAndSectionsId": "d9ee4f37-0a13-400c-9878-25742e3528ee",
+  "fieldName": "Reports Delivered Within SLA",
+  "operator": "/",
+  "value": "Total Reports * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "70%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d62"
+  },
+  "kpiMatricsFieldAndConditionId": "c7ac33f7-aff5-4353-99b9-478040bb179b",
+  "kpiMatricsFieldAndSectionsId": "7dfe9e97-b437-4f64-9f9b-22c431a7ee4e",
+  "fieldName": "Projected/Reserved Medical Cost",
+  "operator": "-",
+  "value": "Actual Medical Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$9,000",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d63"
+  },
+  "kpiMatricsFieldAndConditionId": "255dacec-8857-4cd4-a396-a7ec5b9576eb",
+  "kpiMatricsFieldAndSectionsId": "3945afa6-e67b-412b-8d5a-4f7df898aaaf",
+  "fieldName": "Reserve for TD Payments",
+  "operator": "-",
+  "value": "Actual TD Payments",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$16,900",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d64"
+  },
+  "kpiMatricsFieldAndConditionId": "41e61d71-e09f-4214-a781-07e818a080d8",
+  "kpiMatricsFieldAndSectionsId": "0f006b11-b5e5-4700-aeb8-0f30b1e71de9",
+  "fieldName": "Reports Requiring Clarification",
+  "operator": "/",
+  "value": "Total Reports * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "24%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d65"
+  },
+  "kpiMatricsFieldAndConditionId": "7bd31788-9806-4763-a8f1-3124b786b0b8",
+  "kpiMatricsFieldAndSectionsId": "6a35407a-691f-4b52-bee6-f41557345c60",
+  "fieldName": "Cases Requiring Additional IME or Peer Review",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "39%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d66"
+  },
+  "kpiMatricsFieldAndConditionId": "993759c9-7c46-43cd-8026-80a2d26d6f62",
+  "kpiMatricsFieldAndSectionsId": "a05e8386-1c21-43c5-b2a8-28b3e28314c3",
+  "fieldName": "Reports Accepted Without Rework",
+  "operator": "/",
+  "value": "Total Reports * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d67"
+  },
+  "kpiMatricsFieldAndConditionId": "c4151ace-b346-4526-8bc1-c8c20b8e2e06",
+  "kpiMatricsFieldAndSectionsId": "e57bd0d3-3bc2-4bcc-895a-dc6fd12bc3c8",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d68"
+  },
+  "kpiMatricsFieldAndConditionId": "77be6f24-5183-4acf-b767-0870bced7564",
+  "kpiMatricsFieldAndSectionsId": "e229f3f3-6f5a-456a-b67e-995465e89ce5",
+  "fieldName": "Average survey rating",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "2/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d69"
+  },
+  "kpiMatricsFieldAndConditionId": "be5cfdb1-c014-474c-9a17-cac749b0b05c",
+  "kpiMatricsFieldAndSectionsId": "a999b5ab-e4dd-4d50-bfdc-8d02fd791d3b",
+  "fieldName": "Average Days from Referral to Examination Date",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d6a"
+  },
+  "kpiMatricsFieldAndConditionId": "d113026c-3e62-4a2a-9283-eb40945bf7ec",
+  "kpiMatricsFieldAndSectionsId": "83a45731-8ea7-4eed-83bf-ea6bb54e5aff",
+  "fieldName": "Claimants Who Did Not Attend IME",
+  "operator": "/",
+  "value": "Total Scheduled IMEs * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d6b"
+  },
+  "kpiMatricsFieldAndConditionId": "c82f4789-8844-4cd9-9cc5-86a21092b87d",
+  "kpiMatricsFieldAndSectionsId": "6f2fc2a5-3f97-494b-83e3-c8300dd55039",
+  "fieldName": "Claims Where Disability Rating Changed",
+  "operator": "/",
+  "value": "Total IMEs * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "57%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d6c"
+  },
+  "kpiMatricsFieldAndConditionId": "112a4fdd-4134-4495-bd9a-b5fac06684a4",
+  "kpiMatricsFieldAndSectionsId": "e12d36d9-5bc3-426d-9758-0e87d0083dda",
+  "fieldName": "Claims With Prior Treatment Found",
+  "operator": "/",
+  "value": "Claims Canvassed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "8%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d6d"
+  },
+  "kpiMatricsFieldAndConditionId": "50fd1301-1848-4951-bacd-e487c27efcdd",
+  "kpiMatricsFieldAndSectionsId": "2203b45e-7118-447e-97d4-821904ae3a00",
+  "fieldName": "Claims Reclassified After Canvass",
+  "operator": "/",
+  "value": "Claims Canvassed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "28%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d6e"
+  },
+  "kpiMatricsFieldAndConditionId": "7ffde4ca-0789-4dad-8ece-7ea97588b183",
+  "kpiMatricsFieldAndSectionsId": "284a4b0f-2e35-450b-bd66-fe2e657ccc06",
+  "fieldName": "Claims Where Chronic Conditions Identified",
+  "operator": "/",
+  "value": "Claims Canvassed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "84%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d6f"
+  },
+  "kpiMatricsFieldAndConditionId": "72a17070-52d0-4d9e-9e39-77459916e725",
+  "kpiMatricsFieldAndSectionsId": "c4e3a856-9c2e-4047-b3dd-6f542b2326f3",
+  "fieldName": "Previously Unknown Providers",
+  "operator": "/",
+  "value": "Providers Identified * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "64%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d70"
+  },
+  "kpiMatricsFieldAndConditionId": "f4405275-09b0-449d-ae1b-0f93b19aa2e0",
+  "kpiMatricsFieldAndSectionsId": "5c31afd8-a41f-4023-8f0c-108839e1a1a0",
+  "fieldName": "Claims Reclassified After Canvass",
+  "operator": "/",
+  "value": "Claims Canvassed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "89%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d71"
+  },
+  "kpiMatricsFieldAndConditionId": "8a02d987-a1b8-4b25-9e32-2c20db51eb82",
+  "kpiMatricsFieldAndSectionsId": "73f855b7-070d-474f-8c7c-42069dd4fbf4",
+  "fieldName": "Claims With Prior Treatment Found",
+  "operator": "/",
+  "value": "Claims Canvassed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "52%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d72"
+  },
+  "kpiMatricsFieldAndConditionId": "effb86a9-98d0-457a-9452-f46d1ea7e010",
+  "kpiMatricsFieldAndSectionsId": "98bbbef0-bcb0-45ec-a848-92ed5c2102da",
+  "fieldName": "Canvass Completion Date",
+  "operator": "-",
+  "value": "Assignment Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d73"
+  },
+  "kpiMatricsFieldAndConditionId": "c7bc9bcb-9c97-471f-8ad2-98328df41389",
+  "kpiMatricsFieldAndSectionsId": "3c9f1eb3-418c-4e3b-8fcb-f35738af350c",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d74"
+  },
+  "kpiMatricsFieldAndConditionId": "c0be392d-5b57-4f1d-bed8-373ff1a6a6b4",
+  "kpiMatricsFieldAndSectionsId": "f6ccf9a0-1f8a-4491-aa04-cb96be6eb56f",
+  "fieldName": "Historical Provider Discovery Days",
+  "operator": "-",
+  "value": "Actual Discovery Days",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d75"
+  },
+  "kpiMatricsFieldAndConditionId": "0c815b56-69e6-4026-b969-6d933fe6e2e8",
+  "kpiMatricsFieldAndSectionsId": "cde8a219-6a65-44c8-aee7-b2d20a66c006",
+  "fieldName": "Reserve Accuracy After Canvass",
+  "operator": "-",
+  "value": "Before Canvass (%)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "46%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d76"
+  },
+  "kpiMatricsFieldAndConditionId": "115be17d-bcb5-4898-a7eb-4899df0664ff",
+  "kpiMatricsFieldAndSectionsId": "fdc4a858-39da-4a7b-9188-aaf781b9f493",
+  "fieldName": "Reserve for Medical Cost",
+  "operator": "-",
+  "value": "Actual Medical Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$14,400",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d77"
+  },
+  "kpiMatricsFieldAndConditionId": "b7273ef5-9f16-4cbe-ba14-4688bf7b92ec",
+  "kpiMatricsFieldAndSectionsId": "76be7329-85a7-44d1-89ce-f28005629572",
+  "fieldName": "Verified Providers",
+  "operator": "/",
+  "value": "Providers Identified * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d78"
+  },
+  "kpiMatricsFieldAndConditionId": "3cbff329-0831-4bd2-9e52-fd4b90b473c1",
+  "kpiMatricsFieldAndSectionsId": "fe7c9c64-295c-446c-9da8-cfaaa80dba23",
+  "fieldName": "Duplicate Providers",
+  "operator": "/",
+  "value": "Providers Found * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "17%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d79"
+  },
+  "kpiMatricsFieldAndConditionId": "b1a424b4-17c2-4ba9-b216-7be42778c044",
+  "kpiMatricsFieldAndSectionsId": "399d2a1f-388a-4489-bc3a-c83753bc235d",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d7a"
+  },
+  "kpiMatricsFieldAndConditionId": "17173bbf-d7ac-45af-aaa0-09693074a730",
+  "kpiMatricsFieldAndSectionsId": "1c63ec74-a2e3-4f8a-8404-0c2cc87fbcbd",
+  "fieldName": "Average survey rating (post-canvass)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "10/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d7b"
+  },
+  "kpiMatricsFieldAndConditionId": "d90f668d-e6b2-4c99-8d4a-27545ae068f5",
+  "kpiMatricsFieldAndSectionsId": "3769136a-5642-4589-888b-44185be640a6",
+  "fieldName": "Average survey rating (benchmark = 3)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d7c"
+  },
+  "kpiMatricsFieldAndConditionId": "2af7da1e-065d-456d-83d8-9a134a0e6c01",
+  "kpiMatricsFieldAndSectionsId": "f8c8ee57-2c36-4ff7-b758-c6950a6999a3",
+  "fieldName": "High-Risk Cases Successfully Managed",
+  "operator": "/",
+  "value": "NCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "97%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d7d"
+  },
+  "kpiMatricsFieldAndConditionId": "1e4673fb-1029-440f-82ea-cbbcf9c6496a",
+  "kpiMatricsFieldAndSectionsId": "cc908631-61c2-4332-a922-664311411dac",
+  "fieldName": "Cases With Managed Comorbidities",
+  "operator": "/",
+  "value": "NCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "65%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d7e"
+  },
+  "kpiMatricsFieldAndConditionId": "789e5af5-cef5-4790-9638-22605a1c149e",
+  "kpiMatricsFieldAndSectionsId": "35f3f1b7-8ff1-44f4-831b-272d88bcb06f",
+  "fieldName": "Identified RTW Barriers Resolved",
+  "operator": "/",
+  "value": "Identified RTW Barriers * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "43%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d7f"
+  },
+  "kpiMatricsFieldAndConditionId": "6598a3f4-d61b-481b-82c6-6b19ba459b13",
+  "kpiMatricsFieldAndSectionsId": "419d3b5b-1507-406e-91fa-051b2ee05ed1",
+  "fieldName": "Reserve Accuracy After NCM",
+  "operator": "-",
+  "value": "Before NCM",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "35%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d80"
+  },
+  "kpiMatricsFieldAndConditionId": "0b4930f2-aa65-4b81-98dc-99ba51674962",
+  "kpiMatricsFieldAndSectionsId": "4309ff5b-1a8b-41e0-9450-689da54c65c1",
+  "fieldName": "Cases With Attorney After NCM",
+  "operator": "/",
+  "value": "Cases With Attorney Before NCM * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "96%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d81"
+  },
+  "kpiMatricsFieldAndConditionId": "9d6ba08b-b765-4b43-98df-6f9ab01c4d2b",
+  "kpiMatricsFieldAndSectionsId": "21511dcd-2425-427a-9cbe-bb6eb6c8ddad",
+  "fieldName": "Cases Identified for NCM Before Attorney Filing",
+  "operator": "/",
+  "value": "Total NCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "41%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d82"
+  },
+  "kpiMatricsFieldAndConditionId": "af2c4f05-e717-4174-942b-7cc819c0b35e",
+  "kpiMatricsFieldAndSectionsId": "0353476f-c00c-496b-8516-355f0b54b3a0",
+  "fieldName": "First Contact Date",
+  "operator": "-",
+  "value": "Assignment Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "8 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d83"
+  },
+  "kpiMatricsFieldAndConditionId": "69d417b7-2175-4aae-ae45-582b222dd3f2",
+  "kpiMatricsFieldAndSectionsId": "785505f3-c7a1-4fc4-9bd0-f1cd302b85d5",
+  "fieldName": "Care Plan Date",
+  "operator": "-",
+  "value": "Assignment Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "13 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d84"
+  },
+  "kpiMatricsFieldAndConditionId": "91a458b5-632b-4aca-aa55-930b1ac7770b",
+  "kpiMatricsFieldAndSectionsId": "729da347-cb81-4668-87b6-63461413ef0b",
+  "fieldName": "Expected RTW Days",
+  "operator": "-",
+  "value": "Actual RTW Days",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d85"
+  },
+  "kpiMatricsFieldAndConditionId": "7ac1962e-281b-46eb-954e-383ee730e1c3",
+  "kpiMatricsFieldAndSectionsId": "4cf76350-9c88-446b-98bd-d87ef236b397",
+  "fieldName": "Cases Contacted Within SLA",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "89%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d86"
+  },
+  "kpiMatricsFieldAndConditionId": "16f148d2-9b95-4367-ae18-49ab44f04497",
+  "kpiMatricsFieldAndSectionsId": "d3408136-2e82-4783-81f7-affc980ed7d5",
+  "fieldName": "Projected Medical Cost",
+  "operator": "-",
+  "value": "Actual Medical Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$26,100",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d87"
+  },
+  "kpiMatricsFieldAndConditionId": "7e524237-c3e5-4501-a034-7b4b4d820d95",
+  "kpiMatricsFieldAndSectionsId": "684a48e9-de01-45d6-90aa-c6cdac68e28c",
+  "fieldName": "Expected Lost Days",
+  "operator": "-",
+  "value": "Actual Lost Days",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "6 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d88"
+  },
+  "kpiMatricsFieldAndConditionId": "ca810fca-0091-42fc-ad96-8a828226900d",
+  "kpiMatricsFieldAndSectionsId": "6c8340f9-8074-4513-a875-6477fdb3f9cd",
+  "fieldName": "Avoided Treatment Cost (actual vs. projected)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$29,300",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d89"
+  },
+  "kpiMatricsFieldAndConditionId": "b8dc3a15-6807-41cf-8a3f-01a27e6ccddf",
+  "kpiMatricsFieldAndSectionsId": "552ec837-cb85-4734-be4a-e6e08c344fe2",
+  "fieldName": "Cases Following Care Plan",
+  "operator": "/",
+  "value": "Total NCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "21%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d8a"
+  },
+  "kpiMatricsFieldAndConditionId": "bf0b59d0-613b-447a-9421-27eaec0acb9e",
+  "kpiMatricsFieldAndSectionsId": "92d82666-15b2-4f1d-b219-d60bb92bf516",
+  "fieldName": "Scheduled Visits Completed",
+  "operator": "/",
+  "value": "Scheduled Visits * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "18%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d8b"
+  },
+  "kpiMatricsFieldAndConditionId": "4aa82fe1-cd16-4828-a8a9-fb44a4a68348",
+  "kpiMatricsFieldAndSectionsId": "c056eebf-04d4-42d9-a1dd-3610e763a112",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d8c"
+  },
+  "kpiMatricsFieldAndConditionId": "75dbd3b8-6c4d-4469-b5da-a658995e89f2",
+  "kpiMatricsFieldAndSectionsId": "1966a731-8717-4161-9590-d8e037af3036",
+  "fieldName": "Scheduled Visits Completed",
+  "operator": "/",
+  "value": "Scheduled Visits * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "23%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d8d"
+  },
+  "kpiMatricsFieldAndConditionId": "b75ec2e3-2529-49d9-a91c-e1d8c12bcb4a",
+  "kpiMatricsFieldAndSectionsId": "bb0dc60e-7882-4eea-b937-421e3b88b118",
+  "fieldName": "Average survey rating (post-case)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "2/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d8e"
+  },
+  "kpiMatricsFieldAndConditionId": "416b0fc7-6c7c-487e-95ae-02931a7049b7",
+  "kpiMatricsFieldAndSectionsId": "60c5d548-a36e-44cc-885f-dba783e4a394",
+  "fieldName": "Average survey rating (claimant)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d8f"
+  },
+  "kpiMatricsFieldAndConditionId": "cc94cf41-87cb-4892-ba64-da1da19fff42",
+  "kpiMatricsFieldAndSectionsId": "372a3344-696f-4255-ada3-ae189ab18023",
+  "fieldName": "Prescriptions Approved Without Additional Review",
+  "operator": "/",
+  "value": "Total Prescriptions * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "61%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d90"
+  },
+  "kpiMatricsFieldAndConditionId": "73bc6684-3f96-4d46-b21e-de11ab4d09c9",
+  "kpiMatricsFieldAndSectionsId": "1ebb2ae6-9c9e-4eb1-88d7-80df44f3f907",
+  "fieldName": "PBM Recommendations Accepted",
+  "operator": "/",
+  "value": "Recommendations Made * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "31%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d91"
+  },
+  "kpiMatricsFieldAndConditionId": "2c08538a-5b01-4db8-8fbd-6702abaae79e",
+  "kpiMatricsFieldAndSectionsId": "f0ed95c0-7a5d-4e95-b7f2-7921a31da744",
+  "fieldName": "Adopted",
+  "operator": "/",
+  "value": "Submitted * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "76%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d92"
+  },
+  "kpiMatricsFieldAndConditionId": "fec807e7-1ee9-48c2-aae2-4051759da9a9",
+  "kpiMatricsFieldAndSectionsId": "0f9be801-d9fc-428e-9a58-a814a77df137",
+  "fieldName": "Prior Authorizations Disputed by Prescriber",
+  "operator": "/",
+  "value": "Total Prior Authorizations * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "20%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d93"
+  },
+  "kpiMatricsFieldAndConditionId": "bdd1b069-3757-4018-86b4-7b2540fbfae8",
+  "kpiMatricsFieldAndSectionsId": "0d4e14f9-5e0e-47f7-be54-358e2d14ad85",
+  "fieldName": "Claims With Opioid Usage Escalated for Legal Review",
+  "operator": "/",
+  "value": "Total Opioid Claims * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "46%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d94"
+  },
+  "kpiMatricsFieldAndConditionId": "3b2ed12b-a4fb-4cdf-b43c-99a9eba89111",
+  "kpiMatricsFieldAndSectionsId": "d0f96231-172e-4736-9dab-eeb1ae0b2582",
+  "fieldName": "Review Completion Date",
+  "operator": "-",
+  "value": "Prescription Receipt Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d95"
+  },
+  "kpiMatricsFieldAndConditionId": "ab4cd381-f84c-4a67-a94b-f4392ae5e37b",
+  "kpiMatricsFieldAndSectionsId": "b646ef30-f90a-4140-b40e-c7b4abdba40d",
+  "fieldName": "Authorization Decision Date",
+  "operator": "-",
+  "value": "Authorization Request Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "13 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d96"
+  },
+  "kpiMatricsFieldAndConditionId": "650797a5-4042-4839-ad7a-054a344db3a9",
+  "kpiMatricsFieldAndSectionsId": "5304aca6-120d-452b-a814-3ccc17c8edaa",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per review)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d97"
+  },
+  "kpiMatricsFieldAndConditionId": "9f8e1bc0-d8ce-4d90-9cd8-e0918ec31ac6",
+  "kpiMatricsFieldAndSectionsId": "d486dada-5215-4279-9d65-57c84b92a95c",
+  "fieldName": "Reviews Completed Within SLA",
+  "operator": "/",
+  "value": "Total Reviews * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "55%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d98"
+  },
+  "kpiMatricsFieldAndConditionId": "c41927af-fe53-4621-9230-4cd4ede7761a",
+  "kpiMatricsFieldAndSectionsId": "ed1deaa9-6052-4052-9355-00a46b9916a2",
+  "fieldName": "Projected Pharmacy Cost",
+  "operator": "-",
+  "value": "Actual Pharmacy Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$23,300",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d99"
+  },
+  "kpiMatricsFieldAndConditionId": "0028efe1-10ae-48b2-a18f-8d81f5df6b02",
+  "kpiMatricsFieldAndSectionsId": "de040d8e-2ba6-4a23-813d-4ca116ffc492",
+  "fieldName": "Brand Drug Cost",
+  "operator": "-",
+  "value": "Generic Drug Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$3,500",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d9a"
+  },
+  "kpiMatricsFieldAndConditionId": "ffeab0b6-9a80-4093-98db-a37beef7e33b",
+  "kpiMatricsFieldAndSectionsId": "761ba4ea-98a8-4194-b7f0-4cb4b4a0b868",
+  "fieldName": "Inappropriate Drug Spend Avoided",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$24,400",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d9b"
+  },
+  "kpiMatricsFieldAndConditionId": "fa45559e-de84-4f57-9b46-a0f8182d650c",
+  "kpiMatricsFieldAndSectionsId": "a5604d98-6a98-4f75-b9c1-5dbd22063e01",
+  "fieldName": "Prescriptions Requiring Re-review",
+  "operator": "/",
+  "value": "Total Prescriptions * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d9c"
+  },
+  "kpiMatricsFieldAndConditionId": "36ea6767-ab97-4f13-a03b-78aaee0a1cfb",
+  "kpiMatricsFieldAndSectionsId": "607a9f05-ecd3-4daf-b38f-175a1a58b1bf",
+  "fieldName": "Prescriptions Approved Without Additional Review",
+  "operator": "/",
+  "value": "Total Prescriptions * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "69%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d9d"
+  },
+  "kpiMatricsFieldAndConditionId": "09502867-ab7e-4010-a207-3d14a5f11cd3",
+  "kpiMatricsFieldAndSectionsId": "c21be4cd-b9fe-4ac9-b88d-d556b1d5b3c6",
+  "fieldName": "Adopted",
+  "operator": "/",
+  "value": "Submitted * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "50%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d9e"
+  },
+  "kpiMatricsFieldAndConditionId": "ee402342-f227-457d-9a02-147a13bee36a",
+  "kpiMatricsFieldAndSectionsId": "d5274794-af18-4d61-8502-fec657239603",
+  "fieldName": "Claims Using Opioids",
+  "operator": "/",
+  "value": "Claims Reviewed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "30%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2d9f"
+  },
+  "kpiMatricsFieldAndConditionId": "6aa393c6-6a27-4da7-8e18-4b25cc6e96da",
+  "kpiMatricsFieldAndSectionsId": "78f6ba4b-123f-4b77-a803-325ec6c66cf6",
+  "fieldName": "Claims Escalated to Pharmacist/Clinical Review",
+  "operator": "/",
+  "value": "Claims Reviewed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "13%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da0"
+  },
+  "kpiMatricsFieldAndConditionId": "a048d8a9-3f72-42cc-aa02-2e4885287039",
+  "kpiMatricsFieldAndSectionsId": "078efa8d-d723-4fc6-91f3-024b745c57f2",
+  "fieldName": "Average survey rating (post-case)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da1"
+  },
+  "kpiMatricsFieldAndConditionId": "a40dd514-1719-4da7-899e-036c60ae4c1c",
+  "kpiMatricsFieldAndSectionsId": "72cb4223-aa94-4fc8-aaa9-9b7f2b5d1daf",
+  "fieldName": "Average survey rating (physician)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da2"
+  },
+  "kpiMatricsFieldAndConditionId": "2babbc4f-7dac-47ce-b40d-ae975e8b909c",
+  "kpiMatricsFieldAndSectionsId": "b9aca7ac-8de0-4837-bd71-f3445126ed8c",
+  "fieldName": "Average survey rating (claimant)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "2/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da3"
+  },
+  "kpiMatricsFieldAndConditionId": "a5b372e0-736b-471b-b9d2-1ee85bd749bf",
+  "kpiMatricsFieldAndSectionsId": "b8cb14a7-ffa0-4200-8170-397a1b3138f8",
+  "fieldName": "Employees Returned to Work",
+  "operator": "/",
+  "value": "RTW Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "54%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da4"
+  },
+  "kpiMatricsFieldAndConditionId": "9cf2eff5-80c5-4d1b-8d3e-1ffecda407de",
+  "kpiMatricsFieldAndSectionsId": "417a568b-ffab-4bb5-89bb-b06da4c5815f",
+  "fieldName": "Employees Remaining at Work 90+ Days",
+  "operator": "/",
+  "value": "Employees Returned * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "36%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da5"
+  },
+  "kpiMatricsFieldAndConditionId": "16637b75-5cc7-439b-83c2-2184288447bb",
+  "kpiMatricsFieldAndSectionsId": "546a15d2-24b4-44d0-8f52-b62f691db3f8",
+  "fieldName": "Employees Placed in Modified Duty",
+  "operator": "/",
+  "value": "RTW Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "62%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da6"
+  },
+  "kpiMatricsFieldAndConditionId": "97b2c3e2-451f-41f1-8fec-7fea7a9e02d1",
+  "kpiMatricsFieldAndSectionsId": "9cfb8750-8d89-4f04-97b8-a3368a3e0073",
+  "fieldName": "Accommodated Cases",
+  "operator": "/",
+  "value": "RTW Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "13%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da7"
+  },
+  "kpiMatricsFieldAndConditionId": "0696ddab-5371-4002-8de0-333de8fdbf75",
+  "kpiMatricsFieldAndSectionsId": "6524c5f3-50fc-48a1-9e00-dbe577425fdb",
+  "fieldName": "RTW Plan Date",
+  "operator": "-",
+  "value": "Referral Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da8"
+  },
+  "kpiMatricsFieldAndConditionId": "afdc36fc-7188-4a39-a8c4-35925361f328",
+  "kpiMatricsFieldAndSectionsId": "b38edc42-76b7-4006-bc33-98ca2c1ad1b9",
+  "fieldName": "Accommodation Recommendation Date",
+  "operator": "-",
+  "value": "Referral Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2da9"
+  },
+  "kpiMatricsFieldAndConditionId": "fef57e6b-ecd9-4ec0-b6e2-014f3a9cb755",
+  "kpiMatricsFieldAndSectionsId": "a5e24fdc-5681-4e1b-85be-73e5a08514be",
+  "fieldName": "Expected RTW Days",
+  "operator": "-",
+  "value": "Actual RTW Days",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "8 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2daa"
+  },
+  "kpiMatricsFieldAndConditionId": "f8a4f983-6723-40d7-a433-5fb22410993d",
+  "kpiMatricsFieldAndSectionsId": "ed66dd43-35ff-4c85-baca-f144e76936aa",
+  "fieldName": "Projected Lost Wage Payments",
+  "operator": "-",
+  "value": "Actual Lost Wage Payments",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$41,900",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dab"
+  },
+  "kpiMatricsFieldAndConditionId": "8ef0ca4b-2aa5-41b2-957e-46ba47d9dfd8",
+  "kpiMatricsFieldAndSectionsId": "e379ac5e-f6cf-4ee0-bca8-7a7b17f34ed2",
+  "fieldName": "Projected TD Payments",
+  "operator": "-",
+  "value": "Actual TD Payments",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$45,500",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dac"
+  },
+  "kpiMatricsFieldAndConditionId": "3602a573-4b6a-4779-8373-a589d932581a",
+  "kpiMatricsFieldAndSectionsId": "29445c08-6c8b-4676-968e-5872f4fbf40d",
+  "fieldName": "Expected Lost Work Days",
+  "operator": "-",
+  "value": "Actual Lost Work Days",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "10 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dad"
+  },
+  "kpiMatricsFieldAndConditionId": "9d2d8613-6aee-441d-a74c-7bd61ad16132",
+  "kpiMatricsFieldAndSectionsId": "1d32d5cf-91ad-4cd8-9e25-08f22f17e1ae",
+  "fieldName": "Reserve Accuracy After RTW Program",
+  "operator": "-",
+  "value": "Before RTW Program",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "40%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dae"
+  },
+  "kpiMatricsFieldAndConditionId": "4c212eae-4fb5-4995-92c6-67e0f5f37cc6",
+  "kpiMatricsFieldAndSectionsId": "9cd54121-3023-48aa-b0ea-45bddafd3706",
+  "fieldName": "RTW Plans Requiring Revision",
+  "operator": "/",
+  "value": "Total Plans * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "44%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2daf"
+  },
+  "kpiMatricsFieldAndConditionId": "ff687c58-82b7-4c32-bbaa-fa98d59e5ad3",
+  "kpiMatricsFieldAndSectionsId": "86425813-6282-4f05-9384-951133c8e0fc",
+  "fieldName": "Accommodation Plans Requiring Changes",
+  "operator": "/",
+  "value": "Total Plans * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "59%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db0"
+  },
+  "kpiMatricsFieldAndConditionId": "54e14b65-e503-4d00-8c30-20e20b1e1712",
+  "kpiMatricsFieldAndSectionsId": "8bfc2295-7356-4ada-8d22-83a5a071fdf1",
+  "fieldName": "Cumulative performance score (survey)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "4/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db1"
+  },
+  "kpiMatricsFieldAndConditionId": "ee505b65-a09a-4eda-be5e-235511a3bce2",
+  "kpiMatricsFieldAndSectionsId": "ff53d6af-294b-4c0f-8cce-ce1e98649f32",
+  "fieldName": "Employees Returned to Work",
+  "operator": "/",
+  "value": "RTW Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "65%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db2"
+  },
+  "kpiMatricsFieldAndConditionId": "c037374a-4642-4323-9541-93ddb9d4c32c",
+  "kpiMatricsFieldAndSectionsId": "9545bf92-88b6-459f-98fb-57da28a69dd5",
+  "fieldName": "Average survey rating (post-case)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "6/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db3"
+  },
+  "kpiMatricsFieldAndConditionId": "464046c2-d7eb-458f-9aab-966a09f25466",
+  "kpiMatricsFieldAndSectionsId": "bc90bea3-b7b9-4ede-ac80-3f6729cdc6c0",
+  "fieldName": "Average survey rating (employer)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db4"
+  },
+  "kpiMatricsFieldAndConditionId": "3b1194d7-e2a0-4fb3-95df-78da3982b8fb",
+  "kpiMatricsFieldAndSectionsId": "77447cfa-6d0f-4cd1-9fc3-bd669ccd4591",
+  "fieldName": "Average survey rating (claimant)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db5"
+  },
+  "kpiMatricsFieldAndConditionId": "02d297f7-620c-4012-892f-b7c9486993e1",
+  "kpiMatricsFieldAndSectionsId": "9a8c3757-ffa6-4cab-8304-8da382831678",
+  "fieldName": "Packages Accepted Without Rework",
+  "operator": "/",
+  "value": "Total Packages * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "20%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db6"
+  },
+  "kpiMatricsFieldAndConditionId": "39cc160a-4254-4e3d-870a-0cdf631033d0",
+  "kpiMatricsFieldAndSectionsId": "62269066-a5dc-4179-a88e-bb3fa618ca38",
+  "fieldName": "Documents Produced",
+  "operator": "/",
+  "value": "Documents Requested * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "19%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db7"
+  },
+  "kpiMatricsFieldAndConditionId": "458c618a-4ae2-4152-8e0e-af7770e2d7f5",
+  "kpiMatricsFieldAndSectionsId": "301ae63f-89e3-4203-bff7-4f4c591b5870",
+  "fieldName": "Cases Escalated to Complex Litigation",
+  "operator": "/",
+  "value": "Total Production Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "68%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db8"
+  },
+  "kpiMatricsFieldAndConditionId": "aeb0828a-c5ed-4ead-a465-331d04e535d8",
+  "kpiMatricsFieldAndSectionsId": "24ac77ef-979d-48a3-a886-5af9bd051ba4",
+  "fieldName": "Cases Reclassified After Production",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "6%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2db9"
+  },
+  "kpiMatricsFieldAndConditionId": "614d5c58-b8a8-4f9f-a6ea-52727a69f372",
+  "kpiMatricsFieldAndSectionsId": "e31fe404-7e79-4d58-8b6d-8ac1571c9448",
+  "fieldName": "Reserve for Legal Spend",
+  "operator": "-",
+  "value": "Actual Spend",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$14,800",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dba"
+  },
+  "kpiMatricsFieldAndConditionId": "a26977b9-c959-4bd2-9f23-7cd2fffb5d6b",
+  "kpiMatricsFieldAndSectionsId": "2bb37e9a-5630-424a-8978-184246b3fb35",
+  "fieldName": "Completed Date",
+  "operator": "-",
+  "value": "Assigned Date (days)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "12 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dbb"
+  },
+  "kpiMatricsFieldAndConditionId": "72c84f97-54f7-410d-81e5-1654dde58230",
+  "kpiMatricsFieldAndSectionsId": "55bbd58e-7f71-47f8-aebd-acfca4e24550",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dbc"
+  },
+  "kpiMatricsFieldAndConditionId": "906c2dfb-fd02-424d-8f1c-1246619e222f",
+  "kpiMatricsFieldAndSectionsId": "65615a17-4a05-456b-966f-182b7a415f7d",
+  "fieldName": "Cases Within SLA",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "33%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dbd"
+  },
+  "kpiMatricsFieldAndConditionId": "f4850795-b088-48cd-816f-c04d60357b65",
+  "kpiMatricsFieldAndSectionsId": "d8817605-e104-4135-9701-0411b8dafc7a",
+  "fieldName": "Reserve for Legal Spend",
+  "operator": "-",
+  "value": "Actual Spend",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$22,000",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dbe"
+  },
+  "kpiMatricsFieldAndConditionId": "e206d374-9d14-498a-bc84-661c72565cef",
+  "kpiMatricsFieldAndSectionsId": "f95fa23f-3c24-4236-970b-e581e9a44c65",
+  "fieldName": "Total Vendor Cost",
+  "operator": "/",
+  "value": "Total Productions",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$39,000",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dbf"
+  },
+  "kpiMatricsFieldAndConditionId": "84800597-1d67-4aec-a617-eb4d1f4521ba",
+  "kpiMatricsFieldAndSectionsId": "e4a6b8a9-49a6-4668-b875-38b85adaefea",
+  "fieldName": "Packages Requiring Corrections",
+  "operator": "/",
+  "value": "Total Packages * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "13%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc0"
+  },
+  "kpiMatricsFieldAndConditionId": "130e7a8d-e813-43f0-ab15-1b764e384b46",
+  "kpiMatricsFieldAndSectionsId": "faa95599-6cf2-4226-955b-b903d78eb954",
+  "fieldName": "Documents Produced",
+  "operator": "/",
+  "value": "Documents Requested * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "16%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc1"
+  },
+  "kpiMatricsFieldAndConditionId": "28845b3e-2c91-4c3f-b75d-75d0ad6e0cca",
+  "kpiMatricsFieldAndSectionsId": "823642d3-3bc8-401f-8acc-76465b2472cc",
+  "fieldName": "Correct Redactions",
+  "operator": "/",
+  "value": "Total Redactions Reviewed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "93%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc2"
+  },
+  "kpiMatricsFieldAndConditionId": "e7eb8916-b4bb-4e38-b042-165fb3cd31b1",
+  "kpiMatricsFieldAndSectionsId": "c178f7d2-3da6-44df-bd44-496acd2ac84f",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc3"
+  },
+  "kpiMatricsFieldAndConditionId": "cbca10ea-1d73-43e3-a928-ae0e822bbb80",
+  "kpiMatricsFieldAndSectionsId": "6dc9f7bb-b173-40d5-b033-c5f8fad21194",
+  "fieldName": "Correct Redactions",
+  "operator": "/",
+  "value": "Total Redactions Reviewed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "54%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc4"
+  },
+  "kpiMatricsFieldAndConditionId": "04257e53-1a09-43db-b3af-3553db62511c",
+  "kpiMatricsFieldAndSectionsId": "0bb6e2f8-2019-4555-b583-7c8a139b0849",
+  "fieldName": "Average survey rating (post-production)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "4/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc5"
+  },
+  "kpiMatricsFieldAndConditionId": "17151db7-03b6-4240-94e1-dc94a7daf89c",
+  "kpiMatricsFieldAndSectionsId": "0002389b-9d4b-47c8-a12d-3decb376ff82",
+  "fieldName": "Average survey rating (defense attorney)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "8/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc6"
+  },
+  "kpiMatricsFieldAndConditionId": "b2d93c16-c091-4142-8016-aeb6d81f12de",
+  "kpiMatricsFieldAndSectionsId": "0ccc8455-6a19-4a91-8b23-89d6a73cc902",
+  "fieldName": "Cases Completed Without Additional Requests",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc7"
+  },
+  "kpiMatricsFieldAndConditionId": "e0a77fe2-5e04-4c1b-a5ff-2f8f1d0c0305",
+  "kpiMatricsFieldAndSectionsId": "88f19ad3-fcae-42f9-851c-36661469d264",
+  "fieldName": "Records Retrieved",
+  "operator": "/",
+  "value": "Records Requested * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc8"
+  },
+  "kpiMatricsFieldAndConditionId": "092415c4-3162-4666-8d4d-2d6ffadceee3",
+  "kpiMatricsFieldAndSectionsId": "4ca277cd-c2bd-4ef7-8104-a9123b8e2e88",
+  "fieldName": "(Final Paid",
+  "operator": "-",
+  "value": "Initial Reserve) / Final Paid * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "56%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dc9"
+  },
+  "kpiMatricsFieldAndConditionId": "459a5242-195e-4acb-be46-6e61c3a1da96",
+  "kpiMatricsFieldAndSectionsId": "8532550d-1588-49b1-9674-a438d64c5d5f",
+  "fieldName": "Reserve for Legal Spend",
+  "operator": "-",
+  "value": "Actual Spend",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$5,800",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dca"
+  },
+  "kpiMatricsFieldAndConditionId": "330cbb6b-6dfa-4c29-bc38-6e9906d076d4",
+  "kpiMatricsFieldAndSectionsId": "9c387ac0-4396-41d8-9d3a-369ac5706575",
+  "fieldName": "Claims Reclassified as High Severity",
+  "operator": "/",
+  "value": "Claims Retrieved * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dcb"
+  },
+  "kpiMatricsFieldAndConditionId": "92b8ed93-f8b9-4701-814d-b7771247ec5d",
+  "kpiMatricsFieldAndSectionsId": "424072b1-ede3-4498-885a-1feec8f5435d",
+  "fieldName": "Claims With Reserve Change",
+  "operator": "/",
+  "value": "Claims Retrieved * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "73%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dcc"
+  },
+  "kpiMatricsFieldAndConditionId": "4bfe89e4-4a2d-4666-a11b-d113b44b0ec6",
+  "kpiMatricsFieldAndSectionsId": "5e1d2552-60ad-4cb4-a9b5-3ee25d9ec5ba",
+  "fieldName": "Records Received Date",
+  "operator": "-",
+  "value": "Assigned Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dcd"
+  },
+  "kpiMatricsFieldAndConditionId": "c2397124-7bca-4b40-b051-98ebcc888526",
+  "kpiMatricsFieldAndSectionsId": "0152a791-014b-48c1-adac-6db30f838f4b",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dce"
+  },
+  "kpiMatricsFieldAndConditionId": "84e315fd-8339-4a7c-b674-95024897e479",
+  "kpiMatricsFieldAndSectionsId": "47d2f16d-31c5-43fa-a7d9-40d18ddabfd0",
+  "fieldName": "Expected Closure Days",
+  "operator": "-",
+  "value": "Actual Closure Days",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "5 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dcf"
+  },
+  "kpiMatricsFieldAndConditionId": "178c6aab-b00b-4096-9296-8d7dcd62c229",
+  "kpiMatricsFieldAndSectionsId": "7a84efa3-30b8-4520-a38e-453cf826f468",
+  "fieldName": "Cases Within SLA",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "94%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd0"
+  },
+  "kpiMatricsFieldAndConditionId": "547eeffe-cb53-4d2c-9f10-dbf8e23f3164",
+  "kpiMatricsFieldAndSectionsId": "0e6558cc-0d9b-4c6f-95d8-62066272209c",
+  "fieldName": "Reserve for Legal Spend",
+  "operator": "-",
+  "value": "Actual Spend",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$10,200",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd1"
+  },
+  "kpiMatricsFieldAndConditionId": "bb13eab6-efb7-42c1-9c06-4f2e2b34c520",
+  "kpiMatricsFieldAndSectionsId": "818d5939-8fca-41c9-9260-e31412184dcd",
+  "fieldName": "Total Vendor Spend",
+  "operator": "/",
+  "value": "Total Assignments",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$34,800",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd2"
+  },
+  "kpiMatricsFieldAndConditionId": "7b9b9351-574b-4018-b88b-169b855b6a60",
+  "kpiMatricsFieldAndSectionsId": "958267d6-49b3-43b7-8658-f20aef4d2754",
+  "fieldName": "Cases Completed Without Additional Requests",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "36%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd3"
+  },
+  "kpiMatricsFieldAndConditionId": "0c6a724c-fd54-4baf-a639-578b422683d2",
+  "kpiMatricsFieldAndSectionsId": "82a2f744-04c4-4ad0-9fa7-6131db747887",
+  "fieldName": "Cases Requiring Additional Requests",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "65%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd4"
+  },
+  "kpiMatricsFieldAndConditionId": "9950cba8-0dcc-4e27-b63b-6b3ddf9d9409",
+  "kpiMatricsFieldAndSectionsId": "bb85c5fc-a247-4e5e-a105-b9f195981dee",
+  "fieldName": "Records Retrieved",
+  "operator": "/",
+  "value": "Records Requested * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "49%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd5"
+  },
+  "kpiMatricsFieldAndConditionId": "b29a6720-c902-44f6-9c2b-2745fdb91037",
+  "kpiMatricsFieldAndSectionsId": "2480eca3-d00b-458c-8291-b3cb388bcdb1",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd6"
+  },
+  "kpiMatricsFieldAndConditionId": "c9c2772d-f228-47a1-9588-7090535ff234",
+  "kpiMatricsFieldAndSectionsId": "35fd5512-1838-4cfd-aa9d-0429c022d4c7",
+  "fieldName": "Claims With Reserve Change",
+  "operator": "/",
+  "value": "Claims Retrieved * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "57%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd7"
+  },
+  "kpiMatricsFieldAndConditionId": "43ff9d2b-51fb-495a-a759-66ef1461896f",
+  "kpiMatricsFieldAndSectionsId": "d3ab0170-637f-4c9e-b897-f3f4a04ed406",
+  "fieldName": "Average survey rating (post-retrieval)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd8"
+  },
+  "kpiMatricsFieldAndConditionId": "987287de-a1ae-446d-b935-5e8a4b2a1466",
+  "kpiMatricsFieldAndSectionsId": "51211211-82f2-4110-bcaa-1798bf062f31",
+  "fieldName": "Average survey rating (defense attorney)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dd9"
+  },
+  "kpiMatricsFieldAndConditionId": "b6bdc0d0-68ac-49f8-94ac-dbf1cdfbaf0c",
+  "kpiMatricsFieldAndSectionsId": "cf0d05f5-c03f-405f-b8ab-b17f3617fbe4",
+  "fieldName": "Cases With Successful Recovery",
+  "operator": "/",
+  "value": "Cases Pursued * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dda"
+  },
+  "kpiMatricsFieldAndConditionId": "b17c91ff-d00e-4a48-ac5d-ceff4cb9fa6b",
+  "kpiMatricsFieldAndSectionsId": "bff37de7-8de7-45bd-a0a3-03d094978dd3",
+  "fieldName": "Settlements Accepted",
+  "operator": "/",
+  "value": "Recovery Negotiations * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "60%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ddb"
+  },
+  "kpiMatricsFieldAndConditionId": "020ee39e-2c9b-4499-90a1-77737d82be8e",
+  "kpiMatricsFieldAndSectionsId": "b8560893-f63e-4adc-ba68-7a374b36f1f5",
+  "fieldName": "Recovered Amount",
+  "operator": "/",
+  "value": "Total Recoverable Amount * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "45%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ddc"
+  },
+  "kpiMatricsFieldAndConditionId": "53d4bfb7-5fb8-4f54-88a0-b912232570c9",
+  "kpiMatricsFieldAndSectionsId": "94e429ef-1163-450f-8e98-e9730e5dc290",
+  "fieldName": "Subrogation Cases Escalated to Litigation",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "69%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ddd"
+  },
+  "kpiMatricsFieldAndConditionId": "ab3daf35-bfc2-4ea8-8a15-582ee862f072",
+  "kpiMatricsFieldAndSectionsId": "9c61eb39-bd23-4801-85d0-719a8b8f0edf",
+  "fieldName": "Claims With Third-Party Liability",
+  "operator": "/",
+  "value": "Claims Reviewed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "65%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dde"
+  },
+  "kpiMatricsFieldAndConditionId": "5167c8f0-89d2-42a6-bf38-da13ba55f556",
+  "kpiMatricsFieldAndSectionsId": "801b4980-74dd-4655-b79d-6969aa0d6450",
+  "fieldName": "Claims With Recovery Potential &gt; Threshold",
+  "operator": "/",
+  "value": "Claims Reviewed * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "28%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ddf"
+  },
+  "kpiMatricsFieldAndConditionId": "15815481-58b6-461c-9789-dc222c608643",
+  "kpiMatricsFieldAndSectionsId": "634306bd-125b-4119-ae0e-fc792a444e79",
+  "fieldName": "Referral Accepted Date",
+  "operator": "-",
+  "value": "Referral Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de0"
+  },
+  "kpiMatricsFieldAndConditionId": "deafbacc-1f31-4206-a38f-16dc7aba6cf6",
+  "kpiMatricsFieldAndSectionsId": "701aff4c-d3a9-434f-bb74-628b76ccced9",
+  "fieldName": "Demand Sent Date",
+  "operator": "-",
+  "value": "Referral Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "14 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de1"
+  },
+  "kpiMatricsFieldAndConditionId": "ac5e779b-c3c1-4d26-aa26-021cb0703f64",
+  "kpiMatricsFieldAndSectionsId": "76bb44b9-a66b-42ea-a167-26bbc7a72815",
+  "fieldName": "Recovery Date",
+  "operator": "-",
+  "value": "Referral Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de2"
+  },
+  "kpiMatricsFieldAndConditionId": "322c45d2-69c7-4915-b41a-28bece7f00e0",
+  "kpiMatricsFieldAndSectionsId": "04974ee7-bc75-458f-9052-f5aaaae5b217",
+  "fieldName": "Cases Processed Within SLA",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "68%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de3"
+  },
+  "kpiMatricsFieldAndConditionId": "f5b3a402-ed84-4064-82cf-10e18ca13c52",
+  "kpiMatricsFieldAndSectionsId": "ecaac654-6e7d-4f8b-a2e1-cebca427059f",
+  "fieldName": "Recovery Amount",
+  "operator": "-",
+  "value": "Vendor Fees",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$17,800",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de4"
+  },
+  "kpiMatricsFieldAndConditionId": "9cc300d0-5e17-4e6f-af08-e3a042081e49",
+  "kpiMatricsFieldAndSectionsId": "1f48abe5-d648-4747-9549-ff668c0da750",
+  "fieldName": "(Net Recovery",
+  "operator": "-",
+  "value": "Vendor Cost) / Vendor Cost * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "97%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de5"
+  },
+  "kpiMatricsFieldAndConditionId": "2049dece-592d-4fc0-8e8b-4bfd1e2c1a31",
+  "kpiMatricsFieldAndSectionsId": "69e5c16a-73f6-415f-9125-c744bfa735f1",
+  "fieldName": "Recovered Amount",
+  "operator": "/",
+  "value": "Total Recoverable Amount * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "21%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de6"
+  },
+  "kpiMatricsFieldAndConditionId": "c59e3b13-ecb9-4ba5-aa94-badff68eebfb",
+  "kpiMatricsFieldAndSectionsId": "5c3138a0-5340-4137-aad8-a2bdbab5c0d4",
+  "fieldName": "Demand Packages Requiring Revision",
+  "operator": "/",
+  "value": "Total Packages * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "54%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de7"
+  },
+  "kpiMatricsFieldAndConditionId": "b7a6087f-a062-47b2-8352-35b5a0eb9798",
+  "kpiMatricsFieldAndSectionsId": "8fd33150-88e8-4dc7-a802-07288988298b",
+  "fieldName": "Recommendations Accepted",
+  "operator": "/",
+  "value": "Recommendations Made * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "53%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de8"
+  },
+  "kpiMatricsFieldAndConditionId": "36e460ce-2d13-4565-a764-12cae67fb188",
+  "kpiMatricsFieldAndSectionsId": "9bcaf7f7-e09b-4719-a253-1e927d83a074",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "Agreed SLA (per case)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Met",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2de9"
+  },
+  "kpiMatricsFieldAndConditionId": "f2501d0f-3a5e-4ebd-a90d-3968aea18640",
+  "kpiMatricsFieldAndSectionsId": "d7fb12cc-14fe-49f0-9912-d8d1d866afb5",
+  "fieldName": "Average survey rating (post-case)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "10/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dea"
+  },
+  "kpiMatricsFieldAndConditionId": "e5d1d3b0-2890-45f8-8a5e-05bc0f3e3eb4",
+  "kpiMatricsFieldAndSectionsId": "09e96fd7-77ee-45bb-a4a9-fe3adaafe792",
+  "fieldName": "Average adjuster rating on clarity of recovery status updates",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "8 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2deb"
+  },
+  "kpiMatricsFieldAndConditionId": "57d167bd-ba3e-407b-84be-5dd00c7f7e2a",
+  "kpiMatricsFieldAndSectionsId": "aaf90f86-2560-4afe-ae61-c8b54abaaff8",
+  "fieldName": "Third Parties Responding to Demand Within 30 Days",
+  "operator": "/",
+  "value": "Total Demands * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dec"
+  },
+  "kpiMatricsFieldAndConditionId": "7b3094f7-d8e8-432a-bd45-399f6f0f954b",
+  "kpiMatricsFieldAndSectionsId": "c6bff3e3-b402-4fb2-8b20-6a5096d932d0",
+  "fieldName": "Cases Closed With Documented RTW or Stable Outcome",
+  "operator": "/",
+  "value": "Total TCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "25%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2ded"
+  },
+  "kpiMatricsFieldAndConditionId": "bab019ed-a333-4022-b5b9-00216975b2fc",
+  "kpiMatricsFieldAndSectionsId": "f7663906-11a0-4405-a742-fdfb9146a329",
+  "fieldName": "Injured Workers Returned to Work Through TCM",
+  "operator": "/",
+  "value": "Total TCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "91%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dee"
+  },
+  "kpiMatricsFieldAndConditionId": "abcf5a6d-cfaf-4cc5-9ba4-0b663122f5b0",
+  "kpiMatricsFieldAndSectionsId": "e46abbc0-15e6-41b9-92ca-c0166375d30b",
+  "fieldName": "TCM Cases Closed Without Attorney",
+  "operator": "/",
+  "value": "Total TCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "91%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2def"
+  },
+  "kpiMatricsFieldAndConditionId": "5b434fc8-2718-426f-8c7a-999519f6f45e",
+  "kpiMatricsFieldAndSectionsId": "c16f7d8b-dffc-420f-b75c-cabf8b758306",
+  "fieldName": "Cases Identified as High Litigation Risk",
+  "operator": "/",
+  "value": "Total TCM Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df0"
+  },
+  "kpiMatricsFieldAndConditionId": "7cfdef83-0554-4fc1-8bdf-30ebb9a3de02",
+  "kpiMatricsFieldAndSectionsId": "4617fbe7-d41d-4b77-8289-92cfdb6f10d4",
+  "fieldName": "Date of First Nurse Contact",
+  "operator": "-",
+  "value": "Date of Referral (hours/days)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df1"
+  },
+  "kpiMatricsFieldAndConditionId": "33629a22-3595-4790-a567-5077e4f963a4",
+  "kpiMatricsFieldAndSectionsId": "4e55af69-3539-458e-ae7a-5267750ad0a3",
+  "fieldName": "Date Care Plan Established",
+  "operator": "-",
+  "value": "Date of First Contact",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "8 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df2"
+  },
+  "kpiMatricsFieldAndConditionId": "06687200-d0de-4165-9ed7-050d6042fd73",
+  "kpiMatricsFieldAndSectionsId": "a7983560-d857-49bd-a918-d780763025ab",
+  "fieldName": "Projected Medical Cost",
+  "operator": "-",
+  "value": "Actual Medical Cost",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$16,900",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df3"
+  },
+  "kpiMatricsFieldAndConditionId": "c8b4b597-38d4-4b3a-ba03-d01b4214e912",
+  "kpiMatricsFieldAndSectionsId": "3afe9b53-ff6a-424d-a559-6cdfb123d3bd",
+  "fieldName": "(Projected Lost Days",
+  "operator": "-",
+  "value": "Actual Lost Days) * Daily Wage Rate",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$7,400",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df4"
+  },
+  "kpiMatricsFieldAndConditionId": "55307aa7-2cec-4d1f-99ab-696ee0ed454c",
+  "kpiMatricsFieldAndSectionsId": "eb218a22-af79-4cf9-ad30-f976cbd5ae71",
+  "fieldName": "Call Notes Fully Documented",
+  "operator": "/",
+  "value": "Total Calls * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "68%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df5"
+  },
+  "kpiMatricsFieldAndConditionId": "50f1396d-7069-4866-be58-3330d028b87c",
+  "kpiMatricsFieldAndSectionsId": "122a86c1-5a05-4aa7-9316-e9e3537b1849",
+  "fieldName": "100",
+  "operator": "-",
+  "value": "(Care Plans Requiring Revision / Total Care Plans * 100)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "23%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df6"
+  },
+  "kpiMatricsFieldAndConditionId": "dd204254-6fc1-4b1c-b5bd-4eb1771500f2",
+  "kpiMatricsFieldAndSectionsId": "c919b294-208f-4c6d-b645-18e99aee9de0",
+  "fieldName": "Cases Contacted Within Agreed SLA",
+  "operator": "/",
+  "value": "Total Cases * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "73%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df7"
+  },
+  "kpiMatricsFieldAndConditionId": "00dbb6e1-f670-4800-9cce-e0618e61eed1",
+  "kpiMatricsFieldAndSectionsId": "3c045543-42d6-4f46-b368-b83aea1ec9bf",
+  "fieldName": "Calls Properly Recorded and Stored",
+  "operator": "/",
+  "value": "Total Calls * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "12%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df8"
+  },
+  "kpiMatricsFieldAndConditionId": "60e9dbf3-2315-40c4-9cfc-7e781a5c8370",
+  "kpiMatricsFieldAndSectionsId": "7ec6d0c5-7203-4652-823d-02e859455248",
+  "fieldName": "Average adjuster survey rating (post-case closure)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "2/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2df9"
+  },
+  "kpiMatricsFieldAndConditionId": "8fdd8cf8-0cf3-4df5-9754-eb1f13c499ce",
+  "kpiMatricsFieldAndSectionsId": "09d7626b-9cc4-4d0b-b19f-fad3d5f5ed6a",
+  "fieldName": "Average adjuster rating for update frequency and clarity",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "12 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dfa"
+  },
+  "kpiMatricsFieldAndConditionId": "6b196265-0ee6-47c5-8acd-f69aff966178",
+  "kpiMatricsFieldAndSectionsId": "8f6ee077-e2b0-4bbf-ac04-a6381d861ac0",
+  "fieldName": "Average claimant survey rating (post-case closure)",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "1/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dfb"
+  },
+  "kpiMatricsFieldAndConditionId": "4f5f0c01-1a44-4a0c-ae3c-578c97e81513",
+  "kpiMatricsFieldAndSectionsId": "a9ec9bcc-3d9d-4ca7-b008-8cc69d5c7814",
+  "fieldName": "Issues Resolved on First Call",
+  "operator": "/",
+  "value": "Total First Calls * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "71%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dfc"
+  },
+  "kpiMatricsFieldAndConditionId": "1ef3172e-17de-47eb-9fb4-bb450aa5e4d9",
+  "kpiMatricsFieldAndSectionsId": "f9fc200f-51e1-485c-b8ea-5ad628775ca2",
+  "fieldName": "Trips Completed Within Scheduled Pickup Window",
+  "operator": "/",
+  "value": "Total Trips * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "87%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dfd"
+  },
+  "kpiMatricsFieldAndConditionId": "093a8032-bb06-4038-8d54-7b206b76f36b",
+  "kpiMatricsFieldAndSectionsId": "39cdc5fc-79e7-4b53-a4fa-b496ae21b102",
+  "fieldName": "Trips Successfully Completed",
+  "operator": "/",
+  "value": "Total Trips Scheduled * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "33%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dfe"
+  },
+  "kpiMatricsFieldAndConditionId": "78e66df4-5cb4-4634-9579-c3971c6b6071",
+  "kpiMatricsFieldAndSectionsId": "b0de2ade-7e97-47f5-8e0b-9a94710424f5",
+  "fieldName": "Trips With Complete Incident Reports Filed",
+  "operator": "/",
+  "value": "Total Incident-Reported Trips * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "10%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2dff"
+  },
+  "kpiMatricsFieldAndConditionId": "636abebb-8ace-465b-9af8-d401de5da077",
+  "kpiMatricsFieldAndSectionsId": "8295d1a6-c073-4bbf-9365-d872dd74aa86",
+  "fieldName": "Transportation Billing Disputes Resolved",
+  "operator": "/",
+  "value": "Total Billing Disputes * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "62%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e00"
+  },
+  "kpiMatricsFieldAndConditionId": "a16e8507-7eaf-4626-8258-b1fd6f03e87f",
+  "kpiMatricsFieldAndSectionsId": "036153d1-93a2-4846-9dc8-9491e9707fcc",
+  "fieldName": "Transportation Scheduled Date",
+  "operator": "-",
+  "value": "Request Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "9 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e01"
+  },
+  "kpiMatricsFieldAndConditionId": "26c38e4a-d702-47df-a994-9bac7ff24d77",
+  "kpiMatricsFieldAndSectionsId": "109d4510-7b5d-4fe2-90dd-b04337f4b5fc",
+  "fieldName": "Interpreter Assigned Date",
+  "operator": "-",
+  "value": "Request Date",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3 Days",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e02"
+  },
+  "kpiMatricsFieldAndConditionId": "c4c3736f-7e6f-408b-a02c-dba71d5a6a73",
+  "kpiMatricsFieldAndSectionsId": "dc806c4e-942e-49b8-8d30-17a1364f3e29",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per request)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e03"
+  },
+  "kpiMatricsFieldAndConditionId": "58789299-a5d7-4fbb-b174-aef818ad6ef9",
+  "kpiMatricsFieldAndSectionsId": "4e14b821-661a-461f-901a-4d4b7aa9a244",
+  "fieldName": "Requests Fulfilled Within SLA",
+  "operator": "/",
+  "value": "Total Requests * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "75%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e04"
+  },
+  "kpiMatricsFieldAndConditionId": "0ab1cccd-0f41-46f1-a420-34c3bf7b6a97",
+  "kpiMatricsFieldAndSectionsId": "5e4297da-d35c-470a-b7b2-45f6fac3e285",
+  "fieldName": "Total Transportation Spend",
+  "operator": "/",
+  "value": "Total Trips Completed",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "$11,800",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e05"
+  },
+  "kpiMatricsFieldAndConditionId": "d704a66d-a960-4a8f-b3ec-450f4b0492ea",
+  "kpiMatricsFieldAndSectionsId": "a550ebb8-0062-4ecd-bb18-6bbe10ac7a84",
+  "fieldName": "Invoices Matching Confirmed Trip Records",
+  "operator": "/",
+  "value": "Total Invoices Submitted * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "77%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e06"
+  },
+  "kpiMatricsFieldAndConditionId": "793dc2d7-7891-4b4e-ad4a-5a6bd03c35a3",
+  "kpiMatricsFieldAndSectionsId": "cdb16cd2-689b-4a9e-b205-51bd9c6434a9",
+  "fieldName": "Trips Confirmed With Correct Details",
+  "operator": "/",
+  "value": "Total Trip Confirmations * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "86%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e07"
+  },
+  "kpiMatricsFieldAndConditionId": "09463a0e-f24b-4a73-b3cd-15c258d69def",
+  "kpiMatricsFieldAndSectionsId": "121f95a5-12f3-4794-8718-4840aa4af5d4",
+  "fieldName": "Trips With Complete Pickup/Dropoff Records",
+  "operator": "/",
+  "value": "Total Trips * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "36%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e08"
+  },
+  "kpiMatricsFieldAndConditionId": "9ffa5558-a74a-49c5-b5f7-014a7fe2339a",
+  "kpiMatricsFieldAndSectionsId": "bcc89857-03c9-4765-bb34-297b5b16d0b3",
+  "fieldName": "TAT",
+  "operator": "<=",
+  "value": "SLA (per request)",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "Breached",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e09"
+  },
+  "kpiMatricsFieldAndConditionId": "82a29aa9-e994-4df4-8f2d-609be89cfeb2",
+  "kpiMatricsFieldAndSectionsId": "e0aa4a5b-23f9-41ce-acaa-a5d3d48be886",
+  "fieldName": "Average adjuster survey rating for transportation coordination",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "3/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e0a"
+  },
+  "kpiMatricsFieldAndConditionId": "7c8e6fff-5c69-4a68-abc4-39f7f9b54e7a",
+  "kpiMatricsFieldAndSectionsId": "5d4cad39-2c9c-43d2-b4c3-ecb32698aa43",
+  "fieldName": "Average adjuster rating for correctness of transportation arrangements",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "6/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e0b"
+  },
+  "kpiMatricsFieldAndConditionId": "16aa5ae0-7007-474d-9120-a7d1ae8987c1",
+  "kpiMatricsFieldAndSectionsId": "8b99a78c-c517-4d96-b32a-dc1f39a99427",
+  "fieldName": "Average claimant survey rating for transportation experience",
+  "operator": "",
+  "value": "",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "7/10",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a61c80b46e67c0d952b2e0c"
+  },
+  "kpiMatricsFieldAndConditionId": "8ec54926-df87-4511-a7bb-39f45da1d7c4",
+  "kpiMatricsFieldAndSectionsId": "593e161f-9ef0-4e08-9f5e-7f78f2467159",
+  "fieldName": "Appointments Missed Due to Transportation Failure",
+  "operator": "/",
+  "value": "Total Scheduled Appointments * 100",
+  "conditionType": "",
+  "sortOrder": 0,
+  "ShowValue": "59%",
+  "createdBy": "Admin",
+  "createdAt": {
+    "$date": "2026-07-23T07:51:39.844Z"
+  },
+  "updatedBy": "Admin",
+  "updatedAt": {
+    "$date": "2026-07-23T10:45:54.375Z"
+  }
+}]

@@ -1,0 +1,2656 @@
+[{
+  "_id": "6841a101f1a23c0012345671",
+  "vendorId": "6841a101f1a23c0012345672",
+  "companyName": "ExamWorks",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-05-11T10:15:00Z",
+  "Coverage": "TX, OK, LA, NM",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "serviceRequestRoleName": "Records (defense)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z",
+  "vendorStatus": "Suspended",
+  "vendorStatusId": "6841a101f1a23c0012343453"
+},
+{
+  "_id": "6841a101f1a23c0012345672",
+  "vendorId": "6841a101f1a23c0012345673",
+  "companyName": "Ontellus",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "TX, OK, LA, NM",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "serviceRequestRoleName": "Records (defense)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345673",
+  "vendorId": "6841a101f1a23c0012345674",
+  "companyName": "Compex Legal Services",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": " OK, LA, NM",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "serviceRequestRoleName": "Records (defense)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345674",
+  "vendorId": "6841a101f1a23c0012345675",
+  "companyName": "Claimfox",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": " OK, LA, NM",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "c1d9ced9-38ac-42db-abf5-9cf5db7df079"
+  ],
+  "serviceRequestRoleName": "Records Production (Adverse-Party)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345682",
+  "vendorId": "6841a101f1a23c0012345683",
+  "companyName": "Matrix Document Imaging",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": " OK, LA, NM",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "c1d9ced9-38ac-42db-abf5-9cf5db7df079"
+  ],
+  "serviceRequestRoleName": "Records (adverse-party)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345683",
+  "vendorId": "6841a101f1a23c0012345684",
+  "companyName": "ABI Document Support Services",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343453",
+  "RequalificationStartDate": "2026-07-24T12:08:29.730Z",
+  "RequalificationEndDate": "2027-07-24T12:08:29.730Z",
+  "Coverage": " OK, LA, NM",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "c1d9ced9-38ac-42db-abf5-9cf5db7df079"
+  ],
+  "serviceRequestRoleName": "Records (adverse-party)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Suspended",
+  "manualStatusOverride": true,
+  "vendorStatusId": "6841a101f1a23c0012343453",
+  "suspendedReason": "Suspended",
+  "boostApplied": true,
+  "disqualifiedReason": ""
+},
+{
+  "_id": "6841a101f1a23c0012345684",
+  "vendorId": "6841a101f1a23c0012345685",
+  "companyName": "American Legal Records",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": " OK, LA, NM",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "serviceRequestRoleName": "Records Retrieval (Defense)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "manualStatusOverride": true,
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c1012345684",
+  "vendorId": "6841a101f1a23c1012345685",
+  "companyName": "CCLR",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343457",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": " MI, TX",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "serviceRequestRoleName": "Records Retrieval (Defense)",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatusId": "6841a101f1a23c0012343457",
+  "manualStatusOverride": true,
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345691",
+  "vendorId": "6841a101f1a23c0012345692",
+  "companyName": "Intertel",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ],
+  "serviceRequestRoleName": "Medical Canvassing",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345692",
+  "vendorId": "6841a101f1a23c0012345693",
+  "companyName": "Ethos Risk Management",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ],
+  "serviceRequestRoleName": "Medical Canvassing",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345693",
+  "vendorId": "6841a101f1a23c0012345694",
+  "companyName": "Digistream Investigations",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ],
+  "serviceRequestRoleName": "Medical Canvassing",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345694",
+  "vendorId": "6841a101f1a23c0012345695",
+  "companyName": "FIS",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ],
+  "serviceRequestRoleName": "Medical Canvassing",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c001234565",
+  "vendorId": "6841a101f1a23c0012345696",
+  "companyName": "ISO ClaimSearch (Verisk)",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.7,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO, UT,NM,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ],
+  "serviceRequestRoleName": "Medical Canvassing",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345552",
+  "vendorId": "6841a101f1a23c0012345553",
+  "companyName": "Enlyte (Genex)",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO, UT,NM,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b"
+  ],
+  "serviceRequestRoleName": "IME / Peer Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345553",
+  "vendorId": "6841a101f1a23c0012345554",
+  "companyName": "MES Solutions",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO, UT,NM,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b"
+  ],
+  "serviceRequestRoleName": "IME / Peer Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345554",
+  "vendorId": "6841a101f1a23c0012345555",
+  "companyName": "LEIDOS QTC",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO, UT,NM,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b"
+  ],
+  "serviceRequestRoleName": "IME / Peer Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Active",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345561",
+  "vendorId": "6841a101f1a23c0012345562",
+  "companyName": "Digistream Investigations",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO, UT,NM,WY",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "serviceRequestRoleName": "Desk Investigations",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345562",
+  "vendorId": "6841a101f1a23c0012345563",
+  "companyName": "Frasco Profiles",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO, UT,NM,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "serviceRequestRoleName": "Desk Investigations",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345563",
+  "vendorId": "6841a101f1a23c0012345564",
+  "companyName": "CoventBridge Group",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO, UT,NM,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "serviceRequestRoleName": "Desk Investigations",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345565",
+  "vendorId": "6841a101f1a23c0012345566",
+  "companyName": "Advantage Investigations",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d77cb437-d55f-44e2-b979-3690309f1e5f"
+  ],
+  "serviceRequestRoleName": "Desk Investigations",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345531",
+  "vendorId": "6841a101f1a23c0012345532",
+  "companyName": "Enlyte (Coventry)",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91"
+  ],
+  "serviceRequestRoleName": "Nurse case management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345532",
+  "vendorId": "6841a101f1a23c0012345533",
+  "companyName": "CorVel",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "serviceRequestRoleName": "Nurse case management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345536",
+  "vendorId": "6841a101f1a23c0012345537",
+  "companyName": "Windham Group",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91"
+  ],
+  "serviceRequestRoleName": "Nurse case management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-07-03T15:22:47.030Z"
+  },
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343457",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345537",
+  "vendorId": "6841a101f1a23c0012345538",
+  "companyName": "Amelio Health",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91"
+  ],
+  "serviceRequestRoleName": "Nurse case management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T11:41:06.045Z"
+  },
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343457",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345512",
+  "vendorId": "6841a101f1a23c0012345513",
+  "companyName": "Enlyte (Genex)",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "serviceRequestRoleName": "Catastrophic Case Management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345513",
+  "vendorId": "6841a101f1a23c0012345514",
+  "companyName": "AmeriSys",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343453",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "serviceRequestRoleName": "Catastrophic Case Management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "manualStatusOverride": true,
+  "suspendedReason": "test",
+  "vendorStatus": "Suspended",
+  "vendorStatusId": "6841a101f1a23c0012343453"
+},
+{
+  "_id": "6841a101f1a23c0012345514",
+  "vendorId": "6841a101f1a23c0012345515",
+  "companyName": "Paradigm",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "serviceRequestRoleName": "Catastrophic Case Management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345515",
+  "vendorId": "6841a101f1a23c0012345516",
+  "companyName": "Premier Comp Solutions",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343457",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+    "c1d9ced9-38ac-42db-abf5-9cf5db7df079"
+  ],
+  "serviceRequestRoleName": "Catastrophic Case Management",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:50:25.259Z"
+  },
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343457",
+  "vendorSource": "panel",
+  "lockedServiceRoleIds": []
+},
+{
+  "_id": "6841a101f1a23c0012345521",
+  "vendorId": "6841a101f1a23c0012345522",
+  "companyName": "Conduent Strataware",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345522",
+  "vendorId": "6841a101f1a23c0012345523",
+  "companyName": "Enlyte (Mitchell)",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345523",
+  "vendorId": "6841a101f1a23c0012345524",
+  "companyName": "CorVel Bill Review",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345524",
+  "vendorId": "6841a101f1a23c0012345525",
+  "companyName": "Accuro Solutions",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "manualStatusOverride": true,
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345525",
+  "vendorId": "6841a101f1a23c0012345526",
+  "companyName": "Careworks",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343456",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "disqualifiedReason": "testtt",
+  "manualStatusOverride": true,
+  "vendorStatus": "Disqualified",
+  "vendorStatusId": "6841a101f1a23c0012343456"
+},
+{
+  "_id": "6841a101f1a23c0012345571",
+  "vendorId": "6841a101f1a23c0012345572",
+  "companyName": "Optum Workers' Comp & Auto",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "CO,UT,WY",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "serviceRequestRoleName": "Pharmacy carve-out",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345572",
+  "vendorId": "6841a101f1a23c0012345573",
+  "companyName": "myMatrixx",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "serviceRequestRoleName": "Pharmacy carve-out",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345573",
+  "vendorId": "6841a101f1a23c0012345574",
+  "companyName": "CorVel PBM",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "serviceRequestRoleName": "Pharmacy carve-out",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345574",
+  "vendorId": "6841a101f1a23c0012345575",
+  "companyName": "Prodigy Services",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "serviceRequestRoleName": "Pharmacy carve-out",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Active",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345576",
+  "vendorId": "6841a101f1a23c0012345577",
+  "companyName": "Cadense RX",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343453",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "7b7d36eb-8759-4131-a746-1a8ab7a94b71"
+  ],
+  "serviceRequestRoleName": "Pharmacy carve-out",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "manualStatusOverride": true,
+  "suspendedReason": "Requal",
+  "vendorStatus": "Suspended",
+  "vendorStatusId": "6841a101f1a23c0012343453"
+},
+{
+  "_id": "6841a101f1a23c0012345411",
+  "vendorId": "6841a101f1a23c0012345412",
+  "companyName": "PhysioCorporate / Select Medical",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "RTW / JFA",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345412",
+  "vendorId": "6841a101f1a23c0012345413",
+  "companyName": "Genex Vocational Services",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.6,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "RTW / JFA",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345413",
+  "vendorId": "6841a101f1a23c0012345414",
+  "companyName": "Briotix Health",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "RTW / JFA",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345414",
+  "vendorId": "6841a101f1a23c0012345415",
+  "companyName": "Windham Group",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.7,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "RTW / JFA",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345415",
+  "vendorId": "6841a101f1a23c0012345416",
+  "companyName": "Opus Medical",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-11T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "RTW / JFA",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Suspended",
+  "vendorStatusId": "6841a101f1a23c0012343453"
+},
+{
+  "_id": "6841a101f1a23c0012345421",
+  "vendorId": "6841a101f1a23c0012345422",
+  "companyName": "One Call",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343453",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2026-07-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57",
+    "012fe067-6094-4476-ac81-66c82d69ac32"
+  ],
+  "serviceRequestRoleName": "Transportation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z",
+  "vendorStatus": "Suspended",
+  "lockedServiceRoleIds": [],
+  "suspendedReason": "Vendor Suspended as Requalification not done",
+  "vendorStatusId": "6841a101f1a23c0012343453"
+},
+{
+  "_id": "6841a101f1a23c0012345422",
+  "vendorId": "6841a101f1a23c0012345423",
+  "companyName": "Carisk Intelligent Solutions",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57"
+  ],
+  "serviceRequestRoleName": "Transportation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345423",
+  "vendorId": "6841a101f1a23c0012345424",
+  "companyName": "MTM",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343453",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2026-08-10T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57"
+  ],
+  "serviceRequestRoleName": "Transportation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Suspended",
+  "suspendedReason": "Vendor Suspended as Requalification not done",
+  "vendorStatusId": "6841a101f1a23c0012343453"
+},
+{
+  "_id": "6841a101f1a23c0012345424",
+  "vendorId": "6841a101f1a23c0012345425",
+  "companyName": "AVO T&T",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57"
+  ],
+  "serviceRequestRoleName": "Transportation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "manualStatusOverride": true,
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345431",
+  "vendorId": "6841a101f1a23c0012345432",
+  "companyName": "Shift Technology",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b"
+  ],
+  "serviceRequestRoleName": "Subrogation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345432",
+  "vendorId": "6841a101f1a23c0012345433",
+  "companyName": "Praxis Subrogation",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b"
+  ],
+  "serviceRequestRoleName": "Subrogation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345433",
+  "vendorId": "6841a101f1a23c0012345434",
+  "companyName": "Equian (Zelis)",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343453",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2026-08-10T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b"
+  ],
+  "serviceRequestRoleName": "Subrogation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Suspended",
+  "lockedServiceRoleIds": [],
+  "suspendedReason": "Vendor Suspended as Requalification not done",
+  "vendorStatusId": "6841a101f1a23c0012343453"
+},
+{
+  "_id": "6841a101f1a23c0012345434",
+  "vendorId": "6841a101f1a23c0012345435",
+  "companyName": "Praxis Consulting",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.8,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "a783f814-e0a8-4b16-b650-9c1721b6ef7b"
+  ],
+  "serviceRequestRoleName": "Subrogation",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z",
+  "vendorStatus": "Active",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345441",
+  "vendorId": "6841a101f1a23c0012345442",
+  "companyName": "Exela Technologies",
+  "emailId": "support@abcmedical.com",
+  "rating": 4.4,
+  "address": "12 Anna Salai",
+  "city": "New York",
+  "state": "Alabama",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9876543210",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "serviceRequestRoleName": "Decision letters",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:00:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:00:00Z",
+  "vendorStatus": "Active",
+  "vendorSource": "panel"
+},
+{
+  "_id": "6841a101f1a23c0012345442",
+  "vendorId": "6841a101f1a23c0012345443",
+  "companyName": "RR Donnelley",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "All State",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "serviceRequestRoleName": "Decision letters",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345443",
+  "vendorId": "6841a101f1a23c0012345444",
+  "companyName": "Guidewire CCM",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.4,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "FL, GA, SC, NC",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "serviceRequestRoleName": "Decision letters",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": "6841a101f1a23c0012345425",
+  "vendorId": "6841a101f1a23c0012345426",
+  "companyName": "Claims IO",
+  "emailId": "contact@primeinvestigation.com",
+  "rating": 4.5,
+  "address": "45 MG Road",
+  "city": "California",
+  "state": "Alaska",
+  "country": "USA",
+  "Status": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-01T10:15:00Z",
+  "RequalificationEndDate": "2027-06-01T10:15:00Z",
+  "Coverage": "FL, GA, SC, NC",
+  "phoneNumber": "+91 9988776655",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ],
+  "serviceRequestRoleName": "Decision letters",
+  "createdBy": "admin",
+  "createdAt": "2026-06-01T10:15:00Z",
+  "uploadedBy": "admin",
+  "uploadedAt": "2026-06-01T10:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a2aa61f8d49a9c04a637621"
+  },
+  "vendorId": "5f57a3f3-a5c4-4427-a774-4c96ac4e82e9",
+  "companyName": "ART Services",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AK, ID, MI",
+  "Status": "",
+  "vendorStatus": "Active",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ],
+  "serviceRequestRoleName": "IME / peer review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-11T12:12:15.864Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-11T12:12:15.864Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b",
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2aa8688d49a9c04a63770c"
+  },
+  "vendorId": "d82df70a-10f9-44bd-ad5c-f59ea554fd0d",
+  "companyName": "ACME Services",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "FL",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "RequalificationEndDate": "2027-07-21T08:41:53.906Z",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-11T12:22:00.677Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-11T12:22:00.677Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "012fe067-6094-4476-ac81-66c82d69ac32"
+  ],
+  "manualStatusOverride": true,
+  "suspendedReason": "",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "boostApplied": true,
+  "RequalificationStartDate": "2026-07-21T08:41:53.906Z",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a2aaa1cc621dfb2bc7c1997"
+  },
+  "vendorId": "0fc4cd7d-9d33-4709-8037-fa235c09a5c1",
+  "companyName": "Alacrity Solutions",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AZ",
+  "Status": "",
+  "vendorStatus": "Active",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "serviceRequestRoleName": "Nurse case management",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-11T12:29:16.701Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-11T12:29:16.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2baecb2cfb015226a18c28"
+  },
+  "vendorId": "785061f4-000c-45a2-ac3b-55fafa2931dd",
+  "companyName": "EFI Solutions",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "CO",
+  "Status": "",
+  "vendorStatus": "In Progress",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b"
+  ],
+  "serviceRequestRoleName": "Decision letters",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-12T07:01:31.643Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-12T07:01:31.643Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a33d4ca1c7604afbe49791e"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "companyName": "Agro Solutions",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "Virtual",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorSource": "",
+  "RequalificationEndDate": "2027-06-23T07:16:52.569Z",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "serviceRequestRoleName": "Decision letters",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-18T11:21:46.167Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-18T11:21:46.167Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "RequalificationStartDate": "2026-06-23T07:16:52.569Z",
+  "disqualifiedReason": "",
+  "manualStatusOverride": true,
+  "suspendedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a33ddcb1c7604afbe497b09"
+  },
+  "vendorId": "ae1c9883-5941-4989-a0ec-70d334d333a0",
+  "companyName": "AA Services",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AK",
+  "Status": "6841a101f1a23c0012343456",
+  "vendorStatus": "Disqualified",
+  "vendorSource": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-18T12:00:11.753Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-18T12:00:11.753Z"
+  },
+  "__v": 0,
+  "manualStatusOverride": true,
+  "vendorStatusId": "6841a101f1a23c0012343456"
+},
+{
+  "_id": {
+    "$oid": "6a33e0081c7604afbe497b56"
+  },
+  "vendorId": "130121b8-b9c6-4529-9adc-13104df4b8ad",
+  "companyName": "ATI Restoration",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AZ",
+  "Status": "6841a101f1a23c0012343455",
+  "vendorStatus": "In Progress",
+  "vendorSource": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-18T12:09:44.429Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-18T12:09:44.429Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "59888a53-7bb3-4e3c-8eaa-79035c8fa74b"
+  ],
+  "vendorStatusId": "6841a101f1a23c0012343455"
+},
+{
+  "_id": {
+    "$oid": "6a33ea905bfe76769d151e3f"
+  },
+  "vendorId": "d7032494-8358-4ba5-9127-350152bd2ed3",
+  "companyName": "DRO & Solutions",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "IA",
+  "Status": "6841a101f1a23c0012343455",
+  "vendorStatus": "InProgress",
+  "vendorStatusId": "6841a101f1a23c0012343455",
+  "vendorSource": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ],
+  "serviceRequestRoleName": "Catastrophic case management",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-18T12:54:40.462Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-18T12:54:40.462Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+    "d29831f1-b20e-43a8-bbc1-508481ed4406"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a33eba15bfe76769d151e6c"
+  },
+  "vendorId": "3078b695-f61d-485d-8595-b8b5d362ff45",
+  "companyName": "LRP Publications",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "Virtual",
+  "Status": "6841a101f1a23c0012343455",
+  "vendorStatus": "InProgress",
+  "vendorStatusId": "6841a101f1a23c0012343455",
+  "vendorSource": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-18T12:59:13.151Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-18T12:59:13.151Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a33eeba5bfe76769d151e90"
+  },
+  "vendorId": "c26ca703-e58f-4942-bffe-3b4a57eb34a2",
+  "companyName": "Veracity Research",
+  "emailId": "",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AK, AZ, AR",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationEndDate": "2027-07-24T13:59:37.937Z",
+  "phoneNumber": "123421239",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "3bb4649d-4d65-4740-a936-1fae32c73273",
+    "012fe067-6094-4476-ac81-66c82d69ac32"
+  ],
+  "serviceRequestRoleName": "RTW / JFA",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-18T13:12:26.200Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-18T13:12:26.200Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "1db52bc8-ede5-4aaa-af44-18b481423205",
+    "3bb4649d-4d65-4740-a936-1fae32c73273"
+  ],
+  "RequalificationStartDate": "2026-07-24T13:59:37.937Z",
+  "boostApplied": false,
+  "disqualifiedReason": "",
+  "manualStatusOverride": true,
+  "suspendedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a57d5cda629641611fd91"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "companyName": "AGS Solutions",
+  "emailId": "ags@gmail.com",
+  "rating": 0,
+  "address": "Raagavis Center 21A Nanjundapuram Main Road Sreepathy Nagar",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "Virtual, AK, AZ",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationEndDate": "2027-06-23T11:26:57.329Z",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "Yamuna M",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-23T09:54:29.723Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-23T09:54:29.723Z"
+  },
+  "__v": 0,
+  "RequalificationStartDate": "2026-06-23T11:26:57.329Z",
+  "disqualifiedReason": "",
+  "manualStatusOverride": true,
+  "suspendedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a3f58a3e31f33c2f2998b57"
+  },
+  "vendorId": "03888ebb-7868-42ed-b050-d09cdc5b043e",
+  "companyName": "DAS Services",
+  "emailId": "das@gmail.com",
+  "rating": 0,
+  "address": "Raagavis Center 21A Nanjundapuram Main Road Sreepathy Nagar",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "",
+  "Status": "6841a101f1a23c0012343455",
+  "vendorStatus": "In Progress",
+  "vendorStatusId": "6841a101f1a23c0012343455",
+  "vendorSource": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "Yamuna M",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": "",
+  "serviceRequestRoleName": "",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-27T04:59:15.145Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-27T04:59:15.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4202240ed39dff5bf971f0"
+  },
+  "vendorId": "49f8b5cf-7bf2-4731-9e82-c86a53dda41e",
+  "companyName": "KPN Productions",
+  "emailId": "kpn@gmail.com",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AR, MA",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationEndDate": "2027-07-24T13:59:27.390Z",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+    "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-06-29T05:27:00.639Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-06-29T05:27:00.639Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "012fe067-6094-4476-ac81-66c82d69ac32",
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+    "c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+    "5dec83a6-dd24-47c0-987b-a89360a8c0f1"
+  ],
+  "boostApplied": true,
+  "RequalificationStartDate": "2026-07-24T13:59:27.390Z",
+  "disqualifiedReason": "",
+  "manualStatusOverride": true,
+  "suspendedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a4b50ff1babe5a9a589ac93"
+  },
+  "vendorId": "acab8f06-55f4-4f85-9b11-8c2aad328baa",
+  "companyName": "Eximo Services",
+  "emailId": "eximo@gmail.com",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AK, AZ, Virtual",
+  "Status": "6841a101f1a23c0012343455",
+  "vendorStatus": "InProgress",
+  "vendorStatusId": "6841a101f1a23c0012343455",
+  "vendorSource": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57"
+  ],
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-07-06T06:53:51.062Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-07-06T06:53:51.062Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+    "f0fe71a2-1aa9-4e64-aaa2-211ded419c57"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a4ccc829e84040d4742bb54"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "companyName": "LYCA Productions",
+  "emailId": "lyca@gmail.com",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "Virtual, OH",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-07-07T09:55:46.733Z",
+  "RequalificationEndDate": "2027-07-07T09:55:46.733Z",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "serviceRequestRoleName": "Catastrophic case management",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-07-07T09:53:06.520Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-07-07T09:53:06.520Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "db2ce7e0-13e3-4201-831e-0c9579fe9be1"
+  ],
+  "disqualifiedReason": "",
+  "manualStatusOverride": true,
+  "suspendedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a4cd0059e84040d4742bd5f"
+  },
+  "vendorId": "909f5190-89dd-4e79-9523-e5e616f822ee",
+  "companyName": "ProRestore Network",
+  "emailId": "prorestore@gmail.com",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "IL, CO",
+  "Status": "6841a101f1a23c0012343454",
+  "vendorStatus": "Pending Approval",
+  "vendorStatusId": "6841a101f1a23c0012343454",
+  "vendorSource": "",
+  "RequalificationStartDate": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": "5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "serviceRequestRoleName": "Records Retrieval (Defense)",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-07-07T10:08:05.048Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-07-07T10:08:05.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cd0469e84040d4742bdfb"
+  },
+  "vendorId": "9578d9d3-71f5-4e43-88e4-0b91005b28d6",
+  "companyName": "CareBridge Medical Management",
+  "emailId": "carebridge@gmail.com",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AR, ID, MD, HI, Virtual",
+  "Status": "6841a101f1a23c0012343454",
+  "vendorStatus": "Pending Approval",
+  "vendorStatusId": "6841a101f1a23c0012343454",
+  "vendorSource": "",
+  "RequalificationStartDate": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": "d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "serviceRequestRoleName": "Medical canvassing",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-07-07T10:09:10.714Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-07-07T10:09:10.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cd0a59e84040d4742be97"
+  },
+  "vendorId": "1f7adecc-1f4e-4b01-acd5-95ac9bcd5bc4",
+  "companyName": "Pinnacle Bill Audit Services",
+  "emailId": "pinnacle@gmail.com",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "MI, NM, NC",
+  "Status": "6841a101f1a23c0012343455",
+  "vendorStatus": "InProgress",
+  "vendorStatusId": "6841a101f1a23c0012343455",
+  "vendorSource": "",
+  "RequalificationStartDate": "",
+  "RequalificationEndDate": "",
+  "phoneNumber": "",
+  "website": "",
+  "contactPersonName": "",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ],
+  "serviceRequestRoleName": "Decision letters",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-07-07T10:10:45.831Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-07-07T10:10:45.831Z"
+  },
+  "__v": 0,
+  "lockedServiceRoleIds": [
+    "9fb83840-bc51-4013-ab8e-833f47bbc40c",
+    "1db52bc8-ede5-4aaa-af44-18b481423205"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a575e74274a234ae3a47e6a"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "companyName": "AmTrust Financial",
+  "emailId": "amtrust@solutions.com",
+  "rating": 0,
+  "address": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "Coverage": "AZ, GA, KY",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-07-15T11:06:36.536Z",
+  "RequalificationEndDate": "2027-07-15T11:06:36.536Z",
+  "phoneNumber": "",
+  "website": "www.amtrustfinancials.com",
+  "contactPersonName": "John",
+  "contactPersonPhone": "",
+  "contactPersonEmail": "",
+  "turnaroundTime": "",
+  "serviceRequestRoleId": "012fe067-6094-4476-ac81-66c82d69ac32",
+  "serviceRequestRoleName": "Bill Review",
+  "createdBy": "System",
+  "uploadedBy": "System",
+  "createdAt": {
+    "$date": "2026-07-15T10:18:28.334Z"
+  },
+  "uploadedAt": {
+    "$date": "2026-07-15T10:18:28.334Z"
+  },
+  "__v": 0,
+  "disqualifiedReason": "",
+  "manualStatusOverride": true,
+  "suspendedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f604"
+  },
+  "vendorId": "febabdc7-a945-42ef-8bf4-6a86ac4c4426",
+  "companyName": "Meridian GL Adjusters",
+  "emailId": "contact@meridiangladjusters.com",
+  "rating": 4.2,
+  "address": "1 Main Street",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "USA",
+  "Coverage": "TX, OK, LA, NM",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "d6cbd9e1-5083-4fd3-ae41-42895d30deeb"
+  ],
+  "serviceRequestRoleName": "Independent Adjusters",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f605"
+  },
+  "vendorId": "12c949f9-2c86-4941-aead-6b3839a211a9",
+  "companyName": "Apex Forensic Engineering",
+  "emailId": "contact@apexforensicengineering.com",
+  "rating": 4.5,
+  "address": "1 Main Street",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "Coverage": "GA, FL, AL, SC",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "72 Hours",
+  "serviceRequestRoleId": [
+    "fdc422d4-9f71-438e-ac77-fedf1378f4f7"
+  ],
+  "serviceRequestRoleName": "Forensic Engineers",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f606"
+  },
+  "vendorId": "5e1e534d-3d7f-4148-a66d-4eb1167946cb",
+  "companyName": "Precision Auto Appraisals",
+  "emailId": "contact@precisionautoappraisals.com",
+  "rating": 4.3,
+  "address": "1 Main Street",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "USA",
+  "Coverage": "AZ, NV, NM",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "8dacd136-20cf-4365-837c-a21855d5bca3"
+  ],
+  "serviceRequestRoleName": "Auto Appraisers",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f607"
+  },
+  "vendorId": "b172ba2c-b80d-4fa6-a92c-72bb4237de54",
+  "companyName": "National Auto Repair Network",
+  "emailId": "contact@nationalautorepairnetwork.com",
+  "rating": 4.1,
+  "address": "1 Main Street",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "USA",
+  "Coverage": "OH, IN, MI, KY",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "0bbf4eb0-433a-49e0-9fc4-a65e94fec5ee"
+  ],
+  "serviceRequestRoleName": "Repair Networks",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f608"
+  },
+  "vendorId": "b058a6b2-2e5e-4043-8bf8-65bfc7a1e4dd",
+  "companyName": "Reliable Salvage & Towing",
+  "emailId": "contact@reliablesalvagetowing.com",
+  "rating": 4,
+  "address": "1 Main Street",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "USA",
+  "Coverage": "NC, SC, VA",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "dd85a729-d742-4277-b4c4-9d4b15afb9a0"
+  ],
+  "serviceRequestRoleName": "Salvage and Towing Partnerships",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f609"
+  },
+  "vendorId": "7fdecc86-963f-4b7a-bc57-4e319ee76a5d",
+  "companyName": "ClearPath Medical Bill Review",
+  "emailId": "contact@clearpathmedicalbillreview.com",
+  "rating": 4.4,
+  "address": "1 Main Street",
+  "city": "Denver",
+  "state": "CO",
+  "country": "USA",
+  "Coverage": "CO, UT, WY",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "9b957b16-5b16-4a93-9f69-67dd4fc565e3"
+  ],
+  "serviceRequestRoleName": "Medical Review and Bill Examiners",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f60a"
+  },
+  "vendorId": "9cddc46b-6552-4534-91bf-5a6e8802dc4d",
+  "companyName": "Forensic Accident Reconstruction Group",
+  "emailId": "contact@forensicaccidentreconstructiongroup.com",
+  "rating": 4.6,
+  "address": "1 Main Street",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "USA",
+  "Coverage": "CA, NV, OR",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "72 Hours",
+  "serviceRequestRoleId": [
+    "c366ed3e-49c7-44b6-8192-7d801e714dd0"
+  ],
+  "serviceRequestRoleName": "Accident Reconstructionist",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f60b"
+  },
+  "vendorId": "08a0c25f-99b1-4d24-afdb-5fba7acf465d",
+  "companyName": "Summit Auto Claims Adjusters",
+  "emailId": "contact@summitautoclaimsadjusters.com",
+  "rating": 4.2,
+  "address": "1 Main Street",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "Coverage": "IL, IN, WI",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "5ba3b67c-0a1e-46a8-a209-a6ea648d1aa1"
+  ],
+  "serviceRequestRoleName": "Independent Adjusters",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f60c"
+  },
+  "vendorId": "ee4ddc2a-f19b-4961-a896-cc8b3243b3e3",
+  "companyName": "RapidResponse Loss Mitigation",
+  "emailId": "contact@rapidresponselossmitigation.com",
+  "rating": 4.3,
+  "address": "1 Main Street",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "USA",
+  "Coverage": "FL, GA, AL",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "24 Hours",
+  "serviceRequestRoleId": [
+    "6403ead4-26e8-4e7d-9fd0-3be887c111f5"
+  ],
+  "serviceRequestRoleName": "24/7 Loss Mitigation Contractors",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f60d"
+  },
+  "vendorId": "67873e68-a93b-4677-92fe-86b3e8f661d2",
+  "companyName": "Ledger Forensic Accounting",
+  "emailId": "contact@ledgerforensicaccounting.com",
+  "rating": 4.5,
+  "address": "1 Main Street",
+  "city": "Boston",
+  "state": "MA",
+  "country": "USA",
+  "Coverage": "MA, CT, RI",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "72 Hours",
+  "serviceRequestRoleId": [
+    "85efc2b6-1027-41c7-8987-b5d05c63344b"
+  ],
+  "serviceRequestRoleName": "Forensic Accountant",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f60e"
+  },
+  "vendorId": "de341806-164a-48bc-8d58-b41ae7678bc1",
+  "companyName": "Cornerstone Property Adjusters",
+  "emailId": "contact@cornerstonepropertyadjusters.com",
+  "rating": 4.1,
+  "address": "1 Main Street",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "USA",
+  "Coverage": "FL, GA, SC",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "48 Hours",
+  "serviceRequestRoleId": [
+    "f661ec4d-8dc4-4b0c-bcf2-cea1e2b99550"
+  ],
+  "serviceRequestRoleName": "Appraisers/Independent Adjusters",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+},
+{
+  "_id": {
+    "$oid": "6a9e7e41d3fa56761b38f60f"
+  },
+  "vendorId": "0bd17c22-8d9c-47b1-86dd-3efb6b371096",
+  "companyName": "Ignis Cause & Origin Specialists",
+  "emailId": "contact@igniscauseoriginspecialists.com",
+  "rating": 4.4,
+  "address": "1 Main Street",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "Coverage": "TX, LA, AR",
+  "Status": "6841a101f1a23c0012343451",
+  "vendorStatus": "Active",
+  "vendorStatusId": "6841a101f1a23c0012343451",
+  "vendorSource": "",
+  "RequalificationStartDate": "2026-09-07T09:05:05.514Z",
+  "RequalificationEndDate": "2027-09-07T09:05:05.514Z",
+  "phoneNumber": "+1 555-0100",
+  "turnaroundTime": "72 Hours",
+  "serviceRequestRoleId": [
+    "3f325fac-46b9-40a6-9d35-30f2541d7d14"
+  ],
+  "serviceRequestRoleName": "Cause & Origin Specialists",
+  "createdBy": "System (Dummy Seed)",
+  "createdAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "uploadedBy": "System (Dummy Seed)",
+  "uploadedAt": {
+    "$date": "2026-09-07T09:05:05.514Z"
+  },
+  "boostApplied": false,
+  "suspendedReason": "",
+  "disqualifiedReason": ""
+}]

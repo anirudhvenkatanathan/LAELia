@@ -1,0 +1,490 @@
+[{
+  "_id": {
+    "$oid": "6a62ee6fa37bdba3751260b6"
+  },
+  "uploadId": "b2594a56-5b59-4dab-85f7-aa44135a4709",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T04:47:43.946Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62ef09a37bdba3751260e2"
+  },
+  "uploadId": "c5ea6aa9-ad8e-4810-850f-863272d1242f",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T04:50:17.428Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f446a37bdba37512611f"
+  },
+  "uploadId": "4faeb50d-6c93-4349-ad07-953ba9381eed",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:12:38.704Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f6dda37bdba3751261c1"
+  },
+  "uploadId": "b3053566-d27e-4482-a94c-7cedbd9ade87",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:23:41.486Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f6f5a37bdba3751261dc"
+  },
+  "uploadId": "c5ffd8f6-1862-4c16-ab9f-94bb1abd3252",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:24:05.050Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f6ffa37bdba3751261e6"
+  },
+  "uploadId": "e53990b8-48d2-4dc8-b560-14722e3d9b6b",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:24:15.327Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f709a37bdba3751261f0"
+  },
+  "uploadId": "94fff5b6-59be-4ceb-8bf2-4fe29e2d9edb",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:24:25.926Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f714a37bdba3751261fa"
+  },
+  "uploadId": "4e43868d-db0e-45b8-97ed-90c6a9ad0e20",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:24:36.046Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f71ea37bdba375126204"
+  },
+  "uploadId": "076f1c98-1d1b-41c0-afd0-e56bcdf6d764",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:24:46.912Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f729a37bdba37512620e"
+  },
+  "uploadId": "3502456f-c869-4964-87bf-84e3f559baab",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:24:57.428Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f734a37bdba375126218"
+  },
+  "uploadId": "a05ebc83-3c59-4280-bc85-d2f54e64c598",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:25:08.138Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a62f73ca37bdba375126222"
+  },
+  "uploadId": "1a00b3bf-3349-4960-83a6-b03ee06f99dd",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T05:25:16.955Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635dc0e4346417df4dbec8"
+  },
+  "uploadId": "612f2fbd-e30c-4dd9-ae95-21ce21f87749",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:42:40.002Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635e23e4346417df4dbef7"
+  },
+  "uploadId": "e98e7fdb-655d-4e6b-9db7-2b6b23251e15",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:44:19.836Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635e4fe4346417df4dbf01"
+  },
+  "uploadId": "272808aa-c343-4457-a56d-e8215c127134",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:45:03.524Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635e72e4346417df4dbf0b"
+  },
+  "uploadId": "f5904c64-226a-456b-a1a0-c6c9dbcf212d",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:45:38.313Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635ef2e4346417df4dbf15"
+  },
+  "uploadId": "a2d1ca98-8e05-41bf-8fb0-128d30be2897",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:47:46.332Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a635fcce4346417df4dbf1f"
+  },
+  "uploadId": "c603be57-715d-4491-9a54-be57c9df94e2",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:51:24.822Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a636001e4346417df4dbf29"
+  },
+  "uploadId": "27253c5a-15c3-4a04-ba95-9450abb8cba7",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:52:17.295Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a636009e4346417df4dbf33"
+  },
+  "uploadId": "df08bc7b-3c38-446d-aef9-942a29b1b2ff",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:52:24.997Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a63609be4346417df4dbf3d"
+  },
+  "uploadId": "c25ecead-994a-45eb-a2cf-aa5d166ecf10",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:54:51.080Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a6360a4e4346417df4dbf47"
+  },
+  "uploadId": "2e71c5c3-32f8-4a74-bce7-f7871b2234bf",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-07-24T12:55:00.577Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a67eece5d215473171a56"
+  },
+  "uploadId": "75db9888-0cc4-47b0-8c90-63e2239bd072",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T06:40:46.190Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a688dce5d215473171a8c"
+  },
+  "uploadId": "01a4ebe5-9fbf-432c-9af4-eaea61b90dee",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T06:43:25.593Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a6b55ce5d215473171ae0"
+  },
+  "uploadId": "f413883d-a053-4a53-bc3b-dddca66eaa45",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T06:55:17.811Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a717cce5d215473171b25"
+  },
+  "uploadId": "b3ada3ee-3afd-4be8-8c54-458bcc344ed0",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T07:21:32.860Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a720ace5d215473171b48"
+  },
+  "uploadId": "05044b3c-4879-4040-ab0d-5e58820c6bab",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T07:23:54.043Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a746cce5d215473171b8b"
+  },
+  "uploadId": "6624da1a-6af2-443e-9c62-29373ce76707",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T07:34:04.606Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7531ce5d215473171bc4"
+  },
+  "uploadId": "e763c66d-3932-4555-a273-acac41531622",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T07:37:20.999Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7695ce5d215473171c10"
+  },
+  "uploadId": "00c6dbf4-2e88-44b8-8246-eedf03b18459",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T07:43:17.616Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7854ce5d215473171c37"
+  },
+  "uploadId": "6d94a5f1-8b74-4f5d-8b9b-141638703738",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T07:50:44.008Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7f2ece5d215473171c7b"
+  },
+  "uploadId": "ccbf84b9-cf6d-4898-a1d1-faa4b9910740",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T08:19:58.434Z"
+  },
+  "status": "Failed",
+  "remarks": "JSON upload — 75 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9a7f3ece5d215473171c83"
+  },
+  "uploadId": "aba5d6e0-2011-4245-b96f-2110261d5cbe",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-04T08:20:13.988Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9e764cf5f7d1551651b195"
+  },
+  "uploadId": "50388309-5f7d-4b12-8d8a-f50c881bd317",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-07T08:31:08.421Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9e79b5f5f7d1551651b2ed"
+  },
+  "uploadId": "2b25de59-82de-4c09-8479-ec2e0de2746f",
+  "action": "UPLOAD",
+  "user": "Admin",
+  "timestamp": {
+    "$date": "2026-09-07T08:45:41.468Z"
+  },
+  "status": "Processed",
+  "remarks": "JSON upload — 1 record(s)",
+  "__v": 0
+}]

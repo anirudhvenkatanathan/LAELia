@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6a1d5e7a54e8d2313a99cbc7"
+  },
+  "auditId": "49e96587-dd2f-44be-932f-cff7fddc59f4",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "UPLOAD",
+  "performedBy": "Admin",
+  "performedDate": {
+    "$date": "2026-06-01T10:27:06.320Z"
+  },
+  "remarks": "Excel upload — 6 record(s), 6 mapping(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d60ed54e8d2313a99cbf2"
+  },
+  "auditId": "1e771bbc-d755-40c6-8cce-3b552790a787",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "SAVE_MAPPING",
+  "performedBy": "System",
+  "performedDate": {
+    "$date": "2026-06-01T10:37:33.842Z"
+  },
+  "remarks": "Saved 7 mapping(s).",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d60f654e8d2313a99cc00"
+  },
+  "auditId": "07b52b3d-42a5-4605-8a50-7201ccddc2c8",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "SAVE_MAPPING",
+  "performedBy": "System",
+  "performedDate": {
+    "$date": "2026-06-01T10:37:42.474Z"
+  },
+  "remarks": "Saved 7 mapping(s).",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d655854e8d2313a99cc68"
+  },
+  "auditId": "416cb500-7231-42da-93a3-506e65dd38e2",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "SAVE_MAPPING",
+  "performedBy": "System",
+  "performedDate": {
+    "$date": "2026-06-01T10:56:24.474Z"
+  },
+  "remarks": "Saved 8 mapping(s).",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d655a54e8d2313a99cc77"
+  },
+  "auditId": "9d741723-68b0-485f-9ab3-6f5d3f984ba2",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "SAVE_MAPPING",
+  "performedBy": "System",
+  "performedDate": {
+    "$date": "2026-06-01T10:56:26.147Z"
+  },
+  "remarks": "Saved 8 mapping(s).",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1d84c9eca936fc91cfcdbc"
+  },
+  "auditId": "0c7dc935-f665-40a3-8219-b71ba5a4c56a",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "SAVE_MAPPING",
+  "performedBy": "System",
+  "performedDate": {
+    "$date": "2026-06-01T13:10:33.888Z"
+  },
+  "remarks": "Saved 7 mapping(s).",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2105494704958d2f77d02b"
+  },
+  "auditId": "871be328-f4c8-4b5e-afd1-c22bc6b5c669",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "SAVE_MAPPING",
+  "performedBy": "System",
+  "performedDate": {
+    "$date": "2026-06-04T04:55:37.048Z"
+  },
+  "remarks": "Saved 8 mapping(s).",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a21824db85d0272de594574"
+  },
+  "auditId": "4d3af242-48df-49f2-9cca-dba6989198b2",
+  "uploadId": "bc4d2312-fe9c-4a56-9c4e-5c2b98680eff",
+  "action": "SAVE_MAPPING",
+  "performedBy": "System",
+  "performedDate": {
+    "$date": "2026-06-04T13:49:01.824Z"
+  },
+  "remarks": "Saved 42 mapping(s).",
+  "__v": 0
+}]

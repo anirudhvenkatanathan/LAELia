@@ -1,0 +1,3820 @@
+[{
+  "_id": {
+    "$oid": "6a2bd9fa0be69e76bba3ac27"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "claim_triage.vendor_details-1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781258746184_claim_triage.vendor_details-1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:05:46.185Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bda3d495a1493cd7bc3e9"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "KPI_MongoDB_Schema_Definition (1).md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781258813348_KPI_MongoDB_Schema_Definition (1).md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:06:53.349Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bda45495a1493cd7bc3ee"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "screencapture-claim-flow-hub-13-lovable-app-vendors-v-104-2026-06-06-08_34_33 (1).png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781258821941_screencapture-claim-flow-hub-13-lovable-app-vendors-v-104-2026-06-06-08_34_33 (1).png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:07:01.943Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bdab7495a1493cd7bc412"
+  },
+  "vendorId": "5f46d12a-d6d6-4c02-82e5-2957e5142267",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\5f46d12a-d6d6-4c02-82e5-2957e5142267\\1781258935882_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:08:55.884Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bdabc495a1493cd7bc414"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "fileName": "screencapture-claim-flow-hub-13-lovable-app-vendors-v-104-2026-06-06-08_34_33.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781258940266_screencapture-claim-flow-hub-13-lovable-app-vendors-v-104-2026-06-06-08_34_33.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:09:00.268Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bdc74495a1493cd7bc487"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781259380257_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:16:20.258Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2be0906506a009aec8e886"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "move_column_dataverse.txt",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781260432192_move_column_dataverse.txt",
+  "fileBase64": "",
+  "approvalStatus": "Rejected",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:33:52.194Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2be0cb6506a009aec8e889"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "move_column_dataverse.txt",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781260491911_move_column_dataverse.txt",
+  "fileBase64": "",
+  "approvalStatus": "Rejected",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:34:51.912Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2be0e46506a009aec8e895"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "TaskReport_2026-06-11_to_2026-06-11.xlsx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781260516846_TaskReport_2026-06-11_to_2026-06-11.xlsx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:35:16.848Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2be14e6506a009aec8e8a2"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "package-lock.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781260622510_package-lock.json",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:37:02.511Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2be2736506a009aec8e90b"
+  },
+  "vendorId": "5f46d12a-d6d6-4c02-82e5-2957e5142267",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "ChatGPT Image Jun 11, 2026, 08_35_32 AM.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\5f46d12a-d6d6-4c02-82e5-2957e5142267\\1781260915318_ChatGPT Image Jun 11, 2026, 08_35_32 AM.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:41:55.322Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2be3806506a009aec8e91f"
+  },
+  "vendorId": "5f46d12a-d6d6-4c02-82e5-2957e5142267",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "fileName": "claim_triage.kpi_matrics.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\5f46d12a-d6d6-4c02-82e5-2957e5142267\\1781261184925_claim_triage.kpi_matrics.json",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T10:46:24.926Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2beb67669a43cccbd6eea1"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "TaskReport_2026-06-10_to_2026-06-10.xlsx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781263207744_TaskReport_2026-06-10_to_2026-06-10.xlsx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T11:20:07.747Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bec0f669a43cccbd6eead"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "fileName": "TaskReport_2026-06-10_to_2026-06-10.xlsx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781263375214_TaskReport_2026-06-10_to_2026-06-10.xlsx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T11:22:55.215Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bec1b669a43cccbd6eeb2"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "fileName": "Microsoft_Dataverse_SOP_Guide.docx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781263387834_Microsoft_Dataverse_SOP_Guide.docx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T11:23:07.835Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bed2d669a43cccbd6eec1"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "package.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781263661570_package.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T11:27:41.582Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bed48669a43cccbd6eec6"
+  },
+  "vendorId": "6841a101f1a23c0012345676",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "package-lock.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345676\\1781263688110_package-lock.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T11:28:08.112Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bf9c2669a43cccbd6f029"
+  },
+  "vendorId": "e41818e8-2096-487a-aa3a-00b8e4ec50fd",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\e41818e8-2096-487a-aa3a-00b8e4ec50fd\\1781266882934_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-12T12:21:22.935Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2f8c108e81039617025d53"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "CLM-2026-1002.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781500944171_CLM-2026-1002.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T05:22:24.172Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2f8c848e81039617025d64"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781501060079_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T05:24:20.081Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fa5371ebd0afe99bc33c8"
+  },
+  "vendorId": "6841a101f1a23c0012345424",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345424\\1781507383621_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T07:09:43.623Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fa54e1ebd0afe99bc33cc"
+  },
+  "vendorId": "6841a101f1a23c0012345424",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345424\\1781507406310_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T07:10:06.317Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fa63e1ebd0afe99bc33de"
+  },
+  "vendorId": "6841a101f1a23c0012345434",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345434\\1781507646269_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T07:14:06.272Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fa68c1ebd0afe99bc33f3"
+  },
+  "vendorId": "6841a101f1a23c0012345434",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345434\\1781507724231_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T07:15:24.234Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fc16df2f675fe499ee6c4"
+  },
+  "vendorId": "6841a101f1a23c0012345424",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345424\\1781514605708_screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T09:10:05.710Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fc18af2f675fe499ee6de"
+  },
+  "vendorId": "7cbd87cf-a51b-4541-a50e-889a93c2ff6e",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fileName": "WCM-2026-100001 - First 1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\7cbd87cf-a51b-4541-a50e-889a93c2ff6e\\1781514634024_WCM-2026-100001 - First 1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T09:10:34.025Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fc192f2f675fe499ee6e0"
+  },
+  "vendorId": "7cbd87cf-a51b-4541-a50e-889a93c2ff6e",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_d77cb437-d55f-44e2-b979-3690309f1e5f",
+  "fileName": "WCM-2026-100001 -Second 1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\7cbd87cf-a51b-4541-a50e-889a93c2ff6e\\1781514642368_WCM-2026-100001 -Second 1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T09:10:42.368Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fc1b8f2f675fe499ee701"
+  },
+  "vendorId": "6841a101f1a23c0012345424",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345424\\1781514680289_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T09:11:20.297Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fd26af2dd6ecce9bad87e"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781518954134_screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T10:22:34.137Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fd297f2dd6ecce9bad883"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "KPI_MongoDB_Schema_Definition.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781518999296_KPI_MongoDB_Schema_Definition.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T10:23:19.296Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fd2a1f2dd6ecce9bad888"
+  },
+  "vendorId": "6841a101f1a23c0012345422",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345422\\1781519009410_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T10:23:29.414Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fd72ff2dd6ecce9bad91f"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781520175180_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T10:42:55.184Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fd783f2dd6ecce9bad927"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781520259225_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T10:44:19.226Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fde8b541781ebd22948dc"
+  },
+  "vendorId": "6841a101f1a23c0012345434",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345434\\1781522059505_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T11:14:19.509Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fde9a541781ebd22948de"
+  },
+  "vendorId": "6841a101f1a23c0012345434",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345434\\1781522074731_screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T11:14:34.734Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2fdea9541781ebd22948e0"
+  },
+  "vendorId": "6841a101f1a23c0012345434",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-09_56_16.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345434\\1781522089199_screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-09_56_16.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T11:14:49.201Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2ffe2cf27622d1f9d38762"
+  },
+  "vendorId": "6841a101f1a23c0012345434",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345434\\1781530156718_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-15T13:29:16.721Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30dd4df27622d1f9d38889"
+  },
+  "vendorId": "6841a101f1a23c0012345525",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345525\\1781587276996_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T05:21:17.001Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30e2f8f27622d1f9d38a5e"
+  },
+  "vendorId": "6841a101f1a23c0012345525",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345525\\1781588728071_screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T05:45:28.074Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30e30df27622d1f9d38a69"
+  },
+  "vendorId": "6841a101f1a23c0012345525",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345525\\1781588749620_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T05:45:49.623Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30ed88b5ca039f6a6260fb"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781591432402_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:30:32.406Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30eda5b5ca039f6a626100"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781591461463_screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:31:01.466Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30edbdb5ca039f6a626102"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781591485980_screencapture-lovable-dev-projects-b294a3cf-3bc9-4e5b-891e-b4c407e5198c-2026-06-10-11_00_11.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:31:25.981Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30ee12b5ca039f6a626104"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781591570709_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:32:50.713Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30ef39b5ca039f6a626111"
+  },
+  "vendorId": "6841a101f1a23c0012345525",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345525\\1781591865732_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:37:45.735Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30f03db5ca039f6a626116"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781592125760_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:42:05.763Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30f15ab5ca039f6a62612a"
+  },
+  "vendorId": "6841a101f1a23c0012345525",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345525\\1781592410208_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:46:50.211Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a30f184b5ca039f6a62613b"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781592452925_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T06:47:32.930Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a310d6166b7e2944fb90350"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "Screenshot 2026-06-15 154156.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781599585128_Screenshot 2026-06-15 154156.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T08:46:25.131Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a310d7366b7e2944fb90355"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "fileName": "Screenshot 2026-06-15 154156.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781599603151_Screenshot 2026-06-15 154156.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T08:46:43.152Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a311e0d66b7e2944fb90594"
+  },
+  "vendorId": "6841a101f1a23c0012345684",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "Metrics_Claim.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\6841a101f1a23c0012345684\\1781603853665_Metrics_Claim.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T09:57:33.668Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3137b5f9d2bd16a80e5cb2"
+  },
+  "vendorId": "9512e0cb-0c87-44f0-a24a-0f6caf248d57",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_a783f814-e0a8-4b16-b650-9c1721b6ef7b",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\9512e0cb-0c87-44f0-a24a-0f6caf248d57\\1781610421787_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-16T11:47:01.789Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0443ff1c0e59f061e36"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768260853_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:37:40.854Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0563ff1c0e59f061e3b"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768278767_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:37:58.768Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a05c3ff1c0e59f061e40"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768284703_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:04.704Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0633ff1c0e59f061e45"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768291173_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:11.175Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a06a3ff1c0e59f061e4a"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768298850_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:18.852Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0713ff1c0e59f061e4f"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768305559_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:25.560Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a07baa70d6c3e8e733f3"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "approvalStatus": "Waived",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "__v": 0,
+  "comments": "Not Applicable to Service Category",
+  "fileBase64": "",
+  "fileName": "waive_record",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:35.034Z"
+  },
+  "uploadedBy": "admin",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "waiveReasonId": "WR001",
+  "waiveReasonName": "Not Applicable to Service Category"
+},
+{
+  "_id": {
+    "$oid": "6a33a0833ff1c0e59f061e58"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768323162_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:43.162Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a085aa70d6c3e8e733f4"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342118",
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:45.917Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33a087aa70d6c3e8e733f5"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342119",
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:47.752Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33a088aa70d6c3e8e733f6"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342120",
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "__v": 0,
+  "approvalStatus": "Not Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:48.758Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33a089aa70d6c3e8e733f7"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342121",
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:49.849Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33a08baa70d6c3e8e733f8"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342122",
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "__v": 0,
+  "approvalStatus": "Not Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:51.012Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33a0913ff1c0e59f061e71"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768337374_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:38:57.376Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0963ff1c0e59f061e76"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768342906_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:39:02.908Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0d13ff1c0e59f061e7b"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768401305_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:40:01.305Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0d23ff1c0e59f061e80"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768402533_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:40:02.533Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33a0d83ff1c0e59f061e85"
+  },
+  "vendorId": "63443b3f-81ca-43ba-b7f2-6ca0587f2d16",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\63443b3f-81ca-43ba-b7f2-6ca0587f2d16\\1781768408169_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T07:40:08.171Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac0e3ff1c0e59f061f33"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_012fe067-6094-4476-ac81-66c82d69ac32",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771278857_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:27:58.858Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac133ff1c0e59f061f38"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_db2ce7e0-13e3-4201-831e-0c9579fe9be1",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771283902_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:03.904Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac193ff1c0e59f061f3d"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771289024_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:09.025Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac1e3ff1c0e59f061f42"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771294078_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:14.079Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac243ff1c0e59f061f47"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771300349_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:20.350Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac2a3ff1c0e59f061f4c"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771306908_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:26.910Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac313ff1c0e59f061f51"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771313976_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:33.977Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac35aa70d6c3e8e733f9"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorConfirmationId": "6841a101f1a23c0012342118",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:37.628Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33ac37aa70d6c3e8e733fa"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorConfirmationId": "6841a101f1a23c0012342120",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:39.311Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33ac38aa70d6c3e8e733fb"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorConfirmationId": "6841a101f1a23c0012342119",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:40.322Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33ac39aa70d6c3e8e733fc"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorConfirmationId": "6841a101f1a23c0012342121",
+  "__v": 0,
+  "approvalStatus": "Not Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:41.452Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33ac3aaa70d6c3e8e733fd"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorConfirmationId": "6841a101f1a23c0012342122",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:42.460Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a33ac413ff1c0e59f061f6a"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771329607_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:49.608Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac493ff1c0e59f061f6f"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771337577_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:28:57.578Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac4e3ff1c0e59f061f74"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771342702_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:29:02.704Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac563ff1c0e59f061f79"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771350288_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:29:10.289Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ac5d3ff1c0e59f061f7e"
+  },
+  "vendorId": "761621a2-cc81-43b8-bda5-9c500725060d",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\761621a2-cc81-43b8-bda5-9c500725060d\\1781771357481_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T08:29:17.482Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ddec1c7604afbe497b2f"
+  },
+  "vendorId": "ae1c9883-5941-4989-a0ec-70d334d333a0",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_012fe067-6094-4476-ac81-66c82d69ac32",
+  "fileName": "WCM-2026-100001 -Second 1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\ae1c9883-5941-4989-a0ec-70d334d333a0\\1781784044951_WCM-2026-100001 -Second 1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T12:00:44.954Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ddf11c7604afbe497b35"
+  },
+  "vendorId": "ae1c9883-5941-4989-a0ec-70d334d333a0",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "WCM-2026-100001 - First 1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\ae1c9883-5941-4989-a0ec-70d334d333a0\\1781784049010_WCM-2026-100001 - First 1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T12:00:49.011Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33ddf41c7604afbe497b3b"
+  },
+  "vendorId": "ae1c9883-5941-4989-a0ec-70d334d333a0",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "WCM-2026-100001 -Second 1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\ae1c9883-5941-4989-a0ec-70d334d333a0\\1781784052605_WCM-2026-100001 -Second 1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-18T12:00:52.605Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a390ef31798638fb805f48e"
+  },
+  "vendorId": "785061f4-000c-45a2-ac3b-55fafa2931dd",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_c1d9ced9-38ac-42db-abf5-9cf5db7df079",
+  "fileName": "Loginuser.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\785061f4-000c-45a2-ac3b-55fafa2931dd\\1782124275402_Loginuser.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-22T10:31:15.404Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a329362badac536e8b21e"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_5dec83a6-dd24-47c0-987b-a89360a8c0f1",
+  "fileName": "NewVendor_techspec.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198931652_NewVendor_techspec.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:15:31.658Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a329662badac536e8b223"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_c9016f2f-ea8d-4b3c-b37f-65b0c8ff6b91",
+  "fileName": "NewVendor_frd.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198934323_NewVendor_frd.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:15:34.325Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a329962badac536e8b228"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_9fb83840-bc51-4013-ab8e-833f47bbc40c",
+  "fileName": "LoginUser_frd.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198937237_LoginUser_frd.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:15:37.238Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a329e62badac536e8b22d"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "VendorRequest-frd.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198942421_VendorRequest-frd.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:15:42.422Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32a262badac536e8b232"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "index 4.tsx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198946753_index 4.tsx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:15:46.754Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32b362badac536e8b237"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "Vendor-selection-logic-frd.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198963046_Vendor-selection-logic-frd.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:03.047Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32b562badac536e8b23c"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198965668_ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:05.671Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32b762badac536e8b241"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198967870_ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:07.873Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32bdaa70d6c3e8e73404"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "approvalStatus": "Waived",
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "__v": 0,
+  "comments": "Not Applicable to Service Category",
+  "fileBase64": "",
+  "fileName": "waive_record",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:13.331Z"
+  },
+  "uploadedBy": "admin",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "waiveReasonId": "WR001",
+  "waiveReasonName": "Not Applicable to Service Category"
+},
+{
+  "_id": {
+    "$oid": "6a3a32c1aa70d6c3e8e73405"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "approvalStatus": "Waived",
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "__v": 0,
+  "comments": "Not Applicable to Service Category",
+  "fileBase64": "",
+  "fileName": "waive_record",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:17.959Z"
+  },
+  "uploadedBy": "admin",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "waiveReasonId": "WR001",
+  "waiveReasonName": "Not Applicable to Service Category"
+},
+{
+  "_id": {
+    "$oid": "6a3a32c3aa70d6c3e8e73406"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorConfirmationId": "6841a101f1a23c0012342118",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:19.728Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a32c4aa70d6c3e8e73407"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342119",
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:20.088Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a32c4aa70d6c3e8e73408"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorConfirmationId": "6841a101f1a23c0012342120",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:20.581Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a32c5aa70d6c3e8e73409"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342121",
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:21.097Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a32c5aa70d6c3e8e7340a"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342122",
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:21.746Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a32cb62badac536e8b262"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198987546_ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:27.549Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32ce62badac536e8b267"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "claim_triage.kpi_metrics.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198990931_claim_triage.kpi_metrics.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:30.933Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32d262badac536e8b26c"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "WCM-2026-100001 -Second 1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198994700_WCM-2026-100001 -Second 1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:34.701Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32d662badac536e8b271"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "index 4.tsx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782198998541_index 4.tsx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:38.542Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32da62badac536e8b276"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "index 3.tsx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782199002479_index 3.tsx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:42.480Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a32de62badac536e8b27b"
+  },
+  "vendorId": "360bfd0e-ee8e-450f-9467-afbc97bff586",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342128",
+  "fileName": "LoginUser_frd.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\360bfd0e-ee8e-450f-9467-afbc97bff586\\1782199006688_LoginUser_frd.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T07:16:46.689Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a5835cda629641611fdbd"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_012fe067-6094-4476-ac81-66c82d69ac32",
+  "fileName": "ProfessionalLiablity.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782208565276_ProfessionalLiablity.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T09:56:05.278Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a689bcda629641611ffa1"
+  },
+  "vendorId": "1771d87a-0b2e-46aa-b207-3ffd44bf2c17",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_012fe067-6094-4476-ac81-66c82d69ac32",
+  "fileName": "Untitled.jpg",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\1771d87a-0b2e-46aa-b207-3ffd44bf2c17\\1782212763275_Untitled.jpg",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "test1@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:06:03.276Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6cd0cda629641611ffda"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "NewVendor_techspec.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213840203_NewVendor_techspec.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:00.204Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6cd4cda629641611ffe0"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "claim_triage.kpi_metrics.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213844966_claim_triage.kpi_metrics.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:04.968Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6cdacda629641611ffe6"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213850801_ChatGPT Image Jun 1, 2026, 05_43_04 PM.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:10.805Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6ce8cda629641611fff7"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "NewVendor_techspec.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213864018_NewVendor_techspec.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:24.019Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6cf5cda629641611fffd"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "claim_triage.login_user-backup.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213877667_claim_triage.login_user-backup.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:37.668Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6cfacda6296416120003"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "fileName": "claim_triage.login_user-backup.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213882359_claim_triage.login_user-backup.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:42.360Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6d00cda6296416120009"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "fileName": "PP.txt",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213888030_PP.txt",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:48.031Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6d01aa70d6c3e8e7340b"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorConfirmationId": "6841a101f1a23c0012342118",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:49.556Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a6d01aa70d6c3e8e7340c"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342119",
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:49.927Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a6d03aa70d6c3e8e7340d"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorConfirmationId": "6841a101f1a23c0012342120",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:51.525Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a6d04aa70d6c3e8e7340e"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342121",
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:52.079Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a6d04aa70d6c3e8e7340f"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorConfirmationId": "6841a101f1a23c0012342122",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "availability_status",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:52.514Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a3a6d08cda6296416120028"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "txt file.txt",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213896400_txt file.txt",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:24:56.401Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6d0ecda629641612002e"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "claim_triage.login_user.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213902956_claim_triage.login_user.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:25:02.957Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6d13cda6296416120034"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "claim_triage.login_user_access.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213907496_claim_triage.login_user_access.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:25:07.496Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6d23cda6296416120045"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "claim_triage.login_role.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213923457_claim_triage.login_role.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:25:23.458Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6d27cda629641612004b"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342128",
+  "fileName": "txt file.txt",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782213927926_txt file.txt",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "ags@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:25:27.926Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3a6d7ecda62964161200b3"
+  },
+  "vendorId": "b6f568d5-dd28-4db9-96b1-2fea26398627",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "claim_triage.login_role.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\b6f568d5-dd28-4db9-96b1-2fea26398627\\1782214014282_claim_triage.login_role.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "admin",
+  "uploadedAt": {
+    "$date": "2026-06-23T11:26:54.282Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3bbae2a5cd276bf3ee5e3b"
+  },
+  "vendorId": "e2005628-4dc5-49b7-8df2-227620237653",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_012fe067-6094-4476-ac81-66c82d69ac32",
+  "fileName": "FRD-Vendor-Selection-Logic.docx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\e2005628-4dc5-49b7-8df2-227620237653\\1782299362745_FRD-Vendor-Selection-Logic.docx",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "demo@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-24T11:09:22.747Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b15"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "role_d29831f1-b20e-43a8-bbc1-508481ed4406",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873192_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.194Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b17"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "laelia-workflow (1).mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873385_laelia-workflow (1).mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.386Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b19"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873443_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.446Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b1b"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873499_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.500Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b1d"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873564_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.570Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b1f"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "laelia-workflow (1).mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873624_laelia-workflow (1).mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.625Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b21"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873683_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.684Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b23"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873742_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.743Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b25"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873802_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.804Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b27"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873862_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.864Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b29"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873920_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.921Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a492ea2c140f0a86b2b"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540873977_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:33.978Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a3f6a4a2ea2c140f0a86b2d"
+  },
+  "vendorId": "59285662-fd7e-4459-9b21-6c266d01f7f9",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "laelia-workflow.mmd",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\59285662-fd7e-4459-9b21-6c266d01f7f9\\1782540874034_laelia-workflow.mmd",
+  "fileBase64": "",
+  "approvalStatus": "Pending",
+  "comments": "",
+  "uploadedBy": "acme@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-06-27T06:14:34.036Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccca34091cf3a7e6251e"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "approvalStatus": "Waived",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "__v": 0,
+  "comments": "Under Review",
+  "fileBase64": "",
+  "fileName": "waive_record",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:54:18.296Z"
+  },
+  "uploadedBy": "lyca@gmail.com",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "waiveReasonId": "WR002",
+  "waiveReasonName": "Under Review"
+},
+{
+  "_id": {
+    "$oid": "6a4cccce34091cf3a7e6251f"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "approvalStatus": "Waived",
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "__v": 0,
+  "comments": "Admin Override",
+  "fileBase64": "",
+  "fileName": "waive_record",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:54:22.529Z"
+  },
+  "uploadedBy": "lyca@gmail.com",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "waiveReasonId": "WR003",
+  "waiveReasonName": "Admin Override"
+},
+{
+  "_id": {
+    "$oid": "6a4ccccf34091cf3a7e62520"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorConfirmationId": "6841a101f1a23c0012342118",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:54:23.435Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a4cccd034091cf3a7e62521"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342119",
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:54:24.109Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a4cccd034091cf3a7e62522"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorConfirmationId": "6841a101f1a23c0012342120",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:54:24.775Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a4cccd134091cf3a7e62523"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorConfirmationId": "6841a101f1a23c0012342121",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:54:25.419Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a4cccd234091cf3a7e62524"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorConfirmationId": "6841a101f1a23c0012342122",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:54:26.476Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bb90"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342163",
+  "fileName": "issue.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102167_issue.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.169Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bb93"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342164",
+  "fileName": "claim_triage.login_role.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102293_claim_triage.login_role.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.294Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bb96"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342165",
+  "fileName": "ref.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102380_ref.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.382Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bb99"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342166",
+  "fileName": "ClientManagement-frd.md.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102445_ClientManagement-frd.md.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.446Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bb9c"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "ClientManagement-techspec.md.md",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102526_ClientManagement-techspec.md.md",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.528Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bb9f"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "claim_triage.vendor_confirmation_stage.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102671_claim_triage.vendor_confirmation_stage.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.671Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bba2"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "Transportation + Decision Letters.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102771_Transportation + Decision Letters.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.772Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bba5"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "LoginPage.tsx",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102855_LoginPage.tsx",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.856Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf69e84040d4742bba8"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "IME + Field Investigations.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418102951_IME + Field Investigations.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:02.952Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf79e84040d4742bbab"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "LAElia_KPI_Scoring_Tables_v2.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418103040_LAElia_KPI_Scoring_Tables_v2.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:03.041Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf79e84040d4742bbae"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "L1_Service_Category_Requirements 1.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418103135_L1_Service_Category_Requirements 1.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:03.137Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf79e84040d4742bbb1"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "L1_Service_Category_Requirements 1 (1).pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418103219_L1_Service_Category_Requirements 1 (1).pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:03.220Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf79e84040d4742bbb4"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "test.png",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418103345_test.png",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:03.346Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf79e84040d4742bbb7"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "WCM-2026-100001 - First 1.json",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418103452_WCM-2026-100001 - First 1.json",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:03.454Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a4cccf79e84040d4742bbba"
+  },
+  "vendorId": "3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342128",
+  "fileName": "Rateroutine.gs",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\3c9294fd-7baa-4b1e-be7b-f9e5d915cb5e\\1783418103571_Rateroutine.gs",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "lyca@gmail.com",
+  "uploadedAt": {
+    "$date": "2026-07-07T09:55:03.572Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a57692297b7f93e569f914c"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "approvalStatus": "Waived",
+  "vendorConfirmationId": "6841a101f1a23c0012342114",
+  "__v": 0,
+  "comments": "Under Review",
+  "fileBase64": "",
+  "fileName": "waive_record",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:04:02.479Z"
+  },
+  "uploadedBy": "",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "waiveReasonId": "WR002",
+  "waiveReasonName": "Under Review"
+},
+{
+  "_id": {
+    "$oid": "6a57692797b7f93e569f914d"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342117",
+  "approvalStatus": "Waived",
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "__v": 0,
+  "comments": "Under Review",
+  "fileBase64": "",
+  "fileName": "waive_record",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:04:07.302Z"
+  },
+  "uploadedBy": "",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "waiveReasonId": "WR002",
+  "waiveReasonName": "Under Review"
+},
+{
+  "_id": {
+    "$oid": "6a57692a97b7f93e569f914e"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342118",
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:04:10.747Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a57692b97b7f93e569f914f"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorConfirmationId": "6841a101f1a23c0012342119",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:04:11.474Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a57692c97b7f93e569f9150"
+  },
+  "vendorConfirmationId": "6841a101f1a23c0012342120",
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:04:12.852Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a57692d97b7f93e569f9151"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorConfirmationId": "6841a101f1a23c0012342121",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:04:13.866Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a57692e97b7f93e569f9152"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorConfirmationId": "6841a101f1a23c0012342122",
+  "__v": 0,
+  "approvalStatus": "Available",
+  "comments": "",
+  "fileBase64": "",
+  "fileName": "",
+  "filePath": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:04:14.568Z"
+  },
+  "uploadedBy": "system",
+  "vendorStageId": "6841a101f1a23c0012342453",
+  "waiveReasonId": "",
+  "waiveReasonName": ""
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e2872b"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342129",
+  "fileName": "Access Letter.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560149_Access Letter.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.151Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e2872e"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342130",
+  "fileName": "Jurisdiction Coverage Attestation.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560277_Jurisdiction Coverage Attestation.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.277Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e28731"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342131",
+  "fileName": "Bill Review Report.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560401_Bill Review Report.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.435Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e28734"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342132",
+  "fileName": "Audit Results.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560499_Audit Results.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.501Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e28737"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342455",
+  "vendorConfirmationId": "6841a101f1a23c0012342133",
+  "fileName": "Capacity Attestation.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560558_Capacity Attestation.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.559Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e2873a"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342111",
+  "fileName": "Professional liability.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560611_Professional liability.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.612Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e2873d"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342112",
+  "fileName": "Cyber liability.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560676_Cyber liability.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.678Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e28740"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342113",
+  "fileName": "Business license.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560737_Business license.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.738Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e28743"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342115",
+  "fileName": "HIPAA.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560792_HIPAA.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.793Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e28746"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342452",
+  "vendorConfirmationId": "6841a101f1a23c0012342116",
+  "fileName": "State licensing DOC.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560860_State licensing DOC.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.861Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e28749"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342123",
+  "fileName": "Track Record.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560917_Track Record.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.919Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576998125591fca7e2874c"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342124",
+  "fileName": "Track Record-Carrier.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113560979_Track Record-Carrier.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:00.980Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576999125591fca7e2874f"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342125",
+  "fileName": "Track Record-Capacity attestation.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113561042_Track Record-Capacity attestation.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:01.043Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576999125591fca7e28752"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342126",
+  "fileName": "Track Record-Prior pilot Docs.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113561106_Track Record-Prior pilot Docs.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:01.106Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576999125591fca7e28755"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342127",
+  "fileName": "Third-party Rating.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113561165_Third-party Rating.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:01.167Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a576999125591fca7e28758"
+  },
+  "vendorId": "cfeda500-ecea-4c96-ab51-f94a00956d40",
+  "vendorStageId": "6841a101f1a23c0012342454",
+  "vendorConfirmationId": "6841a101f1a23c0012342128",
+  "fileName": "Fees  Docs.pdf",
+  "filePath": "D:\\Applications\\claimtracker.mahathiinfotech.com\\api\\Vendor_Doc_Uploads\\cfeda500-ecea-4c96-ab51-f94a00956d40\\1784113561220_Fees  Docs.pdf",
+  "fileBase64": "",
+  "approvalStatus": "Approved",
+  "comments": "",
+  "uploadedBy": "",
+  "uploadedAt": {
+    "$date": "2026-07-15T11:06:01.221Z"
+  },
+  "waiveReasonId": "",
+  "waiveReasonName": "",
+  "__v": 0
+}]
